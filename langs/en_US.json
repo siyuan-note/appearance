@@ -176,5 +176,25 @@
   "upload": "Upload image or file",
   "uploadError": "upload error",
   "uploading": "uploading...",
-  "wysiwyg": "WYSIWYG"
+  "wysiwyg": "WYSIWYG",
+  "kernel": {
+    "0": "Query notebook failed",
+    "1": "Duplicated filename",
+    "2": "List files of box [%s] and path [%s] failed: %s",
+    "3": "Read notebook [%s] file [%s] failed: %s",
+    "4": "Get notebook [%s] file [%s] meta info failed: %s",
+    "5": "Rename notebook [%s] file [%s] failed: %s",
+    "6": "Create notebook [%s] folder [%s] failed: %s",
+    "7": "Remove notebook [%s] path [%s] failed: %s",
+    "8": "Check update failed",
+    "9": "New version is available %s",
+    "10": "Is the latest version",
+    "11": "Fetch remote image failed: %s",
+    "12": "Parse failed: %s",
+    "13": "Query file failed",
+    "14": "Realtime export Markdown file [%s] failed: %s",
+    "15": "Failed to query content block",
+    "16": "Please enter the file name",
+    "17": "Please enter the folder name"
+  }
 }
