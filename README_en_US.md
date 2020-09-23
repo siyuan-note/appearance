@@ -3,6 +3,6 @@
 The appearance repo of SiYuan includes themes, icons, user guides and multi-language configuration.
 
 * guide: User guide document
-* lang: Multi-language configuration
+* langs: Multi-language configuration
 * icons: Appearance icons
 * themes: Appearance theme
