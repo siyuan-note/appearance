@@ -261,7 +261,7 @@ Rendering result:
 {: id="20200924091042-63tio8z"}
 
 > ### The title is a leaf block element
-> {: id="20200924213600-ssxe2fs"}
+> {: id="20200924214513-498jle1"}
 >
 > * List item one is a container block element
 > * List item two is also a container block element
@@ -580,9 +580,9 @@ A link reference is used where a hyperlink needs to be inserted. It consists of 
 {: id="20200924092215-aglg7p1"}
 
 ```markdown
-[Link text][link logo]
+[Link text][Label]
 
-[Link ID]: https://b3log.org
+[Label]: https://b3log.org
 ```
 {: id="20200924092215-2iay1tm"}
 
