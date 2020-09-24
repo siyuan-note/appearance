@@ -178,6 +178,7 @@
   "uploadError": "upload error",
   "uploading": "uploading...",
   "wysiwyg": "WYSIWYG",
+  "_label": "English",
   "_kernel": {
     "0": "Query notebook failed",
     "1": "Duplicated filename",

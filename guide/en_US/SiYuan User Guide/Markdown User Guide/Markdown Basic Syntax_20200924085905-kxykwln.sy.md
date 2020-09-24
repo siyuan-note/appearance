@@ -179,7 +179,7 @@ If you need to emphasize the text while bolding it, you can use three asterisks 
 | Asterisk***can be omitted*** plus space | `Asterisk<strong><em>can be omitted</em></strong>Add space` | Asterisk<strong><em>can be omitted</em ></strong>Add space |
 {: id="20200924091042-jz9pb53"}
 
-## Block Quotation
+## Block Quote
 {: id="20200924091042-1prq0qw"}
 
 To create a block quote `<blockquote>`, just add a greater than sign `>` before the paragraph.
@@ -261,7 +261,7 @@ Rendering result:
 {: id="20200924091042-63tio8z"}
 
 > ### The title is a leaf block element
-> {: id="20200924214513-498jle1"}
+> {: id="20200924222001-vq04bg4"}
 >
 > * List item one is a container block element
 > * List item two is also a container block element
