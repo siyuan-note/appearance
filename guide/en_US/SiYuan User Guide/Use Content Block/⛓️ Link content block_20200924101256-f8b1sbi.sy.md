@@ -1,4 +1,4 @@
-For ((20200813004931-q4cu8na "content block")), the most valuable way to use it is to link them through ((20200817123136-in6y5m1 "reference")) and ((20200920190726-xw7fial "embed")). A good link is directional:
+For ((20200924101106-19z4kaa "content block")), the most valuable way to use it is to link them through ((20200924101312-jj4e0v3 "reference")) and ((20200924094024-s0oyhvp "embedding")). A good link is directional:
 {: id="20200924101312-p8jwek5"}
 
 * Forwardlink, that is, which other content blocks are used in the current content block
@@ -8,8 +8,8 @@ For ((20200813004931-q4cu8na "content block")), the most valuable way to use it 
 The forward link is included in the content of the current block, which we can see intuitively. Backlinks need to be searched in other documents to know, and it is precisely this information that is more valuable to us. We can use the following two ways to help us better grasp the knowledge points or diverge ideas:
 {: id="20200924101312-dag4nyi"}
 
-* ((20200813132813-66ai5qn "Relationship Diagram")): browse forward and backward link relationships between content blocks
-* ((20200920194146-psjundj "Backlink List")): Display the backlinks of the current content block as a text list
+* ((20200924101210-zwf8ags "Graph")): browse forward and backward link relationships between content blocks
+* ((20200924101210-3qfiiat "Backlinks")): Display the backlinks of the current content block as a text list
 {: id="20200924101312-x4rxp0v"}
 
 ### Content block reference
@@ -30,4 +30,5 @@ Enter `!((` at the beginning of a new line and it will trigger the content block
 It is worth noting that the content block embedding itself is also a kind of content block, which means that we cannot use the content block embedding in the middle of a sentence, and can only embed at the beginning of a new line. The following is an example of content block embedding:
 {: id="20200924101312-hltgb9x"}
 
-!((20200812230210-72o2iol "embedded content block demo"))
+!((20200923234102-fota8wn "content block embed demo"))
+{: id="20200924125710-aqdjz28"}
