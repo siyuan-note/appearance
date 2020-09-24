@@ -30,9 +30,9 @@ In the source notes, the only important core concept is ((20200813004931-q4cu8na
 For feedback or suggestions, please go to:
 {: id="20200923234102-q7pxvv7"}
 
-* [Siyuan Notes Issues](https://github.com/siyuan-note/siyuan/issues)
-* [Siyuan Notes Discussion Area](https://ld246.com/tag/siyuan)
-* [Siyuan Notes QQ Group](https://jq.qq.com/?_wv=1027&k=brIyNm7y)
+* [SiYuan Issues](https://github.com/siyuan-note/siyuan/issues)
+* [SiYuan Discussion Area](https://ld246.com/tag/siyuan)
+* [SiYuan QQ Group](https://jq.qq.com/?_wv=1027&k=brIyNm7y)
 {: id="20200923234102-ysbri6o"}
 
 ## 🗺️ Roadmap
@@ -47,8 +47,8 @@ We will gradually support:
 * Static site generation
 {: id="20200923234102-dt9js2v"}
 
-For details, please refer to [Siyuan Notes Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please refer to [Siyuan Notes Version Change Record](https://github. com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
+For details, please refer to [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please refer to [Siyuan Notes Version Change Record](https://github. com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
 {: id="20200923234102-4py3d4r"}
 
-Siyuan Note uses a technical architecture that separates the kernel and interface. The version packaged with Electron is only a small part of our vision. In the future, we will develop Siyuan Notes based on the browser ecology, so that it has better openness. You can customize your favorite interface and functions through browser plug-ins. The future can be expected!
+SiYuan uses a technical architecture that separates the kernel and interface. The version packaged with Electron is only a small part of our vision. In the future, we will develop Siyuan Notes based on the browser ecology, so that it has better openness. You can customize your favorite interface and functions through browser plug-ins. The future can be expected!
 {: id="20200923234049-io7dr21"}
