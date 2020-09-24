@@ -1,5 +1,5 @@
-> This article mainly introduces the basic syntax of Markdown, please refer to ((20200824155346-y7ep6hk "here")) for Markdown extended syntax.
-> The concise version of the grammar can be browsed ((20200824155434-it5vq23 "Quick Reference Manual")).
+> This article mainly introduces the basic syntax of Markdown, please refer to ((20200924092619-pw51c0y "Markdown Extended Syntax")).
+> The concise version of the grammar can be browsed ((20200924095356-cips1k6 "Markdown Cheat Sheet")).
 > {: id="20200924091042-0j41250"}
 {: id="20200924091042-770q9kw"}
 
@@ -9,7 +9,7 @@
 Almost all Markdown engines support the [Basic Syntax](https://daringfireball.net/projects/markdown/syntax) designed by Markdown inventor John Gruber, but different Markdown processing engines have slightly different performance details, as follows Introduce them one by one.
 {: id="20200924091042-panvhfl"}
 
-## Title
+## Heading
 {: id="20200924091042-kq7v0s8"}
 
 To create a title, just start with the hash sign `#`, the number of hash signs corresponds to the level of the title. For example, if you want to create a `<h3>`, you can start with three `#`: `### Three-level heading `. The title syntax using hash marks is called "ATX title" in the [CommonMark Specification](https://spec.commonmark.org).
@@ -17,12 +17,12 @@ To create a title, just start with the hash sign `#`, the number of hash signs c
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| `# First-level heading ` | `<h1>First-level heading</h1>` |  <h1>First-level heading</h1> |
-| `## Level 2 heading ` | `<h2>Level 2 heading</h2>` |  <h2>Level 2 heading</h2> |
-| `### Level 3 heading ` | `<h3>Level 3 heading</h3>` |  <h3>Level 3 heading</h3> |
-| `#### Level 4 heading ` | `<h4>Level 4 heading</h4>` |  <h4>Level 4 heading</h4> |
-| `###### Level 5 heading ` | `<h5>Level 5 heading</h5>` |  <h5>Level 5 heading</h5> |
-| `####### Level 6 heading ` | `<h6>Level 6 heading</h6>` |  <h6>Level 6 heading</h6> |
+| `# First-level heading ` | `<h1>First-level heading</h1>` | h <h1>First-level heading</h1> |
+| `## Level 2 heading ` | `<h2>Level 2 heading</h2>` | h <h2>Level 2 heading</h2> |
+| `### Level 3 heading ` | `<h3>Level 3 heading</h3>` | h <h3>Level 3 heading</h3> |
+| `#### Level 4 heading ` | `<h4>Level 4 heading</h4>` | h <h4>Level 4 heading</h4> |
+| `###### Level 5 heading ` | `<h5>Level 5 heading</h5>` | h <h5>Level 5 heading</h5> |
+| `####### Level 6 heading ` | `<h6>Level 6 heading</h6>` | h <h6>Level 6 heading</h6> |
 {: id="20200924091042-bk9cuv2"}
 
 ### Title optional syntax
@@ -33,8 +33,8 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| First-level heading<br>====== | `<h1>First-level heading</h1>` |  <h1>First-level heading</h1> |
-| Secondary Title<br>------------ | `<h2>Secondary Title</h2>` |  <h2>Secondary Title</h2> |
+| First-level heading<br>====== | `<h1>First-level heading</h1>` | h <h1>First-level heading</h1> |
+| Secondary Title<br>------------ | `<h2>Secondary Title</h2>` | h <h2>Secondary Title</h2> |
 {: id="20200924091042-3av0mkj"}
 
 ### Title Best Practices
@@ -66,7 +66,15 @@ Use blank lines to separate text.
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| I love using Markdown.<br /><br />I will use Markdown to typeset all my documents. | `<p>I like to use Markdown. `<br>`<p>I will use Markdown to typeset all my documents. </p>` | <p>I like to use Markdown. <p>I will use Markdown to typeset all my documents. </p> |
+| I love using Markdown.<br /><br />I will use Markdown to typeset all my documents. | `<p>I like to use Markdown. `<br>`<p>I will use Markdown to typeset all my documents. </p>` | <p>I like to use Markdown. |
+{: id="20200924213025-0wcrrr6"}
+
+<p>I will use Markdown to typeset all my documents.
+
+{: id="20200924213025-q4nzu8p"}
+
+</p> |
+
 {: id="20200924091042-f0mn2ud"}
 
 ### Paragraph best practices
@@ -253,7 +261,7 @@ Rendering result:
 {: id="20200924091042-63tio8z"}
 
 > ### The title is a leaf block element
-> {: id="20200924091728-11z1yaz"}
+> {: id="20200924214513-498jle1"}
 >
 > * List item one is a container block element
 > * List item two is also a container block element
@@ -483,8 +491,6 @@ Rendering result:
 
 ---
 
-
-
 ## Hyperlink
 {: id="20200924092215-9pndcwq"}
 
@@ -574,9 +580,9 @@ A link reference is used where a hyperlink needs to be inserted. It consists of 
 {: id="20200924092215-aglg7p1"}
 
 ```markdown
-[Link text][link logo]
+[Link text][Label]
 
-[Link ID]: https://b3log.org
+[Label]: https://b3log.org
 ```
 {: id="20200924092215-2iay1tm"}
 
@@ -769,7 +775,5 @@ With the improvement of the CommonMark/GFM specification and gradually becoming 
 * [Markdown Guide](https://www.markdownguide.org)
 * [CommonMark Spec](https://spec.commonmark.org)
 {: id="20200924092215-w8nzlj4"}
-
-{: id="20200924092215-oncmjr4"}
 
 [Link ID]: https://b3log.org
