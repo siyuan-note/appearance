@@ -177,7 +177,7 @@
   "uploadError": "upload error",
   "uploading": "uploading...",
   "wysiwyg": "WYSIWYG",
-  "kernel": {
+  "_kernel": {
     "0": "Query notebook failed",
     "1": "Duplicated filename",
     "2": "List files of box [%s] and path [%s] failed: %s",
