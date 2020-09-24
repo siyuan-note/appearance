@@ -197,6 +197,7 @@
     "15": "Failed to query content block",
     "16": "Please enter the file name",
     "17": "Please enter the folder name",
-    "18": "Get community user account failed"
+    "18": "Get community user account failed",
+    "19": "User information has expired, please log in again"
   }
 }
