@@ -16,10 +16,10 @@ In Markdown typesetting, paragraphs are separated by blank lines. This also coin
 In actual use, it is not enough to rely on paragraph typesetting. It is often necessary to use Heading, List, Table, Blockquote, etc. to enrich our typesetting. These typographic styles are not only visually different, but more importantly, they express the semantics of the content to a certain extent. For example, when we see an unordered list, we can know that each list item is in an indiscriminate level relationship, while when we see an ordered list, the opposite is true.
 {: id="20200924101116-tmodilt"}
 
-Therefore, there are content blocks ((20200905090211-2vixtlf "many types")), and different types of content blocks are defined by Markdown syntax. In other words, when users use Markdown, content blocks are formed **naturally**.
+Therefore, there are many content blocks ((20200924101225-k254i8g "types")), and different types of content blocks are defined by Markdown syntax. In other words, when users use Markdown, content blocks are formed **naturally**.
 {: id="20200924101116-cfc43jt"}
 
-## Combined content block
+## Combined content blocks
 {: id="20200924101116-boa4n7d"}
 
 A document is a combination of some content blocks, and the content block is the basic unit. This is like Lego bricks, which can be combined using different basic modules. It is worth noting that the document itself is also a kind of content block. More precisely, the three content blocks of document block, list block, and block reference block are container blocks, and they can contain any other types of content blocks.

@@ -40,7 +40,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Wrong input | <kbd>Backspace</kbd> |   |
 {: id="20200924101004-5jpeool"}
 
-### Content block quotes <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>((</kbd> / <kbd>[[</kbd>
+### Content block reference <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>((</kbd> / <kbd>[[</kbd>
 {: id="20200924101004-t6s8jzd"}
 
 | Name | Shortcut key | Remarks |
@@ -50,7 +50,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Jump out of content block quote | <kbd>Tab</kbd> | Only useful in text content |
 {: id="20200924101004-51actx7"}
 
-### Title <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>
+### Heading <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>
 {: id="20200924101004-xttwe38"}
 
 | Name | Shortcut key |
@@ -123,11 +123,8 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Move the cursor to the next element | <kbd>Tab</kbd> |
 {: id="20200924101004-iv0a25b"}
 
-## SiYuan shortcuts
+## Application shortcuts
 {: id="20200924101004-wbaxrik"}
-
-Application layer shortcut keys are not yet supported, and will be gradually improved in the future 🙏
-{: id="20200924101004-o5bw3z4"}
 
 ### General
 {: id="20200924101004-01pw8q6"}
