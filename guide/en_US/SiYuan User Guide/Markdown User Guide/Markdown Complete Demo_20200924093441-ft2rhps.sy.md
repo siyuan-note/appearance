@@ -11,22 +11,24 @@ This is an example of how to correctly use **Markdown** typesetting. It is neces
 ## Grammar guide
 {: id="20200924094024-p7y8ufo"}
 
-### Content block quote
+### Content block reference
 {: id="20200924094024-lboyuty"}
 
-`((20200817123136-in6y5m1 "Content block quote"))`
-{: id="20200924094024-5eqwo99"}
+`((20200924101312-jj4e0v3 "Content block reference"))`
+{: id="20200924212626-ua83wse"}
 
-((20200817123136-in6y5m1 "Content block quote"))
+((20200924101312-jj4e0v3 "Content block reference"))
 {: id="20200924094024-hvlcrvt"}
 
 ### Content block embedding
 {: id="20200924094024-s0oyhvp"}
 
-`!((20200817123136-in6y5m1 "Content block embedding"))`
+`!((20200924101312-385dey5 "Content block embedding"))​`
 {: id="20200924094024-kwo2mbm"}
 
-!((20200920190726-xw7fial "Content Block Embedded"))
+!((20200924101312-385dey5 "Content block embedding"))
+{: id="20200924212640-bvx8qbj"}
+
 ### General content
 {: id="20200924094024-ac7p9zy"}
 
@@ -418,5 +420,5 @@ digraph finite_state_machine {
 ## Shortcuts
 {: id="20200924094024-2cnw1gq"}
 
-Our editor supports many shortcut keys, please refer to ((20200813004551-gm0pbn1 "Editor and Shortcut Keys")) for details.
+Our editor supports many shortcut keys, please refer to ((20200924100950-9op5xi1 "Editor and shortcuts")) for details.
 {: id="20200924094024-hrypk1t"}

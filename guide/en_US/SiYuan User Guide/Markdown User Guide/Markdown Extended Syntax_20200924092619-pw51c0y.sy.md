@@ -1,5 +1,5 @@
-> This article mainly introduces the extended syntax of Markdown, please refer to the basic syntax of Markdown ((20200824155152-to2u79e "here")).
-> The concise version of the grammar can be browsed ((20200824155434-it5vq23 "Quick Reference Manual")).
+> This article mainly introduces the extended syntax of Markdown, please refer to ((20200924085905-kxykwln "Markdown Basic Syntax")).
+> The concise version of the grammar can be browsed ((20200924095356-cips1k6 "Markdown Cheat Sheet")).
 > {: id="20200924093226-mj73gxz"}
 {: id="20200924093226-yz1558l"}
 
@@ -238,7 +238,7 @@ You can link to the title in the text through the hyperlink syntax.
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| `[Heading Designation ID](#heading-ids)` | `<a href="#heading-ids">Heading Designation ID</a>` | [Heading Designation ID](https://ld246.com/ article/1583305480675#heading-ids) |
+| `[Heading Designation ID](#heading-ids)` | `<a href="#heading-ids">Heading Designation ID</a>` | [Heading Designation ID]([https://ld246.com/](https://ld246.com/) article/1583305480675#heading-ids) |
 {: id="20200924093226-wd3wfhr"}
 
 If you need to link to the title of another page, you need to write the full link path, such as `[title designation ID](https://ld246.com/article/1583305480675#heading-ids)`.

@@ -1,10 +1,10 @@
 ## Overview
 {: id="20200924095627-owmol6r"}
 
-This article only lists the most commonly used Markdown syntax. For details that are not covered, please refer to ((20200824155152-to2u79e "Basic syntax")) and ((20200824155346-y7ep6hk "Extended syntax")).
+This article only lists the most commonly used Markdown syntax. For details that are not covered, please refer to ((20200924085905-kxykwln "Basic Syntax")) and ((20200924092619-pw51c0y "Extended Syntax")).
 {: id="20200924095627-hydiq6l"}
 
-## Basic syntax
+## Basic Syntax
 {: id="20200924095627-x1o4m3r"}
 
 The following element syntax is supported by all Markdown engines and can be used with confidence.
@@ -24,7 +24,7 @@ The following element syntax is supported by all Markdown engines and can be use
 | [Picture](https://ld246.com/article/1583129520165#%E5%9B%BE%E7%89%87) | `![B3log Logo](https://static.b3log.org/images/ brand/b3log-128.png)` |
 {: id="20200924095627-af7nnpe"}
 
-## Extended syntax
+## Extended Syntax
 {: id="20200924095625-ggf4jnp"}
 
 The following element syntax is not supported by all Markdown engines, please confirm before using.
@@ -50,5 +50,3 @@ form:
 | Paragraph | Text |
 ```
 {: id="20200924095627-82cg5wj"}
-
-{: id="20200924095623-wwi085q"}
