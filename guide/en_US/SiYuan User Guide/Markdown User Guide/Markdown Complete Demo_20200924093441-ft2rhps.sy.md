@@ -415,7 +415,7 @@ digraph finite_state_machine {
 ```
 {: id="20200924094024-qsyx5t1"}
 
-## hot key
+## Hotkey
 {: id="20200924094024-2cnw1gq"}
 
 Our editor supports many shortcut keys, please refer to ((20200813004551-gm0pbn1 "Editor and Shortcut Keys")) for details.
