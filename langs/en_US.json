@@ -195,6 +195,7 @@
     "14": "Realtime export Markdown file [%s] failed: %s",
     "15": "Failed to query content block",
     "16": "Please enter the file name",
-    "17": "Please enter the folder name"
+    "17": "Please enter the folder name",
+    "18": "Get community user account failed"
   }
 }
