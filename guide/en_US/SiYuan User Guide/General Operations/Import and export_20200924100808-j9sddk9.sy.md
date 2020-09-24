@@ -1,10 +1,10 @@
 ## Import
 {: id="20200924100824-gcaa206"}
 
-When we open the local folder or connect to WebDAV, Siyuan Note will convert the Markdown file (`.md`) in the path into a `.sy.md` file to complete the import.
+When we open the local folder or connect to WebDAV, SiYuan will convert the Markdown file (`.md`) in the path into a `.sy.md` file to complete the import.
 {: id="20200924100824-2mh5w45"}
 
-When importing, Siyuan Note will automatically process the `[[link|text]]` in the original Markdown text and convert them into content block quotes. After the import is complete, Siyuan Note will not write the original Markdown file, and all new editing operations will be saved in the `.sy.md` file.
+When importing, SiYuan will automatically process the `[[link|text]]` in the original Markdown text and convert them into content block quotes. After the import is complete, SiYuan will not write the original Markdown file, and all new editing operations will be saved in the `.sy.md` file.
 {: id="20200924100824-vrdwqi6"}
 
 `.sy.md` is an extended syntax of Markdown. For details, please see ((20200822124602-wx0kvpc "Storage Format")).

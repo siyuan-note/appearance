@@ -1,7 +1,7 @@
 ## Vditor editor
 {: id="20200924101004-lcuaajy"}
 
-The editor component of Siyuan Note is called "Vditor", which is a browser-side Markdown editor and an open source project designed and developed by us. It can be found at [here](https://github.com/Vanessa219/vditor) Find its code. Based on Vditor, we developed the editor mode currently used in Siyuan Notes, and we will continue to improve it in the future to bring you a more modern Markdown editing experience.
+The editor component of SiYuan is called "Vditor", which is a browser-side Markdown editor and an open source project designed and developed by us. It can be found at [here](https://github.com/Vanessa219/vditor) Find its code. Based on Vditor, we developed the editor mode currently used in SiYuan, and we will continue to improve it in the future to bring you a more modern Markdown editing experience.
 {: id="20200924101004-1mn695u"}
 
 ## Editor shortcuts
@@ -123,7 +123,7 @@ The editor component of Siyuan Note is called "Vditor", which is a browser-side 
 | Move the cursor to the next element | <kbd>Tab</kbd> |
 {: id="20200924101004-iv0a25b"}
 
-## Siyuan note shortcuts
+## SiYuan shortcuts
 {: id="20200924101004-wbaxrik"}
 
 Application layer shortcut keys are not yet supported, and will be gradually improved in the future 🙏

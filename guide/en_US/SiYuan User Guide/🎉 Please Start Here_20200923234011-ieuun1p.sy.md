@@ -19,9 +19,9 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
 ## ❓ FAQ
 {: id="20200923234102-pb5gfts"}
 
-* ((20200813093015-u6bopdt "Frequently Asked Questions and Answers"))
-* ((20200813163359-v04n73b "Privacy Policy"))
-* ((20200822105834-rs7lzzm "origin"))
+* ((20200923234731-h3zkwm2 "FAQs"))
+* ((20200923234602-gy54e67 "Privacy policy"))
+* ((20200924095830-rdxxx8n "Origin"))
 {: id="20200923234102-cbul32m"}
 
 ## 🏘️ Community
@@ -47,8 +47,8 @@ We will gradually support:
 * Static site generation
 {: id="20200923234102-dt9js2v"}
 
-For details, please refer to [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please refer to [Siyuan Notes Version Change Record](https://github. com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
+For details, please refer to [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please refer to [SiYuan Changelogs](https://github. com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
 {: id="20200923234102-4py3d4r"}
 
-SiYuan uses a technical architecture that separates the kernel and interface. The version packaged with Electron is only a small part of our vision. In the future, we will develop Siyuan Notes based on the browser ecology, so that it has better openness. You can customize your favorite interface and functions through browser plug-ins. The future can be expected!
+SiYuan uses a technical architecture that separates the kernel and interface. The version packaged with Electron is only a small part of our vision. In the future, we will develop SiYuan based on the browser ecology, so that it has better openness. You can customize your favorite interface and functions through browser plug-ins. The future can be expected!
 {: id="20200923234049-io7dr21"}
