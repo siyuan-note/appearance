@@ -253,41 +253,41 @@ The formula $a^2 + b^2 = \color{red}c^2$ is inline.
 {: id="20200924093558-waooqpg"}
 
 ```mindmap
--Tutorial
--Grammar guidance
-  -General content
-  -Mention users
-  -Emoji
-    -Some emoji examples
-  -Heading-Heading 3
-    -Heading 4
-      -Heading 5
-        -Heading 6
-  -Picture
-  -Code block
-    -Normal
-    -Syntax highlighting support
-      -Demonstrate Go code highlighting
-      -Demo Java highlighting
-  -Ordered, disordered, task list
-    -Unordered list
-    -Ordered list
+- Tutorial
+- Grammar guidance
+  - General content
+  - Mention users
+  - Emoji
+    - Some emoji examples
+  - Heading-Heading 3
+    - Heading 4
+      - Heading 5
+        - Heading 6
+  - Picture
+  - Code block
+    - Normal
+    - Syntax highlighting support
+      - Demonstrate Go code highlighting
+      - Demo Java highlighting
+  - Ordered, disordered, task list
+    - Unordered list
+    - Ordered list
     - task list
-  -Form
-  -Hide details
-  -Paragraph
-  -Link reference
+  - Form
+  - Hide details
+  - Paragraph
+  - Link reference
   - Mathematical formula
-  -Mind Map
-  -Flow chart
-  -Timing diagram
+  - Mind Map
+  - Flow chart
+  - Timing diagram
   - Gantt chart
-  -Chart
-  -Staff
-  -Graphviz
-  -Multimedia
-  -Footnote
-- hot key
+  - Chart
+  - Staff
+  - Graphviz
+  - Multimedia
+  - Footnote
+  - Shortcuts
 ```
 {: id="20200924094024-dgq81gr"}
 
@@ -420,5 +420,3 @@ digraph finite_state_machine {
 
 Our editor supports many shortcut keys, please refer to ((20200813004551-gm0pbn1 "Editor and Shortcut Keys")) for details.
 {: id="20200924094024-hrypk1t"}
-
-{: id="20200924101021-xz8n52b"}
