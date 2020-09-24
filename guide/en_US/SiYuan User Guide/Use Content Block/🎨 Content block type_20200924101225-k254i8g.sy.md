@@ -1,7 +1,7 @@
-Hover the mouse over the content block and the corresponding icon will appear on the left side of the content block. For layout usage, please refer to ((20200825162036-4dx365o "Markdown complete example")).
+Hover the mouse over the content block and the corresponding icon will appear on the left side of the content block. For syntax usage, please refer to ((20200924093441-ft2rhps "Markdown Complete Demo")).
 {: id="20200924101242-qo0msk0"}
 
-| Logo | Type |
+| Icon | Type |
 | - | - |
 | ![paragraph](assets/paragraph.svg) | Paragraph block |
 | ![heading](assets/heading.svg) | Title block |

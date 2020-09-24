@@ -28,6 +28,6 @@ The backlink list is document-level, showing where the content block in the curr
 
 * Clicking on the reference block in the backlink list will highlight the definition block in the current document
 * The defined block in the current document where the cursor is located will highlight the quoted block in the backlink list (if there is a reference)
-* Hover the mouse over the logo in front of the reference block in the backlink list to preview the content
+* Hover the mouse over the icon in front of the reference block in the backlink list to preview the content
 * Double-click the reference block in the backlink list to jump
 {: id="20200924125314-vui7023"}
