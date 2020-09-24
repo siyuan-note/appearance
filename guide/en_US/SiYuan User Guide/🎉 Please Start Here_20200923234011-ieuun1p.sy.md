@@ -4,16 +4,16 @@ Welcome here, please allow me to make a brief introduction to SiYuan 😅
 ## 🧱 Content block
 {: id="20200923234102-fota8wn"}
 
-In the source notes, the only important core concept is ((20200813004931-q4cu8na "content block")). We can use **natural** ((20200824155152-to2u79e "Markdown syntax")) to define content blocks, organize thoughts and knowledge in the granularity of content blocks, and also facilitate long text layout output.
+In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content Block")). We can use **natural** ((20200924085905-kxykwln "Markdown Syntax")) to define content blocks, organize thoughts and knowledge in the granularity of content blocks, and also facilitate long text layout output.
 {: id="20200923234102-ghdyu1m"}
 
 ## 🔮 Quick start
 {: id="20200923234102-kw69o8c"}
 
 1. Open a local folder or connect to WebDAV
-2. Use `((` to trigger the content block ((20200817123136-in6y5m1 "quote"))
-3. ((20200813131152-0wk5akh "Running in the content block"))
-4. ((20200822191536-rm6hwid "Window and Tab"))
+2. Use `((` to trigger the content block ((20200924101312-jj4e0v3 "reference"))
+3. ((20200924101200-gss5vee "Navigate in the content block"))
+4. ((20200924100906-0u4zfq3 "Window and tab"))
 {: id="20200923234102-8qqu3yn"}
 
 ## ❓ FAQ

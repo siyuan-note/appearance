@@ -12,7 +12,7 @@ The forward link is included in the content of the current block, which we can s
 * ((20200920194146-psjundj "Backlink List")): Display the backlinks of the current content block as a text list
 {: id="20200924101312-x4rxp0v"}
 
-### Content block quote
+### Content block reference
 {: id="20200924101312-jj4e0v3"}
 
 Entering `((` will trigger the content block quotation search, continue to enter as the search keyword, use the up and down keys to select in the search results and press Enter to complete the content block quotation.
