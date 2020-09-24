@@ -1,4 +1,11 @@
 {
+  "twoFactorCaptcha":"Two-factor authentication captcha",
+  "captcha": "Captcha",
+  "register": "Create New Account",
+  "login":"Login",
+  "accountTip":"By continuing, you agree to the <a href='https://ld246.com/article/1580714706243'>User Service Agreement and Privacy Terms</a>",
+  "forgetPassword":"Forget Password",
+  "accountName": "Username/Email/Phone Number",
   "account": "Account",
   "appearance9": "Open Theme Folder",
   "appearance8": "Open Icon Folder",

@@ -1,4 +1,11 @@
 {
+  "twoFactorCaptcha":"两步验证验证码",
+  "captcha": "验证码",
+  "register": "注册新账号",
+  "login":"登录",
+  "accountTip":"继续操作表示你已同意<a href='https://ld246.com/article/1580714706243'>用户服务协议与隐私条款</a>",
+  "forgetPassword": "忘记密码",
+  "accountName": "用户名/邮箱/手机号",
   "account": "账号",
   "globalGraph": "全局关系图",
   "backlinks": "反向链接",
