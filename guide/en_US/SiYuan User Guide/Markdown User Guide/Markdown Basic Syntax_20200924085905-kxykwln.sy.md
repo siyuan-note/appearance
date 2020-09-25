@@ -17,12 +17,12 @@ To create a title, just start with the hash sign `#`, the number of hash signs c
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| `# First-level heading ` | `<h1>First-level heading</h1>` | h <h1>First-level heading</h1> |
-| `## Level 2 heading ` | `<h2>Level 2 heading</h2>` | h <h2>Level 2 heading</h2> |
-| `### Level 3 heading ` | `<h3>Level 3 heading</h3>` | h <h3>Level 3 heading</h3> |
-| `#### Level 4 heading ` | `<h4>Level 4 heading</h4>` | h <h4>Level 4 heading</h4> |
-| `###### Level 5 heading ` | `<h5>Level 5 heading</h5>` | h <h5>Level 5 heading</h5> |
-| `####### Level 6 heading ` | `<h6>Level 6 heading</h6>` | h <h6>Level 6 heading</h6> |
+| `# First-level heading ` | `<h1>First-level heading</h1>` |  <h1>First-level heading</h1> |
+| `## Level 2 heading ` | `<h2>Level 2 heading</h2>` |  <h2>Level 2 heading</h2> |
+| `### Level 3 heading ` | `<h3>Level 3 heading</h3>` |  <h3>Level 3 heading</h3> |
+| `#### Level 4 heading ` | `<h4>Level 4 heading</h4>` |  <h4>Level 4 heading</h4> |
+| `###### Level 5 heading ` | `<h5>Level 5 heading</h5>` |  <h5>Level 5 heading</h5> |
+| `####### Level 6 heading ` | ` <h6>Level 6 heading</h6>` |  <h6>Level 6 heading</h6> |
 {: id="20200924091042-bk9cuv2"}
 
 ### Heading optional syntax
@@ -33,8 +33,8 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| First-level heading<br>====== | `<h1>First-level heading</h1>` | h <h1>First-level heading</h1> |
-| Secondary Title<br>------------ | `<h2>Secondary Title</h2>` | h <h2>Secondary Title</h2> |
+| First-level heading<br>====== | `<h1>First-level heading</h1>` | hhh<h1>First-level heading</h1> |
+| Secondary Title<br>------------ | `<h2>Secondary Title</h2>` | hhh<h2>Secondary Title</h2> |
 {: id="20200924091042-3av0mkj"}
 
 ### Heading Best Practices
@@ -43,12 +43,16 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
 1. ATX headings between paragraphs are best separated by blank lines. Because some Markdown engines do not recognize the title syntax that lacks leading and trailing blank lines.
    {: id="20200924090101-nzirqbk"}
 
+   {: id="20200925105202-tyemk6b"}
+
    | ✅ Safe | ❌ Unsafe |
    | - | - |
    | This is a paragraph.<br /><br /># First level heading<br /><br />Another paragraph. | This is a paragraph.<br /># First level heading<br />Another paragraph |
    {: id="20200924090101-soe03ur"}
 2. **Be sure to add a space after the hash sign of the ATX heading**
    {: id="20200924090101-yyq0rog"}
+
+   {: id="20200925105202-cgt1fdi"}
 
    | ✅ Safe | ❌ Unsafe |
    | - | - |
@@ -66,16 +70,14 @@ Use blank lines to separate text.
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| I love using Markdown.<br /><br />I will use Markdown to typeset all my documents. | `<p>I like to use Markdown. `<br>`<p>I will use Markdown to typeset all my documents. </p>` | <p>I like to use Markdown. |
-{: id="20200924213025-0wcrrr6"}
+| I love using Markdown.<br /><br />I will use Markdown to typeset all my documents. | `<p>I like to use Markdown. `<br>`<p>I will use Markdown to typeset all my documents. </p>` | I like to use Markdown.
+{: id="20200925105055-kwxoy3w"}
 
-<p>I will use Markdown to typeset all my documents.
+I will use Markdown to typeset all my documents.
+{: id="20200925104922-kpaovq4"}
 
-{: id="20200924213025-q4nzu8p"}
-
-</p> |
-
-{: id="20200924091042-f0mn2ud"}
+ |
+{: id="20200925104443-yzoi2kk"}
 
 ### Paragraph best practices
 {: id="20200924090236-yo3e36z"}
@@ -83,10 +85,22 @@ Use blank lines to separate text.
 1. Do not use spaces or tabs (`\t` is the Tab key) to indent the beginning of the paragraph, otherwise it may be rendered as a code block.
    {: id="20200924090224-qx8y5j4"}
 
+   {: id="20200925104922-21762a6"}
+
+   {: id="20200925105055-aatd9dv"}
+
+   {: id="20200925105202-l3qg8cj"}
+
    | ✅ Safe | ❌ Unsafe |
    | - | - |
    | Do not indent the beginning.<br><br>Just keep the left alignment like this. | The beginning indentation may be rendered as a code block. |
    {: id="20200924090224-wsyuuyh"}
+
+
+
+   {: id="20200925105202-wqvjfcc"}
+
+   {: id="20200925105055-haaq19m"}
 {: id="20200924090334-2falxhs"}
 
 2. In traditional Chinese typesetting, there is a habit of "blank two spaces" at the beginning of a paragraph. You can use full-width spaces `　` or HTML entities `&emsp;`. It is recommended not to leave two spaces in the layout of articles in the field of science and technology.
@@ -261,7 +275,7 @@ Rendering result:
 {: id="20200924091042-63tio8z"}
 
 > ### The heading is a leaf block element
-> {: id="20200925104143-e6worhr"}
+> {: id="20200925104907-r59oi1c"}
 >
 > * List item one is a container block element
 > * List item two is also a container block element
