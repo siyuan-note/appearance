@@ -17,15 +17,15 @@ To create a title, just start with the hash sign `#`, the number of hash signs c
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| `# First-level heading ` | `<h1>First-level heading</h1>` | h <h1>First-level heading</h1> |
-| `## Level 2 heading ` | `<h2>Level 2 heading</h2>` | h <h2>Level 2 heading</h2> |
-| `### Level 3 heading ` | `<h3>Level 3 heading</h3>` | h <h3>Level 3 heading</h3> |
-| `#### Level 4 heading ` | `<h4>Level 4 heading</h4>` | h <h4>Level 4 heading</h4> |
-| `###### Level 5 heading ` | `<h5>Level 5 heading</h5>` | h <h5>Level 5 heading</h5> |
-| `####### Level 6 heading ` | `<h6>Level 6 heading</h6>` | h <h6>Level 6 heading</h6> |
+| `# Level 1 heading ` | `<h1>First-level heading</h1>` |  <h1>First-level heading</h1> |
+| `## Level 2 heading ` | `<h2>Level 2 heading</h2>` |  <h2>Level 2 heading</h2> |
+| `### Level 3 heading ` | `<h3>Level 3 heading</h3>` |  <h3>Level 3 heading</h3> |
+| `#### Level 4 heading ` | `<h4>Level 4 heading</h4>` |  <h4>Level 4 heading</h4> |
+| `###### Level 5 heading ` | `<h5>Level 5 heading</h5>` |  <h5>Level 5 heading</h5> |
+| `####### Level 6 heading ` | ` <h6>Level 6 heading</h6>` |  <h6>Level 6 heading</h6> |
 {: id="20200924091042-bk9cuv2"}
 
-### Title optional syntax
+### Heading optional syntax
 {: id="20200924090103-urqcxz4"}
 
 In addition to using ATX headings, we can also use Setext headings: in the next line of the text, use one or more equal signs `=` to indicate the first-level heading, and one or more dashes `-` to indicate the second-level heading.
@@ -33,11 +33,11 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| First-level heading<br>====== | `<h1>First-level heading</h1>` | h <h1>First-level heading</h1> |
-| Secondary Title<br>------------ | `<h2>Secondary Title</h2>` | h <h2>Secondary Title</h2> |
+| First-level heading<br>====== | `<h1>First-level heading</h1>` | hhh <h1>First-level heading</h1> |
+| Secondary Title<br>------------ | `<h2>Secondary Title</h2>` | hhh <h2>Secondary Title</h2> |
 {: id="20200924091042-3av0mkj"}
 
-### Title Best Practices
+### Heading Best Practices
 {: id="20200924091042-cvxjan2"}
 
 1. ATX headings between paragraphs are best separated by blank lines. Because some Markdown engines do not recognize the title syntax that lacks leading and trailing blank lines.
@@ -47,7 +47,7 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
    | - | - |
    | This is a paragraph.<br /><br /># First level heading<br /><br />Another paragraph. | This is a paragraph.<br /># First level heading<br />Another paragraph |
    {: id="20200924090101-soe03ur"}
-2. **Be sure to add a space after the hash sign of the ATX title**
+2. **Be sure to add a space after the hash sign of the ATX heading**
    {: id="20200924090101-yyq0rog"}
 
    | ✅ Safe | ❌ Unsafe |
@@ -66,16 +66,8 @@ Use blank lines to separate text.
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| I love using Markdown.<br /><br />I will use Markdown to typeset all my documents. | `<p>I like to use Markdown. `<br>`<p>I will use Markdown to typeset all my documents. </p>` | <p>I like to use Markdown. |
-{: id="20200924213025-0wcrrr6"}
-
-<p>I will use Markdown to typeset all my documents.
-
-{: id="20200924213025-q4nzu8p"}
-
-</p> |
-
-{: id="20200924091042-f0mn2ud"}
+| I love using Markdown.<br /><br />I will use Markdown to typeset all my documents. | `<p>I like to use Markdown. `<br>`<p>I will use Markdown to typeset all my documents. </p>` | <p>I like to use Markdown.</p><p>I will use Markdown to typeset all my documents.</p> |
+{: id="20200925105055-kwxoy3w"}
 
 ### Paragraph best practices
 {: id="20200924090236-yo3e36z"}
@@ -173,9 +165,9 @@ If you need to emphasize the text while bolding it, you can use three asterisks 
 | Markdown | HTML | Rendering results |
 | - | - | - |
 | Example of***bolding and emphasizing*** at the same time | `Example of <strong><em>bolding and emphasizing at the same time</em></strong>` | At the same time<strong><em>bolding and emphasizing </em></strong> Examples |
-| Example of bolding and emphasizing ___ at the same time | `Example of <strong><em>bolding and emphasizing at the same time</em></strong> at the same time` | <strong><em>Bolding and emphasizing at the same time< /em></strong> example |
-| At the same time__*Bold and emphasized*__ example | `At the same time <strong><em>Bold and emphasized</em></strong> example` | At the same time<strong><em>Bold and emphasized< /em></strong> example |
-| At the same time**_Bold and emphasized_** example | `At the same time <strong><em>Bold and emphasized</em></strong> example` | At the same time<strong><em>Bold and emphasized </em></strong> Examples |
+| Example of bolding and emphasizing ___ at the same time | `Example of <strong><em>bolding and emphasizing at the same time</em></strong> at the same time` | <strong><em>Bolding and emphasizing at the same time</em></strong> example |
+| At the same time__*Bold and emphasized*__ example | `At the same time <strong><em>Bold and emphasized</em></strong> example` | At the same time<strong><em>Bold and emphasized</em></strong> example |
+| At the same time**_Bold and emphasized_** example | `At the same time <strong><em>Bold and emphasized</em></strong> example` | At the same time<strong><em>Bold and emphasized</em></strong> Examples |
 | Asterisk***can be omitted*** plus space | `Asterisk<strong><em>can be omitted</em></strong>Add space` | Asterisk<strong><em>can be omitted</em ></strong>Add space |
 {: id="20200924091042-jz9pb53"}
 
@@ -248,7 +240,7 @@ Block quotes can contain most other syntax elements. The CommonMark specificatio
 {: id="20200924091042-r59e1lt"}
 
 ```markdown
-> ### The title is a leaf block element
+> ### The heading is a leaf block element
 >
 > * List item one is a container block element
 > * List item two is also a container block element
@@ -260,8 +252,8 @@ Block quotes can contain most other syntax elements. The CommonMark specificatio
 Rendering result:
 {: id="20200924091042-63tio8z"}
 
-> ### The title is a leaf block element
-> {: id="20200924222001-vq04bg4"}
+> ### The heading is a leaf block element
+> {: id="20200925105404-qupomot"}
 >
 > * List item one is a container block element
 > * List item two is also a container block element
@@ -473,7 +465,7 @@ Rendering result:
 ````
 {: id="20200924091042-1ht4p64"}
 
-## Separator
+## Thematic breaks
 {: id="20200924091042-rac4qvd"}
 
 Create a dividing line with three or more asterisks `***`, dashes `---`, or underscores `___`.

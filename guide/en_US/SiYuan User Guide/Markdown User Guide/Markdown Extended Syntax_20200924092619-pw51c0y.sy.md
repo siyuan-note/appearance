@@ -100,7 +100,7 @@ Rendering result:
 ### Table content layout
 {: id="20200924093226-t20l6gd"}
 
-The content in the table can also be typeset, such as bolding, emphasizing text, inserting hyperlinks, etc. However, it is limited to the use of "line-level elements" for typesetting, and "block-level elements" cannot be used, such as titles, block quotes, lists, dividers, etc.
+The content in the table can also be typeset, such as bolding, emphasizing text, inserting hyperlinks, etc. However, it is limited to the use of "span-level elements" for typesetting, and "block-level elements" cannot be used, such as headings, block quotes, lists, dividers, etc.
 {: id="20200924093226-5ouu9cj"}
 
 ### Table content escape vertical bar
@@ -230,7 +230,7 @@ Rendered HTML:
 ```
 {: id="20200924093226-d3wahe5"}
 
-### Link to the specified title
+### Link to the specified heading
 {: id="20200924093226-3df5hxf"}
 
 You can link to the title in the text through the hyperlink syntax.
@@ -238,7 +238,7 @@ You can link to the title in the text through the hyperlink syntax.
 
 | Markdown | HTML | Rendering results |
 | - | - | - |
-| `[Heading Designation ID](#heading-ids)` | `<a href="#heading-ids">Heading Designation ID</a>` | [Heading Designation ID]([https://ld246.com/](https://ld246.com/) article/1583305480675#heading-ids) |
+| `[Heading Designation ID](#heading-ids)` | `<a href="#heading-ids">Heading Designation ID</a>` | [Heading Designation ID](%5Bhttps://ld246.com/%5D(https://ld246.com/)) article/1583305480675#heading-ids) |
 {: id="20200924093226-wd3wfhr"}
 
 If you need to link to the title of another page, you need to write the full link path, such as `[title designation ID](https://ld246.com/article/1583305480675#heading-ids)`.

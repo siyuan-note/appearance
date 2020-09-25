@@ -55,24 +55,15 @@ Support most standard emoticons, you can use the input method to input directly 
 :smile: :laughing: :dizzy_face: :sob: :cold_sweat: :sweat_smile: :cry: :triumph: :heart_eyes: :relieved::+1: :-1: :100: :clap: :bell: :gift: :question: :bomb: :heart: :coffee: :cyclone: :bow: :kiss: :pray: :anger:
 {: id="20200924094024-6yl5wi3"}
 
-### Heading-Heading 3
-{: id="20200924094024-bc6k656"}
+### Heading
+{: id="20200925103734-dkxfu63"}
 
-You can choose to use H1 to H6, using ##(N) to start. It is recommended to use Heading 3 for the top-level heading in a post or reply, not 1 or 2, because 1 is the system site level and 2 is the post title level.
-{: id="20200924094024-ew848jr"}
+Use one `#` for the first-level heading, two `##` for the second-level heading, and so on, up to six-level headings are supported.
+{: id="20200924094024-bc6k656"}
 
 > NOTE: Don't forget # needs to have a space after it!
 > {: id="20200924094024-8zdnn2x"}
 {: id="20200924094024-m7yc3db"}
-
-#### Heading 4
-{: id="20200924094024-utp5uw0"}
-
-##### Heading 5
-{: id="20200924094024-dd4cpoh"}
-
-###### Heading 6
-{: id="20200924094024-m7ci3lv"}
 
 ### Pictures
 {: id="20200924094024-t9yqr2j"}
