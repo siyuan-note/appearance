@@ -25,7 +25,7 @@ To create a title, just start with the hash sign `#`, the number of hash signs c
 | `####### Level 6 heading ` | `<h6>Level 6 heading</h6>` | h <h6>Level 6 heading</h6> |
 {: id="20200924091042-bk9cuv2"}
 
-### Title optional syntax
+### Heading optional syntax
 {: id="20200924090103-urqcxz4"}
 
 In addition to using ATX headings, we can also use Setext headings: in the next line of the text, use one or more equal signs `=` to indicate the first-level heading, and one or more dashes `-` to indicate the second-level heading.
@@ -37,7 +37,7 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
 | Secondary Title<br>------------ | `<h2>Secondary Title</h2>` | h <h2>Secondary Title</h2> |
 {: id="20200924091042-3av0mkj"}
 
-### Title Best Practices
+### Heading Best Practices
 {: id="20200924091042-cvxjan2"}
 
 1. ATX headings between paragraphs are best separated by blank lines. Because some Markdown engines do not recognize the title syntax that lacks leading and trailing blank lines.
@@ -47,7 +47,7 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
    | - | - |
    | This is a paragraph.<br /><br /># First level heading<br /><br />Another paragraph. | This is a paragraph.<br /># First level heading<br />Another paragraph |
    {: id="20200924090101-soe03ur"}
-2. **Be sure to add a space after the hash sign of the ATX title**
+2. **Be sure to add a space after the hash sign of the ATX heading**
    {: id="20200924090101-yyq0rog"}
 
    | ✅ Safe | ❌ Unsafe |
@@ -248,7 +248,7 @@ Block quotes can contain most other syntax elements. The CommonMark specificatio
 {: id="20200924091042-r59e1lt"}
 
 ```markdown
-> ### The title is a leaf block element
+> ### The heading is a leaf block element
 >
 > * List item one is a container block element
 > * List item two is also a container block element
@@ -260,8 +260,8 @@ Block quotes can contain most other syntax elements. The CommonMark specificatio
 Rendering result:
 {: id="20200924091042-63tio8z"}
 
-> ### The title is a leaf block element
-> {: id="20200924222001-vq04bg4"}
+> ### The heading is a leaf block element
+> {: id="20200925104143-e6worhr"}
 >
 > * List item one is a container block element
 > * List item two is also a container block element
@@ -473,7 +473,7 @@ Rendering result:
 ````
 {: id="20200924091042-1ht4p64"}
 
-## Separator
+## Thematic breaks
 {: id="20200924091042-rac4qvd"}
 
 Create a dividing line with three or more asterisks `***`, dashes `---`, or underscores `___`.
