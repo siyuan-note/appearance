@@ -206,6 +206,7 @@
     "16": "Please enter the file name",
     "17": "Please enter the folder name",
     "18": "Get community user account failed",
-    "19": "User information has expired, please log in again"
+    "19": "User information has expired, please log in again",
+    "20": "Does not support favorite document block"
   }
 }
