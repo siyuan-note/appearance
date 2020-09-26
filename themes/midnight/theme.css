@@ -24,7 +24,7 @@
     --b3-border-color: rgba(255, 255, 255, .12);
 
     /* 滚动条 */
-    --b3-scroll-color: #7f7f7f;
+    --b3-scroll-color: rgba(230, 230, 230, .3);
 
     /* 列表 */
     --b3-list-hover: rgba(255, 255, 255, .06);
