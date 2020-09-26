@@ -1,4 +1,5 @@
 {
+  "tag":"Tag",
   "twoFactorCaptcha":"Two-factor authentication captcha",
   "captcha": "Captcha",
   "register": "Create New Account",
