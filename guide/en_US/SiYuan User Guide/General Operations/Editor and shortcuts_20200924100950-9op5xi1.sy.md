@@ -4,6 +4,26 @@
 The editor component of SiYuan is called "Vditor", which is a browser-side Markdown editor and an open source project designed and developed by us. It can be found at [here](https://github.com/Vanessa219/vditor). Based on Vditor, we developed the editor mode currently used in SiYuan, and we will continue to improve it in the future to bring you a more modern Markdown editing experience.
 {: id="20200924101004-1mn695u"}
 
+## Application shortcuts
+{: id="20200927111315-wsvrmrz"}
+
+### General
+{: id="20200927111315-0o4fnfr"}
+
+| Name | Shortcut key |
+| - | - |
+| New document | <kbd>Ctrl N</kbd> / <kbd>⌘ N</kbd> |
+| Search | <kbd>Ctrl P</kbd> / <kbd>⌘ P</kbd> |
+| Close the current tab | <kbd>Ctrl W</kbd> / <kbd>⌘ W</kbd> |
+| File Tree Tab | <kbd>Alt 1</kbd> / <kbd>⌘ 1</kbd> |
+| Linkage outline tab | <kbd>Alt 2</kbd> / <kbd>⌘ 2</kbd> |
+| Bookmark tab | <kbd>Alt 3</kbd> / <kbd>⌘ 3</kbd> |
+| Tag tab | <kbd>Alt 4</kbd> / <kbd>⌘ 4</kbd> |
+| Linkage Backlink Tab | <kbd>Alt 8</kbd> / <kbd>⌘ 8</kbd> |
+| Linkage Diagram Tab | <kbd>Alt 9</kbd> / <kbd>⌘ 9</kbd> |
+| Global Relationship Diagram Tab | <kbd>Alt 0</kbd> / <kbd>⌘ 0 |
+{: id="20200927111315-58hnxnm"}
+
 ## Editor shortcuts
 {: id="20200924101004-65dxyoo"}
 
@@ -105,12 +125,12 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Select all codes | <kbd>Ctrl A</kbd> / <kbd>⌘ A</kbd> |
 {: id="20200924101004-xxy0dix"}
 
-### Form <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>
+### Table <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>
 {: id="20200924101004-3f6xzgq"}
 
 | Name | Shortcut key |
 | - | - |
-| Insert a new line under the current line | <kbd>Ctrl +</kbd> / <kbd>⌘ +</kbd> |
+| Insert a new line under the current line | <kbd>Ctrl =</kbd> / <kbd>⌘ =</kbd> |
 | Delete line | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd> |
 | Insert a new column after the current column | <kbd>Ctrl Shift +</kbd> / <kbd>⌘ ⇧ +</kbd> |
 | Delete column | <kbd>Ctrl Shift -</kbd> / <kbd>⌘ ⇧ -</kbd> |
@@ -122,22 +142,3 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Move the cursor to the previous element | <kbd>Shift Tab</kbd> / <kbd>⇧ Tab</kbd><br /><kbd>Backspace</kbd> |
 | Move the cursor to the next element | <kbd>Tab</kbd> |
 {: id="20200924101004-iv0a25b"}
-
-## Application shortcuts
-{: id="20200924101004-wbaxrik"}
-
-### General
-{: id="20200924101004-01pw8q6"}
-
-| Name | Shortcut key |
-| - | - |
-| New document | <kbd>Ctrl N</kbd> / <kbd>⌘ N</kbd> |
-| Search | <kbd>Ctrl P</kbd> / <kbd>⌘ P</kbd> |
-| Close the current tab | <kbd>Ctrl W</kbd> / <kbd>⌘ W</kbd> |
-| File Tree Tab | <kbd>Alt 1</kbd> / <kbd>⌘ 1</kbd> |
-| Bookmark tab | <kbd>Alt 2</kbd> / <kbd>⌘ 2</kbd> |
-| Linkage outline tab | <kbd>Alt 3</kbd> / <kbd>⌘ 3</kbd> |
-| Linkage Backlink Tab | <kbd>Alt 4</kbd> / <kbd>⌘ 4</kbd> |
-| Linkage Diagram Tab | <kbd>Alt 5</kbd> / <kbd>⌘ 5</kbd> |
-| Global Relationship Diagram Tab | <kbd>Alt 6</kbd> / <kbd>⌘ 6</kbd> |
-{: id="20200924101004-0eyatdc"}
