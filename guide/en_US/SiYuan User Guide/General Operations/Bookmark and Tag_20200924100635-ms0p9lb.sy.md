@@ -10,14 +10,14 @@ Currently, only the built-in bookmark marker (✨💡️⏳) is supported to nam
 All favorite content blocks will be listed in the bookmark tab (<kbd>Alt 3</kbd> / <kbd>⌘ 3</kbd>). If you want to cancel the collection, select Delete in the drop-down menu of the content block ID.
 {: id="20200927101456-gjaxa57"}
 
-## Tags
+## Tag
 {: id="20200927101456-ztmkjcn"}
 
-The tag is used to mark the block in the content block. The syntax is to wrap the label identifier with two `#` in the first and one after the other, like this `#label#`.
+The tag is used to mark the block in the content block. The syntax is to wrap the tag identifier with two `#` in the first and one after the other, like this `#Tag#`.
 {: id="20200927101456-l6be07b"}
 
-Labels support hierarchical levels, so that content blocks can be sorted more easily. Use `/` to separate different levels, like this `#A/B/C#`.
+Tag support hierarchical levels, so that content blocks can be sorted more easily. Use `/` to separate different levels, like this `#A/B/C#`.
 {: id="20200927101456-2yk9ydf"}
 
-All tagged content blocks will be listed in the tag tab (<kbd>Alt 4</kbd> / <kbd>⌘ 4</kbd>). If you need to cancel the label, just delete the label in the content block.
+All tagged content blocks will be listed in the tag tab (<kbd>Alt 4</kbd> / <kbd>⌘ 4</kbd>). If you need to cancel the tag, just delete the tag in the content block.
 {: id="20200927101456-i7yaw3c"}
