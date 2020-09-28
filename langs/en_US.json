@@ -1,11 +1,11 @@
 {
-  "tag":"Tag",
-  "twoFactorCaptcha":"Two-factor authentication captcha",
+  "tag": "Tag",
+  "twoFactorCaptcha": "Two-factor authentication captcha",
   "captcha": "Captcha",
   "register": "Create New Account",
-  "login":"Login",
-  "accountTip":"By continuing, you agree to the<br><a href='https://ld246.com/article/1580714706243'>LianDi Community Agreement and Privacy Terms</a>",
-  "forgetPassword":"Forget Password",
+  "login": "Login",
+  "accountTip": "By continuing, you agree to the<br><a href='https://ld246.com/article/1580714706243'>LianDi Community Agreement and Privacy Terms</a>",
+  "forgetPassword": "Forget Password",
   "accountName": "Username/Email/Phone Number",
   "account": "Account",
   "appearance9": "Open Theme Folder",
@@ -211,6 +211,7 @@
     "20": "Does not support favorite document block",
     "21": "Init repo failed",
     "22": "Open repo failed",
-    "23": "Commit repo failed"
+    "23": "Commit repo failed",
+    "24": "Push repo failed"
   }
 }
