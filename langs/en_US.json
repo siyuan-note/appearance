@@ -1,4 +1,5 @@
 {
+  "resetLayout": "Restore Default Layout",
   "tag": "Tag",
   "twoFactorCaptcha": "Two-factor authentication captcha",
   "captcha": "Captcha",
