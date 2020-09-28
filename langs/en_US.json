@@ -213,6 +213,8 @@
     "22": "Open repo failed",
     "23": "Commit repo failed",
     "24": "Push repo failed",
-    "25": "Git repo worktree failed"
+    "25": "Git repo worktree failed",
+    "26": "Generate repo auth key failed",
+    "27": "Clone repo failed"
   }
 }
