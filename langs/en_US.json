@@ -208,6 +208,8 @@
     "17": "Please enter the folder name",
     "18": "Get community user account failed",
     "19": "User information has expired, please log in again",
-    "20": "Does not support favorite document block"
+    "20": "Does not support favorite document block",
+    "21": "Init repo failed",
+    "22": "Open repo failed"
   }
 }
