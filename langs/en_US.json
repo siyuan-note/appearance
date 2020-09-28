@@ -212,6 +212,7 @@
     "21": "Init repo failed",
     "22": "Open repo failed",
     "23": "Commit repo failed",
-    "24": "Push repo failed"
+    "24": "Push repo failed",
+    "25": "Git repo worktree failed"
   }
 }
