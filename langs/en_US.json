@@ -1,4 +1,6 @@
 {
+  "fileTree3": "Show assets",
+  "fileTree4": "Display resources on the file tree and can be opened internally",
   "md13": "After the editor width is greater than this value, the left and right sides remain blank",
   "maxWidth": "Max Width",
   "reset": "Reset",
