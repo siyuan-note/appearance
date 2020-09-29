@@ -1,4 +1,7 @@
 {
+  "md13": "After the editor width is greater than this value, the left and right sides remain blank",
+  "maxWidth": "Max Width",
+  "reset": "Reset",
   "siyuan": "SiYuan",
   "resetLayout": "Restore Default Layout",
   "tag": "Tag",
@@ -15,6 +18,7 @@
   "globalGraph": "Global Graph",
   "backlinks": "Backlinks",
   "editor": "Editor",
+  "appearance6": "The window layout will be restored to the initial state after reset",
   "appearance7": "Automatically switch with sunrise and sunset",
   "appearance5": "Select the mode of the user interface",
   "appearance4": "Mode",

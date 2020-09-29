@@ -1,4 +1,7 @@
 {
+  "md13": "编辑器宽度大于此值后，左右两边保持空白",
+  "maxWidth": "最大宽度",
+  "reset": "重置",
   "siyuan": "思源",
   "resetLayout": "恢复默认窗口",
   "tag": "标签",
@@ -13,6 +16,7 @@
   "globalGraph": "全局关系图",
   "backlinks": "反向链接",
   "editor": "编辑器",
+  "appearance6": "重置后窗口布局将恢复初始化状态",
   "appearance9": "打开主题文件夹",
   "appearance8": "打开图标文件夹",
   "appearance7": "随日出日落自动切换",
