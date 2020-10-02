@@ -40,8 +40,8 @@
     --b3-dialog-shadow: 0px 11px 15px -7px rgba(0, 0, 0, 0.2), 0px 24px 38px 3px rgba(0, 0, 0, 0.14), 0px 9px 46px 8px rgba(0, 0, 0, 0.12);
 
     /* diff */
-    --b3-diff-add: #294436;
-    --b3-diff-add-surface: #46745c;
+    --b3-diff-add: #133a1c;
+    --b3-diff-add-surface: #28853e;
     --b3-diff-del: #440c10;
     --b3-diff-del-surface: #b1202d;
 
