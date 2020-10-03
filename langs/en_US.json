@@ -229,11 +229,8 @@
     "18": "Get community user account failed",
     "19": "User information has expired, please log in again",
     "20": "Does not support favorite document block",
-    "21": "Init repo failed",
-    "22": "Open repo failed",
     "23": "Commit repo failed",
     "24": "Push repo failed",
-    "25": "Get repo worktree failed",
     "26": "Generate repo auth key failed",
     "27": "Clone repo failed",
     "28": "Get repo commit log failed"
