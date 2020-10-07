@@ -233,8 +233,8 @@
     "20": "Does not support favorite document block",
 
     "23": "Commit repo failed",
-    "24": "Push repo failed",
-
+    "24": "Push repo failed: %s",
+    "25": "Synchronization of notebooks containing spaces and symbol names is not supported [%s]. Please close the notebook first, rename it in the file system and open it again",
     "26": "Generate repo auth key failed",
     "27": "Clone repo failed",
     "28": "Get repo commit log failed"
