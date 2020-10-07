@@ -54,7 +54,9 @@
     --b3-vditor-mark-title-color: #808080;
     --b3-vditor-mark-em-color: #cc7832;
     --b3-vditor-mark-strong-color: #cc7832;
-    --b3-vditor-mark-s-color: #cc7832;
+    --b3-vditor-mark-backslash-color: #cc7832;
+    --b3-vditor-mark-s-color: #9aa0a6;
+    --b3-vditor-mark-mark-color: #9aa0a6;
     --b3-vditor-mark-link-color: #ffc66d;
     --b3-vditor-mark-bracket-color: #287bde;
     --b3-vditor-mark-paren-color: #6a8759;
