@@ -232,7 +232,7 @@
     "19": "User information has expired, please log in again",
     "20": "Does not support favorite document block",
     "21": "Sync completed",
-
+    "22": "Syncing, please wait...",
     "23": "Commit repo failed",
     "24": "Sync notebook [%s] failed: %s",
     "25": "Synchronization of notebooks containing spaces and symbol names is not supported [%s]. Please close the notebook first, rename it in the file system and open it again",
