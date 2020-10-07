@@ -24,7 +24,7 @@
     --b3-border-color: rgba(0, 0, 0, .12);
 
     /* 滚动条 */
-    --b3-scroll-color: rgba(0,0,0,.3);
+    --b3-scroll-color: rgba(0, 0, 0, .3);
 
     /* 列表 */
     --b3-list-hover: rgba(0, 0, 0, .06);
@@ -52,8 +52,11 @@
     /* 即时渲染标记符颜色 */
     --b3-vditor-mark-heading-color: #660e7a;
     --b3-vditor-mark-title-color: #808080;
-    --b3-vditor-mark-bi-color: #0033b3;
+    --b3-vditor-mark-em-color: #0033b3;
+    --b3-vditor-mark-strong-color: #0033b3;
+    --b3-vditor-mark-s-color: #0033b3;
     --b3-vditor-mark-link-color: #008000;
     --b3-vditor-mark-bracket-color: #0000ff;
     --b3-vditor-mark-paren-color: #008000;
+    --b3-vditor-mark-block-color: #660e7a;
 }

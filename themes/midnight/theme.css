@@ -52,8 +52,11 @@
     /* 即时渲染标记符颜色 */
     --b3-vditor-mark-heading-color: #9876aa;
     --b3-vditor-mark-title-color: #808080;
-    --b3-vditor-mark-bi-color: #cc7832;
+    --b3-vditor-mark-em-color: #cc7832;
+    --b3-vditor-mark-strong-color: #cc7832;
+    --b3-vditor-mark-s-color: #cc7832;
     --b3-vditor-mark-link-color: #ffc66d;
     --b3-vditor-mark-bracket-color: #287bde;
     --b3-vditor-mark-paren-color: #6a8759;
+    --b3-vditor-mark-block-color: #9876aa;
 }
