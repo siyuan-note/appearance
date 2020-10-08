@@ -1,4 +1,9 @@
 {
+  "cumulativePayment": "Cumulative payment",
+  "refresh": "Refresh",
+  "accountManage": "Account Manage",
+  "logout": "Logout",
+  "refreshUser": "User information refreshed",
   "insertBottom": "Open Below the Tab",
   "insertRight": "Open Right the Tab",
   "account8": "Support with a small donation",

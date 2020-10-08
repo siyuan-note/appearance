@@ -1,4 +1,9 @@
 {
+  "cumulativePayment": "累计支付",
+  "refresh": "刷新",
+  "accountManage": "账号管理",
+  "logout": "登出",
+  "refreshUser": "用户信息刷新完毕",
   "insertBottom": "在页签下侧打开",
   "insertRight": "在页签右侧打开",
   "account8": "小额捐赠支持一下",
