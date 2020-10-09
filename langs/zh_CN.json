@@ -1,4 +1,7 @@
 {
+  "sync": "同步",
+  "publicKey": "公钥",
+  "repo": "仓库",
   "cumulativePayment": "累计支付",
   "refresh": "刷新",
   "accountManage": "账号管理",

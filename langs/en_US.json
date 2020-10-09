@@ -1,4 +1,7 @@
 {
+  "sync": "Sync",
+  "publicKey": "Public Key",
+  "repo": "Repository",
   "cumulativePayment": "Cumulative payment",
   "refresh": "Refresh",
   "accountManage": "Account Manage",
