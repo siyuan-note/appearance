@@ -244,6 +244,7 @@
     "26": "Generate repo auth key failed",
     "27": "Clone repo failed",
     "28": "Get repo commit log failed",
-    "29": "This function can only be used after logging in"
+    "29": "This function can only be used after logging in",
+    "30": "Failed to obtain cloud repositories"
   }
 }
