@@ -1,4 +1,6 @@
 {
+  "useRegex": "使用正则表达式",
+  "matchAll": "全匹配",
   "syncLocal": "同步到本地",
   "sync": "同步",
   "cloudBook": "云端笔记本",

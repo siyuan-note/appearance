@@ -1,4 +1,6 @@
 {
+  "useRegex": "Use Regular Expression",
+  "matchAll": "Match Case",
   "syncLocal": "Sync to Local",
   "sync": "Sync",
   "cloudBook": "Cloud Notebook",
