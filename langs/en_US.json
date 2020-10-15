@@ -253,6 +253,7 @@
     "27": "Clone repo failed",
     "28": "Get repo commit log failed",
     "29": "This function can only be used after logging in",
-    "30": "Failed to obtain cloud repositories"
+    "30": "Failed to obtain cloud repositories",
+    "31": "Please create a new folder for storing note data"
   }
 }
