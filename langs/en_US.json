@@ -1,4 +1,5 @@
 {
+  "open": "Turn on",
   "noRepos": "The cloud has not synchronized repos",
   "selectStorageFolder": "Select storage folder",
   "firstImport": "<p>\uD83C\uDF89 This is the first time you open this folder through SiYuan, we need to complete some import work:</p>\n<ul>\n     <li>Automatically convert <code>[[link#heading|text]]</code> to <code>((id \"text\"))</code></li>\n     <li>Automatically convert <code>#tag</code> to <code>#tag#</code></li>\n     <li>Generate the converted .sy.md file</li>\n</ul>\n<p>Please select a storage folder for the converted document to complete the import. </p>",
@@ -83,6 +84,7 @@
   "theme11": "Select the theme used in dark mode",
   "theme12": "Select the icons used in light mode",
   "theme13": "Customize the current theme",
+  "theme14": "After opening, the customized theme will be used, and after closing, the original theme will be used",
   "theme2": "Select the icons used in the user interface",
   "language1": "Select the display language of the user interface",
   "summary": "Summary",
