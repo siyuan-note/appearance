@@ -82,6 +82,7 @@
   "export12": "After opening, a Markdown file of <code>document_name.export.md</code> will be automatically generated when saving the document",
   "theme11": "Select the theme used in dark mode",
   "theme12": "Select the icons used in light mode",
+  "theme13": "Customize the current theme",
   "theme2": "Select the icons used in the user interface",
   "language1": "Select the display language of the user interface",
   "summary": "Summary",

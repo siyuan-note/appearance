@@ -82,6 +82,7 @@
   "export12": "开启后将在保存文档时自动生成 <code>文档名.export.md</code> 的 Markdown 文件",
   "theme11": "选择明亮模式下使用的主题",
   "theme12": "选择暗黑模式下使用的主题",
+  "theme13": "自定义当前主题",
   "theme2": "选择外观使用的图标",
   "language1": "选择外观的显示语言",
   "summary": "摘要",
