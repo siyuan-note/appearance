@@ -101,6 +101,7 @@
   "closeOthers": "Close Others",
   "newFileTip": "Please open a notebook first",
   "copyId": "Copy Block ID",
+  "copyEmbedId": "Copy Embed Block ID",
   "linkLevelTip": "Should between [1,16]",
   "linkLevel": "Depth",
   "mark": "Enable ==mark==",

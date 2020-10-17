@@ -101,6 +101,7 @@
   "closeOthers": "关闭其他",
   "newFileTip": "请先打开一个笔记本",
   "copyId": "复制块 ID",
+  "copyEmbedId": "复制嵌入块 ID",
   "linkLevelTip": "只能输入 [0, 16] 的数字",
   "linkLevel": "层级",
   "saveTip": " 还没有保存，确定关闭？",
