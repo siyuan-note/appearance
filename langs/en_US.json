@@ -1,7 +1,7 @@
 {
   "autoUpdate": "Auto Update",
   "autoUpdateTip": "The available update package will be downloaded automatically after opening",
-  "backlinkMentions": "Mentions",
+  "mentions": "Mentions",
   "appearance10": "Close button settings",
   "appearance11": "shrink to the tray after clicking the close button",
   "colorBorder": "Border Color",
