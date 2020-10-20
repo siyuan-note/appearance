@@ -2,6 +2,7 @@
   "paste": "Paste",
   "cut": "Cut",
   "autoUpdate": "Auto Update",
+  "openConfig": "Open Config",
   "autoUpdateTip": "The available update package will be downloaded automatically after opening",
   "mentions": "Mentions",
   "appearance10": "Close button settings",
