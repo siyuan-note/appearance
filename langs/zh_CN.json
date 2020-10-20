@@ -1,4 +1,6 @@
 {
+  "paste": "粘贴",
+  "cut": "剪切",
   "autoUpdate": "自动更新",
   "autoUpdateTip": "开启后将自动下载可用的更新包",
   "mentions": "提及",

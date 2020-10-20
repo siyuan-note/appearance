@@ -1,4 +1,6 @@
 {
+  "paste": "Paste",
+  "cut": "Cut",
   "autoUpdate": "Auto Update",
   "autoUpdateTip": "The available update package will be downloaded automatically after opening",
   "mentions": "Mentions",
