@@ -1,5 +1,6 @@
 {
-  "autoUpdate": "是否开启启动更新",
+  "autoUpdate": "自动更新",
+  "autoUpdateTip": "开启后将自动下载可用的更新包",
   "backlinkMentions": "内容块提及",
   "appearance10": "关闭按钮设置",
   "appearance11": "点击关闭按钮后缩小到托盘中",
