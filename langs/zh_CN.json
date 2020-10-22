@@ -212,7 +212,7 @@
   "toc": "支持页内目录 [toc]",
   "footnotes": "支持脚注 [^footnotes]",
   "autoFetch": "自动拉取远程图片到本地",
-  "image": "图片",
+  "assets": "资源",
   "alignCenter": "居中",
   "alignLeft": "居左",
   "alignRight": "居右",

@@ -211,7 +211,7 @@
   "toc": "Enable [toc]",
   "footnotes": "Enable [^footnotes]",
   "autoFetch": "Auto fetch remote image to local",
-  "image": "Image",
+  "assets": "Assets",
   "alignCenter": "Center",
   "alignLeft": "Left",
   "alignRight": "Right",
