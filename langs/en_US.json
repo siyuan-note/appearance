@@ -1,6 +1,8 @@
 {
   "clearUnused": "Clear Unused Assets",
   "paste": "Paste",
+  "pasteRef": "Paste Block Ref",
+  "pasteEmbed": "Paste Block Embed",
   "cut": "Cut",
   "autoUpdate": "Auto Update",
   "openConfig": "Open Config",
@@ -156,8 +158,7 @@
   "closeAll": "Close All",
   "closeOthers": "Close Others",
   "newFileTip": "Please open a notebook first",
-  "copyId": "Copy Block Ref",
-  "copyEmbedId": "Copy Block Embed",
+  "copyId": "Copy Block ID",
   "copyContent": "Copy Block Content",
   "linkLevelTip": "Should between [1,16]",
   "linkLevel": "Depth",

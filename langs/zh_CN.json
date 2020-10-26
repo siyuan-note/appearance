@@ -1,6 +1,8 @@
 {
   "clearUnused": "清理未引用资源",
   "paste": "粘贴",
+  "pasteRef": "粘贴块引用",
+  "pasteEmbed": "粘贴块嵌入",
   "cut": "剪切",
   "openConfig": "打开配置文件",
   "autoUpdate": "自动更新",
@@ -156,8 +158,7 @@
   "closeAll": "关闭全部",
   "closeOthers": "关闭其他",
   "newFileTip": "请先打开一个笔记本",
-  "copyId": "复制引用",
-  "copyEmbedId": "复制嵌入",
+  "copyId": "复制 ID",
   "copyContent": "复制块内容",
   "linkLevelTip": "只能输入 [0, 16] 的数字",
   "linkLevel": "层级",
