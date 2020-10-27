@@ -1,4 +1,6 @@
 {
+  "enterFullscreen": "Enter Full Screen",
+  "exitFullscreen": "Exit Full Screen",
   "clearUnused": "Clear Unused Assets",
   "paste": "Paste",
   "pasteRef": "Paste Block Ref",
