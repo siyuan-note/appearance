@@ -1,4 +1,9 @@
 {
+  "fileNameASC": "文件名（升序）",
+  "fileNameDESC": "文件名（降序）",
+  "modifiedASC": "修改时间（升序）",
+  "modifiedDESC": "修改时间（降序）",
+  "sort": "排序",
   "enterFullscreen": "进入全屏幕",
   "exitFullscreen": "退出全屏幕",
   "clearUnused": "清理未引用资源",
