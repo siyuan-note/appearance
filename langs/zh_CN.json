@@ -60,6 +60,7 @@
   "--b3-vditor-inline-s-color": "删除线",
   "--b3-vditor-inline-link-color": "链接",
   "--b3-vditor-inline-tag-color": "标签",
+  "--b3-vditor-inline-blockref-color": "链接引用",
   "open": "开启",
   "noRepos": "云端还没有同步的仓库",
   "selectStorageFolder": "选择存储文件夹",

@@ -60,6 +60,7 @@
   "--b3-vditor-inline-s-color": "strike",
   "--b3-vditor-inline-link-color": "Link",
   "--b3-vditor-inline-tag-color": "Tag",
+  "--b3-vditor-inline-blockref-color": "Block Ref",
   "open": "Turn on",
   "noRepos": "The cloud has not synchronized repos",
   "selectStorageFolder": "Select storage folder",
