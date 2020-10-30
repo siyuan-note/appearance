@@ -71,4 +71,11 @@
     --b3-vditor-mark-paren-color: #008000;
     --b3-vditor-mark-block-color: #660e7a;
     --b3-vditor-mark-tag-color: #0033b3;
+
+    /* 即时渲染行内元素颜色 */
+    --b3-vditor-inline-strong-color: #202124;
+    --b3-vditor-inline-em-color: #202124;
+    --b3-vditor-inline-s-color: #202124;
+    --b3-vditor-inline-link-color: #4285f4;
+    --b3-vditor-inline-tag-color: #5f6368;
 }
