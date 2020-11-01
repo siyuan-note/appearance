@@ -170,6 +170,7 @@
   "graphConfig2": "Reference Count filter",
   "clickOpen": "Open Files with Single Click",
   "selectOpen": "Always Select Opened File",
+  "selectOpen1": "Select Opened File",
   "closeAll": "Close All",
   "closeOthers": "Close Others",
   "newFileTip": "Please open a notebook first",
