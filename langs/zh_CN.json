@@ -22,7 +22,7 @@
   "colorFont": "字体颜色",
   "colorGraph": "关系图颜色",
   "colorIRMarker": "编辑器标记符颜色",
-  "colorIRInline": "文档行内元素颜色",
+  "colorIRInline": "文档行级元素颜色",
   "colorPrimary": "背景颜色",
   "colorScroll": "滚动条颜色",
   "colorTab": "页签颜色",
