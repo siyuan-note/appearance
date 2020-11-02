@@ -1,6 +1,6 @@
 {
   "versionSave": "Revision save",
-  "versionSaveInterval": "Interval in minutes of auto-commit revision",
+  "versionSaveInterval": "The interval of automatic commit of edited version is minutes, which will take effect after restart",
   "cutBlock": "Cut Block Content",
   "fileNameASC": "File Name Alphabet ASC",
   "fileNameDESC": "File Name Alphabet DESC",
