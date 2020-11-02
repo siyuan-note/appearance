@@ -145,6 +145,8 @@
   "fileTree2": "The file tree will automatically select the current document when the editor tab is switched",
   "fileTree3": "Display assets folder",
   "fileTree4": "Display the assets folder on the file tree and list the resource files",
+  "fileTree5": "The storage path of the newly created document when using block reference",
+  "fileTree6": "Such as /folder1/folder2/, if left blank, the current document folder will be used",
   "graph1": "In the case of many nodes, some nodes will be reduced in order to improve rendering efficiency, and will not affect search results",
   "graph2": "Filter nodes based on the number of references, this is only the default value, which can be dynamically adjusted on the relationship graph",
   "image1": "After opening and pasting (cutting) the copied web content, the pictures will be automatically pulled to the local",
@@ -341,6 +343,7 @@
     "33": "The update package has been downloaded, you can upgrade to the latest version after restarting",
     "34": "This operation is not supported in read-only mode",
     "35": "Downloading the update package, please wait...",
-    "36": "Update cloud repositories failed"
+    "36": "Update cloud repositories failed",
+    "37": "Do not include punctuation or spaces in the storage path of the block reference newly created document"
   }
 }
