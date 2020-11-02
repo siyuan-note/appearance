@@ -226,6 +226,7 @@
   "mathEngine": "数学公式引擎",
   "checkUpdate": "检查更新",
   "currentVer": "当前版本",
+  "visitChangelogs": "<a href=\"https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md\" target=\"_blank\">查看更新日志</a>",
   "themeLight": "明亮",
   "themeDark": "暗黑",
   "pasteAsPlainText": "粘贴为纯文本",
