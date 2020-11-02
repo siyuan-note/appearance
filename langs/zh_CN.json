@@ -1,4 +1,6 @@
 {
+  "versionSave": "版本保存",
+  "versionSaveInterval": "自动提交编辑版本时间间隔分钟",
   "cutBlock": "剪切块内容",
   "fileNameASC": "文件名字母升序",
   "fileNameDESC": "文件名字母降序",
