@@ -1,5 +1,5 @@
 {
-  "newBookmark": "Add To New Bookmarks List",
+  "newBookmark": "Create a bookmark label",
   "editHistory": "Revision save",
   "editHistorySaveInterval": "Time interval (in minutes) to automatically save edit history, take effect after restart",
   "cutBlock": "Cut Block Content",
