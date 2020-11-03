@@ -1,4 +1,5 @@
 {
+  "newBookmark": "Add To New Bookmarks List",
   "editHistory": "Revision save",
   "editHistorySaveInterval": "Time interval (in minutes) to automatically save edit history, take effect after restart",
   "cutBlock": "Cut Block Content",
