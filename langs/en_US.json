@@ -342,7 +342,7 @@
     "28": "Get repo commit log failed",
     "29": "This function can only be used after logging in",
     "30": "Failed to obtain cloud repositories",
-    "31": "Please create a new folder for storing note data",
+    "31": "Please create a new folder in another location to store note data",
     "32": "Failed to remove cloud repository",
     "33": "The update package has been downloaded, you can upgrade to the latest version after restarting",
     "34": "This operation is not supported in read-only mode",
