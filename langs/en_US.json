@@ -150,7 +150,7 @@
   "fileTree3": "Display assets folder",
   "fileTree4": "Display the assets folder on the file tree and list the resource files",
   "fileTree5": "The storage path of the newly created document when using block reference",
-  "fileTree6": "For example /folder1/folder2/, the relative path of the current folder is used if the beginning does not start with /",
+  "fileTree6": "For example /folder1/folder2/, if it does not start with /, the relative path of the current folder is used",
   "graph1": "In the case of many nodes, some nodes will be reduced in order to improve rendering efficiency, and will not affect search results",
   "graph2": "Filter nodes based on the number of references, this is only the default value, which can be dynamically adjusted on the relationship graph",
   "image1": "After enabling and pasting (cutting) the copied web content, the pictures will be automatically pulled to the local",
