@@ -98,7 +98,7 @@
   "account3": "Cloud data synchronization",
   "account2": "Distinguished identity",
   "account1": "Click to pay",
-  "account0": "The first 512 early supporters will get <big class=\"ft__secondary\">$20</big> to purchase lifetime membership",
+  "account0": "The first 512 early supporters will get<span class=\"fn__hr\"></span> <big class=\"ft__secondary\">$20</big> to purchase lifetime membership",
   "history": "History",
   "quitApp": "Quit?",
   "md13": "After the editor width is greater than this value, the left and right sides remain blank",
