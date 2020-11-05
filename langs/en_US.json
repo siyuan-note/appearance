@@ -1,4 +1,6 @@
 {
+  "shareAddress": "Share Address",
+  "share": "Share",
   "newBookmark": "Create a bookmark label",
   "editHistory": "Revision save",
   "editHistorySaveInterval": "Time interval (in minutes) to automatically save edit history, take effect after restart",
