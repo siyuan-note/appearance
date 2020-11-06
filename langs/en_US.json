@@ -1,6 +1,6 @@
 {
-  "shareAddress": "Share Address",
-  "share": "Share",
+  "shareAddress": "View my shared publishing space",
+  "share": "Share publishing",
   "newBookmark": "Create a bookmark label",
   "editHistory": "Revision save",
   "editHistorySaveInterval": "Time interval (in minutes) to automatically save edit history, take effect after restart",

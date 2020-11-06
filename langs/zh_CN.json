@@ -1,6 +1,6 @@
 {
-  "shareAddress": "分享地址",
-  "share": "分享",
+  "shareAddress": "查看我的分享发布空间",
+  "share": "分享发布",
   "newBookmark": "新建标识",
   "editHistory": "编辑历史",
   "editHistorySaveInterval": "自动保存编辑历史时间间隔（分钟），重启后生效",
