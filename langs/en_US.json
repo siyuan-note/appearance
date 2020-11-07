@@ -187,7 +187,7 @@
   "closeAll": "Close All",
   "closeOthers": "Close Others",
   "newFileTip": "Please open a notebook first",
-  "copyId": "Copy Block ID",
+  "copyId": "Copy Block Ref",
   "copyContent": "Copy Block Content",
   "linkLevelTip": "Should between [1,16]",
   "linkLevel": "Depth",
