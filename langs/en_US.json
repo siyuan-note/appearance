@@ -1,4 +1,6 @@
 {
+  "useBrowserView": "View in the browser",
+  "userLocalPDF": "Open with local PDF tool",
   "copyBlockURL": "Copy URL",
   "workspace": "Workspace",
   "sharePublish": "Shared publishing",
