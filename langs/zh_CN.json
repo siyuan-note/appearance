@@ -1,5 +1,6 @@
 {
-  "shareAddress": "查看我的分享发布空间",
+  "workspace": "工作空间",
+  "sharePublish": "分享发布",
   "share": "分享发布",
   "newBookmark": "新建标识",
   "editHistory": "编辑历史",

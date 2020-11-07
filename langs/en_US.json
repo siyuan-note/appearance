@@ -1,5 +1,6 @@
 {
-  "shareAddress": "View my shared publishing space",
+  "workspace": "Workspace",
+  "sharePublish": "Shared publishing",
   "share": "Share publishing",
   "newBookmark": "Create a bookmark label",
   "editHistory": "Revision save",
