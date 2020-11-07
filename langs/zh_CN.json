@@ -187,7 +187,7 @@
   "closeAll": "关闭全部",
   "closeOthers": "关闭其他",
   "newFileTip": "请先打开一个笔记本",
-  "copyRef": "复制块引用",
+  "copyBlockRef": "复制块引用",
   "copyContent": "复制块内容",
   "linkLevelTip": "只能输入 [0, 16] 的数字",
   "linkLevel": "层级",
