@@ -235,6 +235,8 @@
   "about2": "Use desktop/mobile browser to access",
   "about3": "Please use Chrome browser and keep it on the same network as your computer",
   "about4": "Open",
+  "about5": "Browser access authentication",
+  "about6": "After configuration, it will be used as the access authentication password (user name is always <code>siyuan</code>), leave it blank to disable authentication",
   "autoSpace": "Automatically insert spaces between Chinese and Western languages",
   "fixTermTypo": "Fix term typo",
   "chinesePunctuation": "Chinese punctuation is automatically replaced with Chinese punctuation",

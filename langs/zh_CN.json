@@ -236,6 +236,8 @@
   "about2": "使用桌面端/手机端浏览器访问",
   "about3": "请使用 Chrome 浏览器并保持和电脑在同一个网络内",
   "about4": "打开",
+  "about5": "浏览器访问鉴权",
+  "about6": "配置后作为访问鉴权密码（用户名固定使用 <code>siyuan</code>），留空则不启用鉴权",
   "autoSpace": "中西文中间自动插入空格",
   "fixTermTypo": "自动术语修正",
   "chinesePunctuation": "中文后标点符号自动替换为中文标点",
