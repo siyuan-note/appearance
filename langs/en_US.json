@@ -364,6 +364,8 @@
     "34": "This operation is not supported in read-only mode",
     "35": "Downloading the update package, please wait...",
     "36": "Update cloud repositories failed",
-    "37": "Do not include punctuation or spaces in the storage path of the block reference newly created document"
+    "37": "Do not include punctuation or spaces in the storage path of the block reference newly created document",
+    "38": "Editing has generated multiple blocks, please edit again",
+    "39": "The corresponding content block was not found on the document"
   }
 }
