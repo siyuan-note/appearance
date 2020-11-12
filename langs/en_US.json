@@ -7,7 +7,7 @@
   "sharePublish": "Shared publishing",
   "share": "Share publishing",
   "newBookmark": "Create a bookmark label",
-  "editHistory": "Revision save",
+  "versioning": "Versioning",
   "editHistorySaveInterval": "Automatically save editing history interval (minutes, set to 0 to disable version management), it will take effect after restart",
   "cutBlock": "Cut Block Content",
   "fileNameASC": "File Name Alphabet ASC",

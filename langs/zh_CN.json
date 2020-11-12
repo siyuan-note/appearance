@@ -7,7 +7,7 @@
   "sharePublish": "分享发布",
   "share": "分享发布",
   "newBookmark": "新建标识",
-  "editHistory": "编辑历史",
+  "versioning": "版本管理",
   "editHistorySaveInterval": "自动保存编辑历史时间间隔（分钟，设置为 0 则禁用版本管理），重启后生效",
   "cutBlock": "剪切块内容",
   "fileNameASC": "文件名字母升序",
