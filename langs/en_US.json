@@ -155,6 +155,8 @@
   "md8": "After enabling, it will recognize the [toc] grammar and generate an in-page outline block",
   "md9": "After enabling, it will recognize the footnote syntax and generate a footnote block",
   "md10": "After enabling, it will recognize the mark syntax, you can use <code>==Mark==</code> to highlight the mark text",
+  "md18": "Support image path with spaces",
+  "md19": "After enabling, spaces will be allowed in the image path, that is, there is no need to use <code>%20</code>",
   "fileTree1": "After enabling, click (ie select) the document and it will open in the editor tab",
   "fileTree2": "The file tree will automatically select the current document when the editor tab is switched",
   "fileTree3": "Display assets folder",
