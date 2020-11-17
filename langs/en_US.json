@@ -1,4 +1,5 @@
 {
+  "generatedMultipleBlocks": "Editing has generated multiple blocks, does not support saving",
   "switchBlock": "Convert to content block reference",
   "emptyContent": "No related content",
   "useBrowserView": "View in the browser",

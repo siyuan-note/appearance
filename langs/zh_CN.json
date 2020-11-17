@@ -1,4 +1,5 @@
 {
+  "generatedMultipleBlocks": "编辑产生了多个块，不支持保存",
   "switchBlock": "转换为内容块引用",
   "emptyContent": "暂无相关内容",
   "useBrowserView": "在浏览器中查看",
