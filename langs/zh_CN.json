@@ -1,6 +1,6 @@
 {
   "mounting": "正在打开，请稍等...",
-  "refExpired": "引用已失效，可进行清理",
+  "refExpired": "查询该 ID 指向的内容块失败",
   "generatedMultipleBlocks": "编辑产生了多个块，不支持保存",
   "switchBlock": "转换为内容块引用",
   "emptyContent": "暂无相关内容",

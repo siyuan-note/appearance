@@ -1,6 +1,6 @@
 {
   "mounting": "Opening, please wait...",
-  "refExpired": "Reference has expired and can be cleaned up",
+  "refExpired": "Failed to query the content block pointed to by the ID",
   "generatedMultipleBlocks": "Editing has generated multiple blocks, does not support saving",
   "switchBlock": "Convert to content block reference",
   "emptyContent": "No related content",
