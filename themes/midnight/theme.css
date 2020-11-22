@@ -58,6 +58,9 @@
     --b3-vditor-toolbar-height: 35px;
     --b3-vditor-toolbar-height-space: 8px;
 
+    /* 代码片段背景 */
+    --b3-vditor-code-background: rgba(66, 133, 244, .36);
+
     /* 即时渲染标记符颜色 */
     --b3-vditor-mark-heading-color: #9876aa;
     --b3-vditor-mark-title-color: #808080;
@@ -79,4 +82,8 @@
     --b3-vditor-inline-link-color: #4285f4;
     --b3-vditor-inline-tag-color: #9aa0a6;
     --b3-vditor-inline-blockref-color: #9876aa;
+}
+
+.language-graphviz polygon {
+    fill: var(--b3-theme-on-surface);
 }

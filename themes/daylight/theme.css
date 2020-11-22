@@ -58,6 +58,9 @@
     --b3-vditor-toolbar-height: 35px;
     --b3-vditor-toolbar-height-space: 8px;
 
+    /* 代码片段背景 */
+    --b3-vditor-code-background: rgba(27, 31, 35, .05);
+
     /* 即时渲染标记符颜色 */
     --b3-vditor-mark-heading-color: #660e7a;
     --b3-vditor-mark-title-color: #808080;
