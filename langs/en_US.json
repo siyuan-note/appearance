@@ -280,7 +280,7 @@
   "copy": "Copy",
   "delete-column": "Delete Row",
   "delete-row": "Delete Column",
-  "devtools": "DevTools",
+  "devtools": "Abstract Syntax Tree",
   "down": "Down",
   "downloadTip": "The browser does not support the download function",
   "edit": "Edit",
