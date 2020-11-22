@@ -1,4 +1,6 @@
 {
+  "fontSize": "Font Size",
+  "fontSizeTip": "",
   "newTitleFile": "The title of the new document is",
   "newContentFile": "The content of the new document is",
   "mounting": "Opening, please wait...",

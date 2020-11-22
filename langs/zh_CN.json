@@ -1,4 +1,6 @@
 {
+  "fontSize": "字体大小",
+  "fontSizeTip": "",
   "newTitleFile": "新建文档标题为",
   "newContentFile": "新建文档内容为",
   "mounting": "正在打开，请稍等...",
