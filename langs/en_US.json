@@ -1,4 +1,6 @@
 {
+  "newTitleFile": "The title of the new document is",
+  "newContentFile": "The content of the new document is",
   "mounting": "Opening, please wait...",
   "refExpired": "Failed to query the content block pointed to by the ID",
   "generatedMultipleBlocks": "Editing has generated multiple blocks, does not support saving",
