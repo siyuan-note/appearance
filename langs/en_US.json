@@ -378,6 +378,7 @@
     "37": "Do not include punctuation or spaces in the storage path of the block reference newly created document",
     "38": "Editing has generated multiple blocks, please edit again",
     "39": "The corresponding content block was not found on the document",
-    "40": "You need to enable version management before using data synchronization"
+    "40": "You need to enable version management before using data synchronization",
+    "41": "Do not set the notebook folder under the installation directory, otherwise data will be lost when uninstalling or reinstalling"
   }
 }
