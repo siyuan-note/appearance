@@ -361,7 +361,7 @@
     "20": "Does not support favorite document block",
     "21": "Sync completed",
     "22": "Syncing, please wait...",
-    "23": "Commit repo failed",
+    "23": "Commit repo [%s] failed: %s",
     "24": "Sync notebook [%s] failed: %s",
     "25": "Synchronization of notebooks containing special symbol names [%s] is not supported. Please close the notebook first, rename it in the file system and open it",
     "26": "Generate repo auth key failed",
@@ -379,6 +379,7 @@
     "38": "Editing has generated multiple blocks, please edit again",
     "39": "The corresponding content block was not found on the document",
     "40": "You need to enable version management before using data synchronization",
-    "41": "Do not set the notebook folder under the installation directory, otherwise data will be lost when uninstalling or reinstalling"
+    "41": "Do not set the notebook folder under the installation directory, otherwise data will be lost when uninstalling or reinstalling",
+    "42": "The synchronization function depends on Git, please install it manually https://git-scm.com/downloads"
   }
 }
