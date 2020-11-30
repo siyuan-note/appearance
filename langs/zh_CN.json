@@ -1,4 +1,12 @@
 {
+  "kernelFault0": "关键技术故障",
+  "kernelFault1": "内核进程已经崩溃或退出，请尝试重新启动思源笔记。",
+  "kernelFault11": "如果重启后仍然出现该问题，请通过以下方式将",
+  "kernelFault2": "发送给开发团队：</p>",
+  "kernelFault3": "论坛讨论区",
+  "kernelFault4": "用户 QQ 群",
+  "kernelFault5": "客服邮箱",
+  "kernelFault6": "<p>非常抱歉，给您带来不便，我们会尽快改进，谢谢。</p>",
   "fontSize": "字号",
   "fontSizeTip": "字号默认为 16px，该设置仅影响编辑器内字体大小显示",
   "newNameFile": "新建文档名为",
