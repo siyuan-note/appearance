@@ -1,4 +1,5 @@
 {
+  "docRename": "Rename the document to",
   "kernelFault0": "Critical Technical Fault",
   "kernelFault1": "The kernel process has crashed or exited, please try to restart SiYuan.",
   "kernelFault11": "If the problem still occurs after restarting, please send",
