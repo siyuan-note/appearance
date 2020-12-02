@@ -1,5 +1,8 @@
 document.body.insertAdjacentHTML('afterbegin', `
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs>
+  <symbol id="iconSelect" viewBox="0 0 32 32">
+    <path d="M10.169 23.049l-7.586-7.586-2.583 2.565 10.169 10.169 21.831-21.831-2.565-2.565-19.265 19.247z"></path>
+  </symbol>
   <symbol id="iconSuper" viewBox="0 0 32 32">
     <path d="M5.123 3.2l-5.123 9.124 3.846 3.963h19.177l-7.023 7.219-4.405-4.535h-5.144l9.55 9.829 16-16.476h-27.703l3.052-5.46h17.34l1.762 3.15h4.248l-3.843-6.814z"></path>
   </symbol>

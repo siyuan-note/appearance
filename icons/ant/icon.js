@@ -1,6 +1,9 @@
 document.body.insertAdjacentHTML('afterBegin', `<svg id="vditorIconSVG" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg">
 <defs>
-    <symbol id="iconSuper" viewBox="0 0 32 32">
+  <symbol id="iconSelect" viewBox="0 0 32 32">
+    <path d="M31.686 3.376h-2.741c-0.384 0-0.749 0.176-0.984 0.478l-16.168 20.482-7.753-9.823c-0.232-0.292-0.586-0.478-0.984-0.478h-2.741c-0.263 0-0.408 0.302-0.247 0.506l10.741 13.607c0.502 0.635 1.467 0.635 1.972 0l19.152-24.27c0.161-0.2 0.016-0.502-0.247-0.502z"></path>
+  </symbol>
+  <symbol id="iconSuper" viewBox="0 0 32 32">
     <path d="M5.123 3.2l-5.123 9.124 3.846 3.963h19.177l-7.023 7.219-4.405-4.535h-5.144l9.55 9.829 16-16.476h-27.703l3.052-5.46h17.34l1.762 3.15h4.248l-3.843-6.814z"></path>
   </symbol>
   <symbol id="iconSQL" viewBox="0 0 32 32">
