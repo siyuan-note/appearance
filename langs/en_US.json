@@ -173,7 +173,7 @@
   "md7": "After enabling, the editor toolbar will be hidden",
   "md8": "After enabling, it will recognize the [toc] grammar and generate an in-page outline block",
   "md9": "After enabling, it will recognize the footnote syntax and generate a footnote block",
-  "md10": "After enabling, it will recognize the mark syntax, you can use <code>==Mark==</code> to highlight the mark text",
+  "md10": "After enabling, it will recognize the mark syntax, you can use <code>==Mark==</code> to highlight the text",
   "md18": "Support image url path with spaces",
   "md19": "After enabling, spaces will be allowed in the image or link path, that is, there is no need to use <code>%20</code>, it will take effect after restart",
   "fileTree1": "After enabling, click (ie select) the document and it will open in the editor tab",
