@@ -186,6 +186,8 @@
   "fileTree8": "The newly opened document tab will replace the unmodified tab",
   "fileTree9": "Display templates folder",
   "fileTree10": "Display the templates folder on the file tree and list the template docs",
+  "fileTree11": "New file name template",
+  "fileTree12": "Use this rule to name by default when creating new files",
   "graph1": "In the case of many nodes, some nodes will be reduced in order to improve rendering efficiency, and will not affect search results",
   "graph2": "Filter nodes based on the number of references, this is only the default value, which can be dynamically adjusted on the relationship graph",
   "image1": "After enabling and pasting (cutting) the copied web content, the pictures will be automatically pulled to the local",
