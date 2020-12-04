@@ -225,7 +225,7 @@
   "md21": "Enable ^Sup^",
   "md22": "After enabling, it will recognize the sup syntax, you can use <code>^Sup^</code> to sup the text",
   "md23": "Enable ~Sub~",
-  "md24": "After enabling, it will recognize the sub syntax, you can use <code>^Sub^</code> to sub the text",
+  "md24": "After enabling, it will recognize the sub syntax, you can use <code>~Sub~</code> to sub the text",
   "mark": "Mark",
   "saveTip": " is not save, confirm close it?",
   "splitLR": "Split Vertically",
