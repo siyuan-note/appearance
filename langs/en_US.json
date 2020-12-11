@@ -1,4 +1,6 @@
 {
+  "previous": "Previous",
+  "next": "Next",
   "manage": "Manage",
   "openRecent": "Open Recent",
   "file": "File",

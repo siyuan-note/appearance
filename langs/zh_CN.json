@@ -1,4 +1,6 @@
 {
+  "previous": "上一个",
+  "next": "下一个",
   "manage": "管理",
   "openRecent": "最近的笔记本",
   "file": "文件",

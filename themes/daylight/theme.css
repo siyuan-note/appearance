@@ -55,8 +55,8 @@
     --b3-graph-hl-line: #d23f31;
 
     /* 编辑器工具栏高度 */
-    --b3-vditor-toolbar-height: 35px;
-    --b3-vditor-toolbar-height-space: 8px;
+    --b3-vditor-toolbar-height: 29px;
+    --b3-vditor-toolbar-height-space: 6px;
 
     /* 代码片段背景 */
     --b3-vditor-code-background: rgba(27, 31, 35, .05);
