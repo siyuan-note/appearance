@@ -99,6 +99,8 @@
   "--b3-vditor-inline-em-color": "斜体",
   "--b3-vditor-inline-s-color": "删除线",
   "--b3-vditor-inline-link-color": "链接",
+  "--b3-vditor-inline-mark-background": "标记背景色",
+  "--b3-vditor-inline-mark-color": "标记",
   "--b3-vditor-inline-tag-color": "标签",
   "--b3-vditor-inline-blockref-color": "链接引用",
   "open": "开启",
