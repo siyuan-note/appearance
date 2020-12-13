@@ -234,6 +234,8 @@
   "md22": "After enabling, it will recognize the sup syntax, you can use <code>^Sup^</code> to sup the text",
   "md23": "Enable ~Sub~",
   "md24": "After enabling, it will recognize the sub syntax, you can use <code>~Sub~</code> to sub the text",
+  "md25": "HTML Block Preview",
+  "md26": "After enabling, the HTML block will be rendered in time when editing",
   "mark": "Mark",
   "saveTip": " is not save, confirm close it?",
   "splitLR": "Split Right",
