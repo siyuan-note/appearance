@@ -1,4 +1,5 @@
 {
+  "focusFileTree": "Navigate to the file tree",
   "useDefault": "Open with default program",
   "previous": "Previous",
   "next": "Next",
@@ -245,7 +246,7 @@
   "sponsor": "Made by Love",
   "relativeRelation": "Linked",
   "parentRelation": "Parent - Child",
-  "openInNewWindow": "Open in New Window",
+  "openInNewTab": "Open in New Tab",
   "help": "Help",
   "paragraphBeginningSpace": "Two empty spaces at the beginning of the paragraph",
   "outline": "Outline",
