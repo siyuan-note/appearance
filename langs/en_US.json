@@ -166,7 +166,7 @@
   "md11": "Code Block Preview",
   "md14": "Math Block Preview",
   "md15": "After enabling, the math block will be rendered in time when editing",
-  "md16": "Save the ID in the Markdown file to ensure that the content block URL will still work normally after the next restart",
+  "md16": "Keep the block ID when exiting",
   "md17": "Keeping the block ID permanently can ensure that the shared block-level URL is not invalid",
   "min": "Mix",
   "restore": "Restore",
