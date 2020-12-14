@@ -109,7 +109,7 @@
   "open": "Turn on",
   "noRepos": "The cloud has not synchronized repos",
   "selectStorageFolder": "Select storage folder",
-  "firstImport": "<p>\uD83C\uDF89 This is the first time you open this folder through SiYuan, we need to complete some import work:</p>\n<ul>\n     <li>Automatically convert <code>[[link#heading|text]]</code> to <code>((id \"text\"))</code></li>\n     <li>Automatically convert <code>#tag</code> to <code>#tag#</code></li>\n     <li>Generate the converted .sy.md file</li>\n</ul>\n<p>Please select a storage folder for the converted document to complete the import. </p>",
+  "firstImport": "<p>\uD83C\uDF89 This is the first time you open this folder through SiYuan, we need to complete some import work:</p>\n<ul>\n     <li>Automatically convert <code>[[link#heading|text]]</code> to <code>((id \"text\"))</code></li>\n     <li>Automatically convert <code>#tag</code> to <code>#tag#</code></li>\n     <li>Generate the converted .md file</li>\n</ul>\n<p>Please select a storage folder for the converted document to complete the import. </p>",
   "useRegex": "Use Regular Expression",
   "matchAll": "Match Case",
   "syncLocal": "Clone to Local",
