@@ -21,6 +21,7 @@
   "newNameFile": "新建文档名为",
   "newContentFile": "新建文档内容为",
   "mounting": "正在打开，请稍等...",
+  "exporting": "正在导出，请稍等...",
   "refExpired": "查询该 ID 指向的内容块失败",
   "generatedMultipleBlocks": "编辑产生了多个块，不支持保存",
   "switchBlock": "转换为内容块引用",
