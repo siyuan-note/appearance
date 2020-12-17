@@ -164,8 +164,6 @@
   "appearance3": "Select the syntax highlighting theme used in dark mode",
   "appearance2": "Select the syntax highlighting theme used in light mode",
   "appearance1": "Code Block Theme",
-  "md12": "After enabling, the code block will be rendered in time when editing",
-  "md11": "Code Block Preview",
   "md14": "Math Block Preview",
   "md15": "After enabling, the math block will be rendered in time when editing",
   "md16": "Keep the block ID when exiting",
