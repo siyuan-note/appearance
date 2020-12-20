@@ -31,6 +31,7 @@
 
     /* 页签 */
     --b3-tab-background: #212224;
+    --b3-tab-background-hover: #2e2f31;
 
     /* 提示 */
     --b3-tooltips-color: rgba(70, 72, 76, .86);
