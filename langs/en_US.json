@@ -170,7 +170,7 @@
   "min": "Mix",
   "restore": "Restore",
   "max": "Max",
-  "md1": "Automatically insert spaces between Chinese and Western (English, Arabic numerals and symbols, etc.) when entering",
+  "md1": "Automatically insert spaces between Chinese and Western (English, Arabic numerals and symbols, etc.)",
   "md2": "The spelling of terms is automatically replaced when inputting. Currently, the term definition table is built-in, mainly related to programming",
   "md4": "Automatically indent the beginning of paragraphs when previewing to conform to traditional Chinese typesetting habits",
   "md5": "For example, <code>$100 does not want to be rendered as a mathematical formula $200</code>. After enabling <code>$100 does not want to be rendered as a mathematical formula $</code> will be recognized as a formula",
