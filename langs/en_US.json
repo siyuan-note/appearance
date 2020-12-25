@@ -412,6 +412,7 @@
     "41": "Do not set the notebook folder under the installation directory, otherwise data will be lost when uninstalling or reinstalling",
     "42": "The synchronization function depends on Git, please install it manually https://git-scm.com/downloads",
     "43": "The maximum support of cloud space (4G) has been exceeded, and synchronization is not supported at present",
-    "44": "Parse template failed: %s"
+    "44": "Parse template failed: %s",
+    "45": "If you need to modify the case, please rename it to another name first"
   }
 }
