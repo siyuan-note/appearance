@@ -1,4 +1,7 @@
 {
+  "use": "Use",
+  "all": "All",
+  "bazaar": "bazaar",
   "revolve": "Revolve",
   "focusFileTree": "Navigate to the file tree",
   "useDefault": "Open with default program",
