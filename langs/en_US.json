@@ -418,7 +418,7 @@
     "43": "The maximum support of cloud space (4G) has been exceeded, and synchronization is not supported at present",
     "44": "Parse template failed: %s",
     "45": "If you need to modify the case, please rename it to another name first",
-    "46": "The download of the theme package failed due to network problems, please try again later",
+    "46": "The download of the theme package [%s] failed due to network problems, please try again later",
     "47": "Uninstall community theme failed: %s"
   }
 }
