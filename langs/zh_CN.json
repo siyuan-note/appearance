@@ -1,4 +1,6 @@
 {
+  "createdAt": "创建于",
+  "modifiedAt": "最近更新",
   "refreshDown": "刷新完毕",
   "apply": "应用",
   "uninstall": "卸载",

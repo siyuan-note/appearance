@@ -1,4 +1,6 @@
 {
+  "createdAt": "created at",
+  "modifiedAt": "modified at",
   "refreshDown": "Refresh complete",
   "apply": "Apply",
   "uninstall": "Uninstall",
