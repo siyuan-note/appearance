@@ -1,4 +1,6 @@
 {
+  "pin": "钉住",
+  "unpin": "取消钉住",
   "createdAt": "创建于",
   "modifiedAt": "更新于",
   "refreshDown": "刷新完毕",
@@ -326,7 +328,6 @@
   "devtools": "抽象语法树",
   "down": "下",
   "downloadTip": "该浏览器不支持下载功能",
-  "edit": "编辑",
   "edit-mode": "切换编辑模式",
   "emoji": "表情",
   "export": "导出",

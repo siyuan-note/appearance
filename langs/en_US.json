@@ -1,4 +1,6 @@
 {
+  "pin": "Pin",
+  "unpin": "Unpin",
   "createdAt": "Created at",
   "modifiedAt": "Modified at",
   "refreshDown": "Refresh complete",
@@ -325,7 +327,6 @@
   "devtools": "Abstract Syntax Tree",
   "down": "Down",
   "downloadTip": "The browser does not support the download function",
-  "edit": "Edit",
   "edit-mode": "Toggle Edit Mode",
   "emoji": "Emoji",
   "export": "Export",
