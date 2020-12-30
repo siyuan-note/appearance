@@ -1,4 +1,6 @@
 {
+  "subscriptionCount": "累计推荐",
+  "refCode": "订阅推荐码",
   "pin": "钉住",
   "unpin": "取消钉住",
   "createdAt": "创建于",

@@ -1,4 +1,6 @@
 {
+  "subscriptionCount": "Cumulative recommendation",
+  "refCode": "Subscription code",
   "pin": "Pin",
   "unpin": "Unpin",
   "createdAt": "Created at",
