@@ -1,4 +1,5 @@
 {
+  "day": "天",
   "subscriptionCount": "累计推荐",
   "refCode": "订阅推荐码",
   "pin": "钉住",
@@ -141,8 +142,8 @@
   "account2": "尊贵身份标识",
   "account1": "点击前往支付",
   "account10": "年付订阅",
-  "account11": "早鸟优惠剩余天数",
-  "account6": "订阅剩余天数",
+  "account11": "早鸟优惠活动结束还剩",
+  "account6": "距订阅过期还剩",
   "account12": "相伴一生",
   "account4": "续订价格沿用上一个订阅期价格，\uD83D\uDC26 早鸟很划算哟~",
   "priceAnnual": "￥96",
