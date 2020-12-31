@@ -1,4 +1,5 @@
 {
+  "folder": "folder",
   "day": "Days",
   "subscriptionCount": "Cumulative recommendation",
   "refCode": "Subscription referral code",
@@ -289,7 +290,6 @@
   "userName": "Username",
   "password": "Password",
   "urlError": "URL Error",
-  "serverAddr": "Server Address",
   "theme": "Theme",
   "about": "About",
   "about1": "Copyright (c) 2020-present, ld246.com<div class='b3-label__text vditor-reset'>SiYuan is a commercial software developed by Yunnan LianDi Technology Ltd.<br><br>Before v1.0.0, all functions are free to use.<br>After v1.0.0 is released, some <a href='https://github.com/siyuan-note/siyuan/projects/1'>advanced features</a> require paid subscription.</div>",

@@ -1,4 +1,5 @@
 {
+  "folder": "文件夹",
   "day": "天",
   "subscriptionCount": "累计推荐",
   "refCode": "订阅推荐码",
@@ -289,7 +290,6 @@
   "userName": "用户名",
   "password": "密码",
   "urlError": "URL 错误",
-  "serverAddr": "服务器地址",
   "language": "语言",
   "theme": "主题",
   "about": "关于",
