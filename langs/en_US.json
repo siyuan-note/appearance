@@ -192,7 +192,7 @@
   "md9": "After enabling, it will recognize the footnote syntax and generate a footnote block",
   "md10": "After enabling, it will recognize the mark syntax, you can use <code>==Mark==</code> to highlight the text",
   "md11": "The title icon will be permanently fixed before the title",
-  "md12": "Whether to display bookmark marks",
+  "md12": "Whether to display bookmark",
   "md13": "After the editor width is greater than this value, the left and right sides remain blank",
   "md14": "Math Block Preview",
   "md15": "After enabling, the math block will be rendered in time when editing",
