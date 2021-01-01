@@ -1,4 +1,7 @@
 {
+  "clearFontStyle": "Clear Font Style",
+  "fontStyle": "Font Effects",
+  "font": "Font Settings",
   "folder": "folder",
   "day": "Days",
   "subscriptionCount": "Cumulative recommendation",
