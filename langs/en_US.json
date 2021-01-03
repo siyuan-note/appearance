@@ -1,4 +1,7 @@
 {
+  "removeElement": "Remove the element where the cursor is",
+  "insertBefore": "Insert an empty block before the block where the cursor is",
+  "insertAfter": "Insert an empty block after the block where the cursor is located",
   "list1": "List",
   "insertElement": "Insert Element",
   "closeTab": "Close current Tab",

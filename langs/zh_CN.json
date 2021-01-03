@@ -1,4 +1,7 @@
 {
+  "removeElement": "移除光标所在元素",
+  "insertBefore": "光标所在块前插入空块",
+  "insertAfter": "光标所在块后插入空块",
   "list1": "列表",
   "insertElement": "插入元素",
   "closeTab": "关闭当前页签",
