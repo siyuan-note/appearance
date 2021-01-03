@@ -1,4 +1,6 @@
 {
+  "list": "列表",
+  "insertElement": "插入元素",
   "closeTab": "关闭当前页签",
   "keymap": "快捷键",
   "clearFontStyle": "清除字体样式",

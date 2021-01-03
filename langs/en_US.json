@@ -1,4 +1,6 @@
 {
+  "list": "List",
+  "insertElement": "Insert Element",
   "closeTab": "Close current Tab",
   "keymap": "Keymap",
   "clearFontStyle": "Clear Font Style",
