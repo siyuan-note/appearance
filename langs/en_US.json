@@ -477,6 +477,7 @@
     "44": "Parse template failed: %s",
     "45": "If you need to modify the case, please rename it to another name first",
     "46": "The download of the theme package [%s] failed due to network problems, please try again later",
-    "47": "Uninstall community theme failed: %s"
+    "47": "Uninstall community theme failed: %s",
+    "48": "The total number of files in the notebook [%s] path [%s] is [%d], only the first [%d] files are listed to avoid performance degradation"
   }
 }
