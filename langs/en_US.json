@@ -1,4 +1,6 @@
 {
+  "invalid": "Invalid",
+  "conflict": "Conflict",
   "checkToggle":"Check the task list to switch",
   "heading1": "Heading 1",
   "heading2": "Heading 2",
