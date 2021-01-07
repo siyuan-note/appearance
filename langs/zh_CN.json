@@ -1,4 +1,5 @@
 {
+  "mountWebDAVNote": "注意：如果 WebDAV 服务端有接口调用频率限制，请务必指定文件夹路径",
   "zoom": "缩放",
   "invalid": "无效",
   "conflict": "冲突",
