@@ -1,4 +1,5 @@
 {
+  "mountWebDAVNote": "Note: If the WebDAV server has an API call frequency limit, be sure to specify the folder path",
   "invalid": "Invalid",
   "conflict": "Conflict",
   "checkToggle":"Check the task list to switch",
