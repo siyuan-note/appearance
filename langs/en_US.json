@@ -1,4 +1,5 @@
 {
+  "fold": "Fold/Expand Block",
   "zoom": "Zoom",
   "mountWebDAVNote": "Note: If the WebDAV server has an API call frequency limit, be sure to specify the folder path",
   "invalid": "Invalid",
