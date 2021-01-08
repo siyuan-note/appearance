@@ -36,6 +36,16 @@
     /* 提示 */
     --b3-tooltips-color: rgba(70, 72, 76, .86);
 
+    /* 卡片背景 */
+    --b3-card-error-color: rgb(250, 179, 174);
+    --b3-card-error-background: rgb(24, 6, 5);
+    --b3-card-warning-color: rgb(255, 213, 153);
+    --b3-card-warning-background: rgb(25, 15, 0);
+    --b3-card-info-color: rgb(166, 213, 250);
+    --b3-card-info-background: rgb(3, 14, 24);
+    --b3-card-success-color: rgb(183, 223, 185);
+    --b3-card-success-background: rgb(7, 17, 7);
+
     /* 动画效果 */
     --b3-transition: all .15s cubic-bezier(0, 0, .2, 1) 0ms;
 
