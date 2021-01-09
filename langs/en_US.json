@@ -239,6 +239,8 @@
   "fileTree12": "The template snippet is used by default when creating a new doc for naming, for example <code>{{now | date \"20060102150405\"}}</code>",
   "fileTree13": "New daily note storage folder path",
   "fileTree14": "For example /2020/02/, support the use of template variables, such as <code>{{now | date \"2006/01\"}}</code>",
+  "fileTree15": "The path of the new daily note using template",
+  "fileTree16": "The absolute path of the template, for example /templates/daily_note.md",
   "graph1": "In the case of many nodes, some nodes will be reduced in order to improve rendering efficiency, and will not affect search results",
   "graph2": "Filter nodes based on the number of references, this is only the default value, which can be dynamically adjusted on the relationship graph",
   "image1": "After enabling and pasting (cutting) the copied web content, the pictures will be automatically pulled to the local",
