@@ -238,7 +238,7 @@
   "fileTree11": "New doc name template",
   "fileTree12": "The template snippet is used by default when creating a new doc for naming, for example <code>{{now | date \"20060102150405\"}}</code>",
   "fileTree13": "New daily note storage folder path",
-  "fileTree14": "You can use date format template variables, such as <code>/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}.md</code>",
+  "fileTree14": "You can use date format template variables, such as <code>/Daily Notes/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}.md</code>",
   "fileTree15": "The path of the new daily note using template",
   "fileTree16": "The absolute path of the template, for example /templates/daily_note.md",
   "fileTree19": "New daily note storage notebook",

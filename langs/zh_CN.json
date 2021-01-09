@@ -238,7 +238,7 @@
   "fileTree11": "新建文档名模版",
   "fileTree12": "新建文档时默认使用该模板片段进行命名，例如 <code>{{now | date \"20060102150405\"}}</code>",
   "fileTree13": "新建日记存放路径",
-  "fileTree14": "可使用日期格式模板变量，例如 <code>/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}.md</code>",
+  "fileTree14": "可使用日期格式模板变量，例如 <code>/日记/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}.md</code>",
   "fileTree15": "新建日记使用模板的路径",
   "fileTree16": "模板的绝对路径，例如 /templates/daily_note.md",
   "fileTree19": "新建日记存放笔记本",
