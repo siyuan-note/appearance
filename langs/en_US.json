@@ -1,4 +1,6 @@
 {
+  "zoomIn": "Zoom In",
+  "zoomOut": "Zoom Out",
   "template": "Template",
   "move": "Move",
   "layout": "Layout",
