@@ -1,4 +1,7 @@
 {
+  "move": "Move",
+  "layout": "Layout",
+  "expandLevel": "Expand Level",
   "mindmap": "Mind Map",
   "dailyNote": "Daily Note",
   "remarks": "Remarks",

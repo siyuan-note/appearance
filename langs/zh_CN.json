@@ -1,4 +1,7 @@
 {
+  "move": "移动",
+  "layout": "布局",
+  "expandLevel": "展开层级",
   "mindmap": "脑图",
   "dailyNote": "日记",
   "remarks": "备注",
