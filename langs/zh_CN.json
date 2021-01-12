@@ -373,7 +373,7 @@
   "devtools": "抽象语法树",
   "down": "下",
   "downloadTip": "该浏览器不支持下载功能",
-  "edit-mode": "切换编辑模式",
+  "edit-mode": "模式切换",
   "emoji": "表情",
   "export": "导出",
   "fileTypeError": "文件类型不允许上传",
