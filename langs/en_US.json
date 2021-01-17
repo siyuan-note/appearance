@@ -484,7 +484,7 @@
     "30": "Failed to obtain cloud repositories",
     "31": "Please create a new folder in another location to store note data",
     "32": "Failed to remove cloud repository",
-    "33": "The update package has been downloaded, you can upgrade to the latest version after restarting",
+    "33": "The update package has been downloaded, close it and wait 7s before restarting to upgrade to the latest version",
     "34": "This operation is not supported in read-only mode",
     "35": "Downloading the update package, please wait...",
     "36": "Update cloud repositories failed",
