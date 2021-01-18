@@ -1,4 +1,5 @@
 {
+  "copyStdMd": "Copy as standard Markdown",
   "alias": "Alias",
   "addTplSucc": "The template was added successfully",
   "updateSearch": "Modify global search criteria",
