@@ -1,4 +1,6 @@
 {
+  "replace": "Replace",
+  "replaceAll": "Replace All",
   "copyStdMd": "Copy as standard Markdown",
   "alias": "Alias",
   "addTplSucc": "The template was added successfully",

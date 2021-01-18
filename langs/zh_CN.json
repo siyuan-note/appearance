@@ -1,4 +1,6 @@
 {
+  "replace": "替换",
+  "replaceAll": "全部替换",
   "copyStdMd": "复制为标准 Markdown",
   "alias": "别名",
   "addTplSucc": "模版添加成功",
