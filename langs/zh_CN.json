@@ -347,7 +347,7 @@
   "about3": "请使用 Chrome 浏览器并保持和电脑在同一个网络内",
   "about4": "打开浏览器",
   "about5": "浏览器访问鉴权",
-  "about6": "配置后作为访问鉴权密码（用户名固定使用 <code>siyuan</code>），留空则不启用鉴权",
+  "about6": "配置后作为访问鉴权密码（用户名固定使用 <code>siyuan</code>），关闭鉴权请使用 <code>BEYOND</code> 作为密码",
   "autoSpace": "中西文中间自动插入空格",
   "fixTermTypo": "自动术语修正",
   "inlineMathDigit": "允许内联数学公式后紧跟数字",
