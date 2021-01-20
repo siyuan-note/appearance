@@ -1,4 +1,6 @@
 {
+  "importing": "正在导入，请稍等...",
+  "imported": "导入完成",
   "import": "导入",
   "doc": "文档",
   "openBy": "打开",
