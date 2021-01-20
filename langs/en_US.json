@@ -1,5 +1,6 @@
 {
   "import": "Import",
+  "doc": "Doc",
   "openBy": "Open",
   "replace": "Replace",
   "replaceAll": "Replace All",
