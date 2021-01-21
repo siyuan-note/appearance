@@ -1,5 +1,5 @@
 {
-  "undoConfirm": "Are you sure revert to the <b>${date}</b> version?",
+  "undoConfirm": "Are you sure revert the <b>${date}</b> commit?",
   "pdfTip": "PDF export does not support Dark theme",
   "pdfConfirm": "Do you want to continue exporting with the selected Light theme?",
   "importing": "Importing, please wait...",
