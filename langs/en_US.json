@@ -1,4 +1,5 @@
 {
+  "undoConfirm": "Are you sure revert to the <b>${date}</b> version?",
   "pdfTip": "PDF export does not support Dark theme",
   "pdfConfirm": "Do you want to continue exporting with the selected Light theme?",
   "importing": "Importing, please wait...",
