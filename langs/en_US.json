@@ -1,4 +1,6 @@
 {
+  "pdfTip": "PDF export does not support Dark theme",
+  "pdfConfirm": "Do you want to continue exporting with the selected Light theme?",
   "importing": "Importing, please wait...",
   "imported": "Imported completed",
   "import": "Import",

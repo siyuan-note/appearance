@@ -1,4 +1,6 @@
 {
+  "pdfTip": "PDF 导出不支持深色主题",
+  "pdfConfirm": "是否使用已选择的浅色主题继续导出？",
   "importing": "正在导入，请稍等...",
   "imported": "导入完成",
   "import": "导入",
