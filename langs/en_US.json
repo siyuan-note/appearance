@@ -28,7 +28,7 @@
   "remarks": "Remarks",
   "name": "Name",
   "fold": "Fold/Expand Block",
-  "zoom": "Zoom",
+  "zoom": "Zoom and Position",
   "mountWebDAVNote": "Note: If the WebDAV server has an API call frequency limit, be sure to specify the folder path",
   "invalid": "Invalid",
   "conflict": "Conflict",
