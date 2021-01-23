@@ -21,13 +21,13 @@
     --b3-font-family-code: mononoki, Consolas, "Liberation Mono", Menlo, Courier, monospace, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", "Segoe UI Symbol", "Android Emoji", "EmojiSymbols";
 
     /* 线条 */
-    --b3-border-color: rgba(255, 255, 255, .12);
+    --b3-border-color: rgba(230, 230, 230, .1);
 
     /* 滚动条 */
-    --b3-scroll-color: rgba(230, 230, 230, .3);
+    --b3-scroll-color: rgba(230, 230, 230, .2);
 
     /* 列表 */
-    --b3-list-hover: rgba(255, 255, 255, .06);
+    --b3-list-hover: rgba(230, 230, 230, .05);
 
     /* 页签 */
     --b3-tab-background: #212224;
