@@ -1,4 +1,6 @@
 {
+  "accountDisplayTitle": "是否在顶栏显示头衔标识",
+  "accountDisplayVIP": "是否在顶栏显示 VIP 标识",
   "expert": "专家",
   "undoConfirm": "确定撤销 <b>${date}</b> 提交？",
   "pdfTip": "PDF 导出不支持深色主题",

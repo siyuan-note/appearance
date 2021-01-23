@@ -1,4 +1,6 @@
 {
+  "accountDisplayTitle": "Whether to display the title icon at the top bar",
+  "accountDisplayVIP": "Whether to display the VIP icon at the top bar",
   "expert": "Expert",
   "undoConfirm": "Are you sure revert the <b>${date}</b> commit?",
   "pdfTip": "PDF export does not support Dark theme",
@@ -32,7 +34,7 @@
   "mountWebDAVNote": "Note: If the WebDAV server has an API call frequency limit, be sure to specify the folder path",
   "invalid": "Invalid",
   "conflict": "Conflict",
-  "checkToggle":"Check the task list to switch",
+  "checkToggle": "Check the task list to switch",
   "heading1": "Heading 1",
   "heading2": "Heading 2",
   "heading3": "Heading 3",
