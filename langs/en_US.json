@@ -255,8 +255,8 @@
   "fileTree2": "The file tree will automatically select the current document when the editor tab is switched",
   "fileTree3": "Display assets",
   "fileTree4": "Display the assets folder on the file tree and list the resource files",
-  "fileTree5": "New file config",
-  "fileTree6": "Save path (for example /folder1/folder2/, if it does not start with /, the relative path of the current folder is used)",
+  "fileTree5": "Ref create doc save location",
+  "fileTree6": "When using <code>((</code>, the save path of the new document (for example, /folder1/folder2/, the relative path of the current folder is used if it does not start with /)",
   "fileTree7": "Open in the current tab",
   "fileTree8": "The newly opened document tab will replace the unmodified tab",
   "fileTree9": "Display templates",
@@ -502,7 +502,7 @@
     "34": "This operation is not supported in read-only mode",
     "35": "Downloading the update package, please wait...",
     "36": "Update cloud repositories failed",
-    "37": "Do not include punctuation or spaces in the storage path",
+    "37": "Do not include punctuation or spaces in the save path",
     "38": "Editing has generated multiple blocks, please edit again",
     "39": "The corresponding content block was not found on the document",
     "40": "You need to enable version management before using data synchronization",
@@ -514,6 +514,6 @@
     "46": "The download of the theme package [%s] failed due to network problems, please try again later",
     "47": "Uninstall community theme failed: %s",
     "48": "The total number of files in the notebook [%s] path [%s] is [%d], only the first [%d] files are listed to avoid performance degradation",
-    "49": "Please specify the daily note storage notebook and path in the Settings - File tree"
+    "49": "Please specify the daily note save notebook and path in the Settings - File tree"
   }
 }
