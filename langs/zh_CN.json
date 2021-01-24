@@ -177,7 +177,7 @@
   "open": "开启",
   "noRepos": "云端还没有同步的仓库",
   "selectStorageFolder": "选择存储文件夹",
-  "firstImport": "<p>\uD83C\uDF89 这是你第一次通过思源笔记打开该文件夹，我们需要完成一些导入工作：</p>\n<ul>\n    <li>将 <code>[[link#heading|text]]</code> 自动转换为 <code>((id \"text\"))</code></li>\n    <li>将 <code>#tag</code> 自动转换为 <code>#tag#</code></li>\n    <li>生成转换后的 .md 文档</li>\n</ul>\n<p>请为转换后的文档选择存储文件夹以完成导入。</p>",
+  "firstImport": "<p>该文件夹还没有导入到思源中，请通过如下步骤完成导入：</p>\n<ol>\n<li>如果还没有创建笔记本，请先创建一个笔记本</li><li>在文件树上选择笔记本并右击，在下拉菜单中选择“导入”</li></ol>\n<p>祝你使用愉快 \uD83C\uDF89</p>",
   "syncLocal": "克隆到本地",
   "sync": "同步",
   "cloudBook": "云端笔记本",
