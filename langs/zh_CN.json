@@ -1,4 +1,5 @@
 {
+  "notebookName": "请输入笔记本名称",
   "moveToLeftTop": "移动到左侧上方",
   "moveToLeftBottom": "移动到左侧下方",
   "moveToRightTop": "移动到右侧上方",
@@ -347,7 +348,8 @@
   "confirm": "确定",
   "confirmDelete": "确定删除",
   "back": "返回上一层",
-  "mount": "打开本地文件夹",
+  "mount": "打开笔记本",
+  "newNotebook": "新建笔记本",
   "mountWebDAV": "连接 WebDAV",
   "fileNameRule": "不能包含 \\/:*?\"<>| 字符",
   "slogan": "源于思考，饮水思源",

@@ -1,4 +1,5 @@
 {
+  "notebookName": "Please enter a notebook name",
   "moveToLeftTop": "Move to the Left Top",
   "moveToLeftBottom": "Move to the Left Bottom",
   "moveToRightTop": "Move to the Right Top",
@@ -347,7 +348,8 @@
   "confirm": "Confirm",
   "confirmDelete": "Delete",
   "back": "Back",
-  "mount": "Open local folder",
+  "mount": "Open Notebook",
+  "newNotebook": "New Notebook",
   "mountWebDAV": "Connect to WebDAV",
   "fileNameRule": "Not Allow \\/:*?\"<>|",
   "slogan": "When one drinks water, one must not forget where it comes from",
