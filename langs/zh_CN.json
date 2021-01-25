@@ -355,6 +355,7 @@
   "newNotebook": "新建笔记本",
   "mountWebDAV": "连接 WebDAV",
   "fileNameRule": "不能包含 \\/:*?\"<>| 字符",
+  "fileNameRule1": "不能包含 ~`!@#$%^&*()+=,[]{}\\|;:\"<,>.?/ 字符",
   "slogan": "源于思考，饮水思源",
   "showInFolder": "打开文件位置",
   "search": "搜索",
