@@ -186,7 +186,7 @@
   "open": "Turn on",
   "noRepos": "The cloud has not synchronized repos",
   "selectStorageFolder": "Select storage folder",
-  "firstImport1": "The folder has not been imported into SiYuan, please import it in one of the following ways:",
+  "firstImport1": "The folder has not been imported into SiYuan, please import it in one of the following ways",
   "firstImport": "<ul><li><span class='ft__primary fn__pointer' id='dialogNewBookmark'>Create a new notebook</span> and automatically import it under the notebook</li><li>Or select the notebook on the file tree and right click and select \"Import\" from the drop-down menu</li></ul><p>Wish you have a good time! \uD83C\uDF89",
   "syncLocal": "Clone to Local",
   "sync": "Sync",

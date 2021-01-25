@@ -186,7 +186,7 @@
   "open": "开启",
   "noRepos": "云端还没有同步的仓库",
   "selectStorageFolder": "选择存储文件夹",
-  "firstImport1": "该文件夹还没有导入到思源中，请通过如下方式之一进行导入：",
+  "firstImport1": "该文件夹还没有导入到思源中，请通过如下方式之一进行导入",
   "firstImport": "<ul><li><span class='ft__primary fn__pointer' id='dialogNewBookmark'>新建一个笔记本</span>并自动导入到该笔记本下</li><li>或者在文件树上选择笔记本并右击，在下拉菜单中选择“导入”</li></ul><p>祝你使用愉快 \uD83C\uDF89",
   "syncLocal": "克隆到本地",
   "sync": "同步",
