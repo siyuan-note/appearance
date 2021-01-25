@@ -1,4 +1,6 @@
 {
+  "showDock": "Show Dock",
+  "hideDock": "Hide Dock",
   "notebookName": "Please enter a notebook name",
   "moveToLeftTop": "Move to the Left Top",
   "moveToLeftBottom": "Move to the Left Bottom",
