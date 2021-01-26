@@ -1,4 +1,6 @@
 {
+  "expandAll": "Expand All",
+  "collapseAll": "Collapse All",
   "showDock": "Show Dock",
   "hideDock": "Hide Dock",
   "notebookName": "Please enter a notebook name",
