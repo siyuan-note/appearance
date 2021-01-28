@@ -1,4 +1,8 @@
 {
+  "paragraph": "Paragraph",
+  "math": "Math",
+  "listItem": "List item",
+  "superBlock": "Super block",
   "expandAll": "Expand All",
   "collapseAll": "Collapse All",
   "showDock": "Show Dock",
