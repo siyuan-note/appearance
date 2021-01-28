@@ -1,4 +1,13 @@
 {
+  "linkStrength": "链接强度",
+  "linkDistance": "链接距离",
+  "collideStrength": "斥力强度",
+  "collideRadius": "斥力半径",
+  "centerStrength": "中心引力强度",
+  "lineOpacity": "连线透明度",
+  "lineWidth": "连线粗细",
+  "nodeSize": "节点大小",
+  "arrow": "箭头",
   "paragraph": "段落",
   "math": "数学公式",
   "listItem": "列表项",

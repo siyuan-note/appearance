@@ -1,4 +1,13 @@
 {
+  "linkStrength": "Link strength",
+  "linkDistance": "Link distance",
+  "collideStrength": "Collide strength",
+  "collideRadius": "Collide radius",
+  "centerStrength": "Center strength",
+  "lineOpacity": "Line opacity",
+  "lineWidth": "Line size",
+  "nodeSize": "Node size",
+  "arrow": "Arrow",
   "paragraph": "Paragraph",
   "math": "Math",
   "listItem": "List item",
