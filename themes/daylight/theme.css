@@ -75,11 +75,12 @@
     --b3-graph-tag-point: #dbf32f;
     --b3-graph-asset-point: #05c091;
     --b3-graph-line: #5f6368;
+    --b3-graph-ref-line: #d23f31;
     --b3-graph-tag-line: #5f6b06;
     --b3-graph-tag-tag-line: #dbf32f;
     --b3-graph-asset-line: #037457;
     --b3-graph-hl-point: #f3a92f;
-    --b3-graph-hl-line: #d23f31;
+    --b3-graph-hl-line: #4285f4;
 
     /* 编辑器工具栏高度 */
     --b3-vditor-toolbar-height: 29px;
