@@ -343,7 +343,6 @@
   "newFileTip": "Please open a notebook first",
   "copyBlockRef": "Copy Block Ref",
   "copyContent": "Copy Block Content",
-  "linkLevelTip": "Should between [1,16]",
   "linkLevel": "Depth",
   "md20": "Enable ==mark==",
   "md21": "Enable ^Sup^",

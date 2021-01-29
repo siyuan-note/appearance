@@ -343,7 +343,6 @@
   "newFileTip": "请先打开一个笔记本",
   "copyBlockRef": "复制块引用",
   "copyContent": "复制块内容",
-  "linkLevelTip": "只能输入 [0, 16] 的数字",
   "linkLevel": "层级",
   "saveTip": " 还没有保存，确定关闭？",
   "md20": "支持 ==标记==",
