@@ -1,4 +1,9 @@
 {
+  "embed": "嵌入块",
+  "query": "查询块",
+  "dragTip": "拖拽移动位置",
+  "rightTip": "右键打开菜单",
+  "clickTip": "点击查看引用",
   "linkStrength": "链接强度",
   "linkDistance": "链接距离",
   "collideStrength": "斥力强度",

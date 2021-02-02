@@ -1,4 +1,9 @@
 {
+  "embed": "Embed Block",
+  "query": "Query Block",
+  "dragTip": "Drag to move position",
+  "rightTip": "Right-click to open the menu",
+  "clickTip": "Click to view Ref Block",
   "linkStrength": "Link strength",
   "linkDistance": "Link distance",
   "collideStrength": "Collide strength",
