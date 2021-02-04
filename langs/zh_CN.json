@@ -1,4 +1,5 @@
 {
+  "needVIP": "尊享功能，请前往<a target='_blank' href='https://ld246.com/subscribe/siyuan'>订阅</a>",
   "removeRecentBook": "从最近的笔记本中移除",
   "ppt": "幻灯片",
   "embed": "嵌入块",
@@ -233,7 +234,6 @@
   "sync": "同步",
   "cloudSync": "云端同步",
   "cloudBook": "云端笔记本",
-  "publicKey": "公钥",
   "cumulativePayment": "累计支付",
   "refresh": "刷新",
   "accountManage": "账号管理",
