@@ -571,6 +571,7 @@
     "52": "Indexing, [%d] documents to be processed",
     "53": "The basic index of [%d] documents has been completed, and [%d] documents remain to be processed",
     "54": "Indexing references, [%d] documents to be processed",
-    "55": "[%d] documents have been indexed and referenced, and [%d] documents remain to be processed"
+    "55": "[%d] documents have been indexed and referenced, and [%d] documents remain to be processed",
+    "56": "Indexed [%d] documents"
   }
 }
