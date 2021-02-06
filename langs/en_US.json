@@ -404,7 +404,7 @@
   "urlError": "URL Error",
   "theme": "Theme",
   "about": "About",
-  "about1": "Copyright (c) 2020-present, ld246.com<div class='b3-label__text vditor-reset'>SiYuan is a commercial software developed by Yunnan LianDi Technology Ltd.<br><br>Before v1.0.0 is released on 2021-02-19, all functions are free to use.<br>After v1.0.0 is released, some <a href='https://github.com/siyuan-note/siyuan/projects/3' target='_blank'>advanced features</a> require paid subscription.</div>",
+  "about1": "Copyright (c) 2020-present, ld246.com<div class='b3-label__text vditor-reset'>SiYuan is a commercial software developed by Yunnan LianDi Technology Ltd.<br><br>Before v1.0.0 is released on 2021-02-19, all functions are free to use.<br>After v1.0.0 is released, some <a href='https://b3log.org/siyuan/advanced_features.html' target='_blank'>advanced features</a> require paid subscription.</div>",
   "about2": "Use desktop/mobile browser to access",
   "about3": "Please use Chrome browser and keep it on the same network as your computer",
   "about4": "Open browser",
