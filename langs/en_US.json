@@ -415,7 +415,7 @@
   "mathEngine": "Mathematical formula engine",
   "checkUpdate": "Check update",
   "currentVer": "Current version",
-  "visitChangelogs": "<a href=\"https://ld246.com/tag/siyuan-announcement\" target=\"_blank\">Visit changelogs</a>",
+  "visitChangelogs": "<a href=\"https://github.com/siyuan-note/siyuan/releases\" target=\"_blank\">Visit changelogs</a>",
   "themeLight": "Light",
   "themeDark": "Dark",
   "pasteAsPlainText": "Paste As Plain Text",
