@@ -267,7 +267,7 @@
   "captcha": "Captcha",
   "register": "Create New Account",
   "login": "Login",
-  "accountTip": "By continuing, you agree to the<br><a href='https://ld246.com/article/1580714706243'>LianDi Community Agreement and Privacy Terms</a>",
+  "accountTip": "By continuing, you agree to the<br><a target='_blank' href='https://ld246.com/article/1580714706243'>LianDi Community Agreement and Privacy Terms</a>",
   "forgetPassword": "Forget Password",
   "accountName": "Username/Email/Phone Number",
   "account": "Account",
