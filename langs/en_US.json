@@ -550,7 +550,7 @@
     "30": "Failed to obtain cloud repositories",
     "31": "Failed to open the folder: %s",
     "32": "Failed to remove cloud repository",
-    "33": "The update package has been downloaded, close it and wait 7s before restarting to upgrade to the latest version",
+    "33": "<div class='fn__flex'><span class='fn__flex-center'>Wait 7 seconds after the app is closed and then open</span><div class='fn__space'></div><button class='b3-button b3-button--white'>click Update</button></div>",
     "34": "This operation is not supported in read-only mode",
     "35": "Downloading the update package, please wait...",
     "36": "Update cloud repositories failed",
