@@ -572,6 +572,7 @@
     "54": "Indexing references, [%d] documents to be processed",
     "55": "[%d] documents have been indexed and referenced, and [%d] documents remain to be processed",
     "56": "Indexed [%d] documents",
-    "57": "Failed to create temp key"
+    "57": "Failed to create temp key",
+    "58": "Failed to apply update: %s"
   }
 }
