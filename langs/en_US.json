@@ -575,7 +575,7 @@
     "56": "Indexed [%d] documents",
     "57": "Failed to create temp key",
     "58": "Failed to apply update: %s",
-    "59": "The new version is available, do you want to download and apply the update now?",
+    "59": "The new version is available<div class='fn__space'></div><button class='b3-button b3-button--white'>Download and apply the update now</button></div>",
     "60": "Failed to get the update package: %s"
   }
 }
