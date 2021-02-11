@@ -1,4 +1,5 @@
 {
+  "downloadingUpdate": "Downloading the update package, please wait...",
   "collapse": "Collapse",
   "needVIP1": "Export theme other than daylight as <a target='_blank' href='https://ld246.com/subscribe/siyuan'>paid subscription</a> feature, you can enjoy early bird discount \uD83D\uDC26 before 2021-02-19",
   "needVIP": "This feature is a <a target='_blank' href='https://ld246.com/subscribe/siyuan'>paid subscription</a> feature, you can enjoy early bird discount \uD83D\uDC26 before 2021-02-19",
@@ -524,7 +525,7 @@
     "6": "Create notebook [%s] folder [%s] failed: %s",
     "7": "Remove notebook [%s] path [%s] failed: %s",
     "8": "Check update failed",
-    "9": "New version available! Please download the complete installation package manually %s",
+    "9": "The new version is available, please download the complete installation package manually %s",
     "10": "Is the latest version",
     "11": "Fetch remote image failed: %s",
     "12": "Parse failed: %s",
@@ -573,6 +574,7 @@
     "55": "[%d] documents have been indexed and referenced, and [%d] documents remain to be processed",
     "56": "Indexed [%d] documents",
     "57": "Failed to create temp key",
-    "58": "Failed to apply update: %s"
+    "58": "Failed to apply update: %s",
+    "59": "The new version is available, do you want to download the update package now?"
   }
 }
