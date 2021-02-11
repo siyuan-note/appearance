@@ -549,7 +549,7 @@
     "30": "Failed to obtain cloud repositories",
     "31": "Failed to open the folder: %s",
     "32": "Failed to remove cloud repository",
-    "33": "<div class='fn__flex'><span class='fn__flex-center'>The update is ready</span><div class='fn__space'></div><button class='b3-button b3-button--white'>Restart now</button></div>",
+    "33": "<div class='fn__flex'><span class='fn__flex-center'>The update is ready, please restart manually after closing</span><div class='fn__space'></div><button class='b3-button b3-button--white'>Close now</button></div>",
     "34": "This operation is not supported in read-only mode",
     "35": "Downloading the update package, please wait...",
     "36": "Update cloud repositories failed",
