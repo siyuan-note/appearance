@@ -575,6 +575,7 @@
     "56": "Indexed [%d] documents",
     "57": "Failed to create temp key",
     "58": "Failed to apply update: %s",
-    "59": "The new version is available, do you want to download the update package now?"
+    "59": "The new version is available, do you want to download and apply the update now?",
+    "60": "Failed to get the update package: %s"
   }
 }
