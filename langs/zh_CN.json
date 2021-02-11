@@ -550,7 +550,7 @@
     "30": "获取云端仓库失败",
     "31": "打开文件夹失败：%s",
     "32": "删除云端仓库失败",
-    "33": "<div class='fn__flex'><span class='fn__flex-center'>应用关闭后需等待 7 秒再打开</span><div class='fn__space'></div><button class='b3-button b3-button--white'>请点此进行更新</button></div>",
+    "33": "<div class='fn__flex'><span class='fn__flex-center'>更新已经准备完毕</span><div class='fn__space'></div><button class='b3-button b3-button--white'>现在重启</button></div>",
     "34": "只读模式下不支持该操作",
     "35": "正在下载更新包，请稍等...",
     "36": "更新云端仓库失败",
