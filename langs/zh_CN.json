@@ -395,6 +395,7 @@
   "showInFolder": "打开文件位置",
   "search": "搜索",
   "config": "设置",
+  "configTip": "目前更多功能和设置可使用桌面端浏览器打开",
   "userName": "用户名",
   "password": "密码",
   "urlError": "URL 错误",

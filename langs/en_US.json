@@ -394,6 +394,7 @@
   "showInFolder": "Show in Folder",
   "search": "Search",
   "config": "Settings",
+  "configTip": "Currently more function and settings can be opened with a desktop browser",
   "userName": "Username",
   "password": "Password",
   "urlError": "URL Error",
