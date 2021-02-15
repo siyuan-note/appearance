@@ -403,7 +403,7 @@
   "language": "语言",
   "theme": "主题",
   "about": "关于",
-  "about1": "版权所有 (c) 2020-现在，ld246.com<div class='b3-label__text vditor-reset'>思源笔记是一款由云南链滴科技有限公司开发的商业软件。<br><br>在 2021-02-19 发布 v1.0.0 之前，所有功能免费使用。<br>v1.0.0 发布以后，一些<a href='https://b3log.org/siyuan/advanced_features.html' target='_blank'>高级特性</a>需要付费订阅。</div>",
+  "about1": "版权所有 (c) 2020-现在，ld246.com<div class='b3-label__text vditor-reset'>思源笔记是一款由云南链滴科技有限公司开发的商业软件。<br><br>基础功能对个人免费使用，<a href='https://b3log.org/siyuan/advanced_features.html' target='_blank'>高级特性</a>需要年付订阅。</div>",
   "about2": "使用桌面端/手机端浏览器访问",
   "about3": "请使用 Chrome 浏览器并保持和电脑在同一个网络内",
   "about4": "打开浏览器",
