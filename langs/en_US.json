@@ -536,7 +536,7 @@
     "18": "Get community user account failed",
     "19": "User information has expired, please log in again",
     "20": "Does not support favorite document block",
-    "21": "Sync completed",
+    "21": "Synced [%s], now is syncing [%s], please wait...",
     "22": "Syncing, please wait...",
     "23": "Commit repo [%s] failed: %s",
     "24": "Sync notebook [%s] failed: %s",
