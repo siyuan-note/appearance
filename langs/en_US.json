@@ -133,7 +133,7 @@
   "copyBlockURL": "Copy URL",
   "workspace": "Online Workspace",
   "sharePublish": "Online Publishing",
-  "share": "Share publishing",
+  "share": "Publishing",
   "newBookmark": "Create a bookmark label",
   "versioning": "Versioning",
   "editHistorySaveInterval": "Automatically save editing history interval (minutes, set to 0 to disable version management), it will take effect after restart",
