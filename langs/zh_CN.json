@@ -574,7 +574,7 @@
     "55": "已完成索引引用关系 [%d] 篇文档，剩余待处理 [%d] 篇文档",
     "56": "已完成索引 [%d] 篇文档",
     "57": "创建临时密钥失败",
-    "58": "应用更新失败：%s",
+    "58": "应用更新失败，请<a href=\"https://b3log.org/siyuan/download.html\" target=\"_blank\">下载安装包</a>重新安装",
     "59": "有新版本可用<div class='fn__space'></div><button class='b3-button b3-button--white'>现在下载并应用更新</button></div>",
     "60": "获取更新包失败：%s"
   }
