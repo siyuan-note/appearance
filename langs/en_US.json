@@ -474,7 +474,7 @@
   "over": "over",
   "performanceTip": "Real-time preview requires ${x}ms, you can close it",
   "preview": "Preview",
-  "quote": "Quote",
+  "quote": "Ref",
   "record": "Start Record/End Record",
   "record-tip": "The device does not support recording",
   "recording": "recording...",
