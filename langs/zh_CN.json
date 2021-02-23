@@ -125,7 +125,7 @@
   "mounting": "正在打开，请稍等...",
   "exporting": "正在导出，请稍等...",
   "exported": "导出完成：",
-  "refExpired": "查询该 ID 指向的内容块失败",
+  "refExpired": "不存在符合条件的内容块",
   "generatedMultipleBlocks": "编辑产生了多个块，不支持保存",
   "switchBlock": "转换为内容块引用",
   "emptyContent": "暂无相关内容",
