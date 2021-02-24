@@ -580,7 +580,6 @@
     "58": "Failed to apply update, please <a href=\"https://b3log.org/siyuan/en/download.html\" target=\"_blank\">download the installation package</a> and reinstall",
     "59": "The new version is available<div class='fn__space'></div><button class='b3-button b3-button--white'>Download and apply the update now</button></div>",
     "60": "Failed to get the update package: %s",
-    "61": "Syncing asset file [%s], [%d] assets to be processed",
-    "62": "Cloning the document data is complete. Opening, please wait..."
+    "61": "Syncing asset file [%s], [%d] assets to be processed"
   }
 }
