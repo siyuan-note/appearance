@@ -231,6 +231,8 @@
   "syncLocal": "Clone to Local",
   "sync": "Sync",
   "syncAt": "Sync at",
+  "autoSync": "Automatic synchronization interval",
+  "autoSync2": "Automatically synchronize interval (minutes, set to 0 to disable automatically synchronize), it will take effect after restart",
   "syncTip": "Copy standard Markdown and the copy button in the preview will use the cloud address",
   "cloudBook": "Cloud Notebook",
   "cumulativePayment": "Cumulative payment",
