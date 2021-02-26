@@ -1,4 +1,7 @@
 {
+  "searchLimit": "The number of search results displayed",
+  "searchLimit1": "TODO",
+  "searchFilter": "TODO",
   "copyImage": "Copy Image",
   "toggleWin": "Hide/Show Window",
   "customSort": "Custom Sorting",

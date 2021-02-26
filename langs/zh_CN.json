@@ -1,4 +1,7 @@
 {
+  "searchLimit": "搜索结果显示数",
+  "searchLimit1": "TODO",
+  "searchFilter": "TODO",
   "copyImage": "复制图片",
   "toggleWin": "隐藏/显示窗口",
   "customSort": "自定义排序",
