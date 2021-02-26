@@ -1,7 +1,7 @@
 {
   "searchLimit": "搜索结果显示数",
-  "searchLimit1": "TODO",
-  "searchFilter": "TODO",
+  "searchLimit1": "如果数据量较大，该值请勿配置过大",
+  "searchFilter": "默认类型过滤",
   "copyImage": "复制图片",
   "toggleWin": "隐藏/显示窗口",
   "customSort": "自定义排序",
