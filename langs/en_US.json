@@ -586,6 +586,7 @@
     "59": "The new version is available<div class='fn__space'></div><button class='b3-button b3-button--white'>Download and apply the update now</button></div>",
     "60": "Failed to get the update package: %s",
     "61": "Syncing asset file [%s], [%d] assets to be processed",
-    "62": "Sync completed"
+    "62": "Sync completed",
+    "63": "The notebook in the installation directory cannot be configured"
   }
 }
