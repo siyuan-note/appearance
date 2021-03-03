@@ -587,6 +587,7 @@
     "60": "Failed to get the update package: %s",
     "61": "To use third-party Git repository services, please disable automatic commit and manually use git commands externally",
     "62": "Sync completed",
-    "63": "The notebook in the installation directory cannot be configured"
+    "63": "The notebook in the installation directory cannot be configured",
+    "64": "There are [%d] files in this notebook. It will take some time to index, please wait..."
   }
 }
