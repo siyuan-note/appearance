@@ -544,7 +544,7 @@
     "17": "Please enter the folder name",
     "18": "Get community user account failed",
     "19": "User information has expired, please log in again",
-    "20": "Does not support favorite document block",
+    "20": "Synchronization is not turned on for all notebooks currently, please enable synchronization in the settings of the notebooks that need to be synchronized",
     "21": "Synced [%s], now is syncing [%s], please wait...",
     "22": "Syncing, please wait...",
     "23": "Commit repo [%s] failed: %s",
