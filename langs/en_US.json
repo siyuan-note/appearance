@@ -1,7 +1,8 @@
 {
   "searchLimit": "The number of search results displayed",
   "searchLimit1": "If the amount of data is large, do not configure the value too large",
-  "searchFilter": "Default type filter",
+  "searchFilter": "Type filter",
+  "attrFilter": "Attribute filter",
   "copyImage": "Copy Image",
   "toggleWin": "Hide/Show Window",
   "customSort": "Custom Sorting",
