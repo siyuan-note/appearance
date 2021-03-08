@@ -119,6 +119,6 @@
     --b3-vditor-inline-blockref-color: #9876aa;
 }
 
-.language-graphviz polygon {
+.language-graphviz .graph > polygon {
     fill: var(--b3-theme-on-surface);
 }
