@@ -565,7 +565,7 @@
     "37": "Do not include punctuation or spaces in the save path",
     "38": "Editing has generated multiple blocks, please edit again",
     "39": "The corresponding content block was not found on the document",
-    "40": "You need to enable atuo-commit before using data synchronization",
+    "40": "TODO",
     "41": "Do not set the notebook folder under the installation directory, otherwise data will be lost when uninstalling or reinstalling",
     "42": "This function depends on Git, please install it manually https://git-scm.com/downloads",
     "43": "The maximum support of cloud space (4G) has been exceeded, and synchronization is not supported at present",
