@@ -235,8 +235,6 @@
   "syncLocal": "Clone to Local",
   "sync": "Sync",
   "syncAt": "Sync at",
-  "autoSync": "Automatic synchronization interval",
-  "autoSync2": "Automatically synchronize interval (minutes, set to 0 to disable automatically synchronize), it will take effect after restart",
   "syncTip": "After enabling, the notebook will be included in the synchronization process: documents are synchronized to the cloud through Git, and asset files in the assets folder are uploaded to the cloud through HTTPS;<br>At the same time, when copying standard Markdown and copy to the WeChat MP, Zhihu and Yuque in preview, the link address of the asset file will automatically use the cloud address",
   "cloudBook": "Cloud Notebook",
   "cumulativePayment": "Cumulative payment",
