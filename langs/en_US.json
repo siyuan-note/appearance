@@ -1,4 +1,5 @@
 {
+  "keymapTip": "After the shortcut keys are modified, they need to be restarted to take effect",
   "mustBig": "need to be greater than",
   "searchLimit": "The number of search results displayed",
   "searchLimit1": "If the amount of data is large, do not configure the value too large",
