@@ -1,4 +1,5 @@
 {
+  "mustBig": "需大于",
   "searchLimit": "搜索结果显示数",
   "searchLimit1": "如果数据量较大，该值请勿配置过大",
   "searchFilter": "类型过滤",
