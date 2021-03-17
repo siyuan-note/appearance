@@ -18,7 +18,6 @@
   "query": "Query Block",
   "gutterTip": "Drag to move position, Right-click to open the menu, ⌥Click expand/collapse Double-Click name",
   "clickTip": ", Click to view Ref Block",
-  "linkStrength": "Link strength",
   "linkDistance": "Link distance",
   "collideStrength": "Collide strength",
   "collideRadius": "Collide radius",

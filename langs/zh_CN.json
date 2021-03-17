@@ -18,7 +18,6 @@
   "query": "查询块",
   "gutterTip": "拖拽移动位置 右键打开菜单 ⌥Click折叠/展开 Double-Click 命名",
   "clickTip": " 点击查看引用",
-  "linkStrength": "链接强度",
   "linkDistance": "链接距离",
   "collideStrength": "斥力强度",
   "collideRadius": "斥力半径",
