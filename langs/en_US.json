@@ -293,7 +293,7 @@
   "appearance3": "Select the syntax highlighting theme used in dark mode",
   "appearance2": "Select the syntax highlighting theme used in light mode",
   "appearance1": "Code Block Theme",
-  "min": "Mix",
+  "min": "Min",
   "restore": "Restore",
   "max": "Max",
   "md1": "Automatically insert spaces between Chinese and Western (English, Arabic numerals and symbols, etc.)",
