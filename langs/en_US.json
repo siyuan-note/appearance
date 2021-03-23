@@ -1,4 +1,5 @@
 {
+  "notSupport1": "Does not support drag and drop across notebooks",
   "keymapTip": "After the shortcut keys are modified, they need to be restarted to take effect",
   "mustBig": "need to be greater than",
   "searchLimit": "The number of search results displayed",
