@@ -557,7 +557,7 @@
     "22": "Syncing, please wait...",
     "23": "Commit repo [%s] failed: %s",
     "24": "Sync notebook [%s] failed: %s",
-    "25": "The notebook path does not support spaces or special symbols [%s]. Please close the notebook first, rename or move it in the file system and open it",
+    "25": "The notebook name should not contain spaces or special symbols [%s], please close the notebook first, rename it in the file system, and then open it",
     "26": "Generate repo auth key failed",
     "27": "Clone repo failed",
     "28": "Get repo commit log failed",
