@@ -558,7 +558,7 @@
     "19": "User information has expired, please log in again",
     "20": "Synchronization is not turned on for all notebooks currently, please enable synchronization in the settings of the notebooks that need to be synchronized",
     "21": "Uploaded [%s], now is uploading [%s], please wait...",
-    "22": "Syncing, please wait...",
+    "22": "Syncing, please wait... TODO",
     "23": "Commit repo [%s] failed: %s",
     "24": "Sync notebook [%s] failed: %s",
     "25": "The notebook name should not contain special symbols [%s], please close the notebook first, rename it in the file system, and then open it",
@@ -603,6 +603,9 @@
     "64": "The notebook [%s] has a total of [%d] files. It will take some time to index, please wait...",
     "65": "Creating document files, [%d] documents to be processed",
     "66": "[%d] document files have been created, [%d] documents remaining to be processed",
-    "67": "Uploaded at %s, downloaded at %s"
+    "67": "Uploaded at %s, downloaded at %s",
+    "68": "Uploading, please wait...",
+    "69": "Downloading, please wait...",
+    "70": "Synchronized [%s], synchronizing [%s], please wait..."
   }
 }
