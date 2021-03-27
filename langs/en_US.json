@@ -1,6 +1,6 @@
 {
   "autoSync": "Auto Sync",
-  "autoSyncTip": "TODO",
+  "autoSyncTip": "After enabling, the synchronization will switch from manual upload/download to automatic synchronization every 30 seconds, and the upload or download will be automatically judged according to the last change time of the data of each notebook",
   "notSupport1": "Does not support drag and drop across notebooks",
   "keymapTip": "After the shortcut keys are modified, they need to be restarted to take effect",
   "mustBig": "need to be greater than",
