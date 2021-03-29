@@ -1,4 +1,6 @@
 {
+  "uploadAssets2CDNTip": "在同步上传时自动将资源文件上传一份到 CDN 中，以方便网络外链",
+  "uploadAssets2CDN": "上传资源文件到 CDN",
   "autoSync": "自动同步",
   "autoSyncTip": "开启后同步将从手动上传/下载切换为间隔 30 秒进行一次自动同步，根据每个笔记本的数据最后变更时间自动判断上传或下载",
   "notSupport1": "不支持跨笔记本进行拖拽",
