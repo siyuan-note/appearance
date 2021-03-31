@@ -608,6 +608,7 @@
     "65": "Creating document files, [%d] documents to be processed",
     "66": "[%d] document files have been created, [%d] documents remaining to be processed",
     "67": "Uploaded at %s, downloaded at %s",
-    "68": "Synchronized [%s], synchronizing [%s], please wait..."
+    "68": "Synchronized [%s], synchronizing [%s], please wait...",
+    "69": "The mobile APP does not currently support synchronous notebooks with space"
   }
 }
