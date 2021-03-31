@@ -1,4 +1,6 @@
 {
+  "copyProtocol": "Copy Protocol",
+  "copyAllProtocol": "Copy all Protocol",
   "uploadAssets2CDNTip": "Automatically upload a copy of the resource file to the CDN during synchronization upload to facilitate network external links",
   "uploadAssets2CDN": "Upload asset files to CDN",
   "autoSync": "Auto Sync",
