@@ -1,6 +1,6 @@
 {
-  "copyProtocol": "复制协议",
-  "copyAllProtocol": "复制完整协议",
+  "copyProtocol": "复制块超链接",
+  "copyAllProtocol": "复制笔记本块超链接",
   "uploadAssets2CDNTip": "在同步上传时自动将资源文件上传一份到 CDN 中，以方便网络外链",
   "uploadAssets2CDN": "上传资源文件到 CDN",
   "autoSync": "自动同步",
