@@ -611,6 +611,7 @@
     "66": "[%d] document files have been created, [%d] documents remaining to be processed",
     "67": "Uploaded at %s, downloaded at %s",
     "68": "Synchronized [%s], synchronizing [%s], please wait...",
-    "69": "The notebook name contains spaces, and the mobile APP does not support synchronization"
+    "69": "The notebook name contains spaces, and the mobile APP does not support synchronization",
+    "70": "Copy notebook [%s] file [%s] failed: %s"
   }
 }
