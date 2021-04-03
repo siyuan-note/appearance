@@ -149,7 +149,7 @@
   "share": "Publishing",
   "newBookmark": "Create a bookmark label",
   "versioning": "Automatic backup interval",
-  "editHistorySaveInterval": "Automatically save editing history interval (minutes, set to 0 to disable auto backup), it will take effect after restart",
+  "editHistorySaveInterval": "Automatically save editing history interval (minutes, set to 0 to disable auto backup)",
   "cutBlock": "Cut Block Content",
   "fileNameASC": "File Name Alphabet ASC",
   "fileNameDESC": "File Name Alphabet DESC",

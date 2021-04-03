@@ -149,7 +149,7 @@
   "share": "分享发布",
   "newBookmark": "新建书签标识",
   "versioning": "自动备份间隔",
-  "editHistorySaveInterval": "自动保存编辑历史时间间隔（分钟，设置为 0 则禁用自动备份），重启后生效",
+  "editHistorySaveInterval": "自动保存编辑历史时间间隔（分钟，设置为 0 则禁用自动备份）",
   "cutBlock": "剪切块内容",
   "fileNameASC": "文件名字母升序",
   "fileNameDESC": "文件名字母降序",
