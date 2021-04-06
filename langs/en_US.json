@@ -1,4 +1,5 @@
 {
+  "split": "Split",
   "moveToUp": "Move Block Up",
   "moveToDown": "Move Block Down",
   "copyProtocol": "Copy block hyperlink",
