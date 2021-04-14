@@ -1,5 +1,7 @@
 {
   "split": "分屏",
+  "underline": "下划线",
+  "inline-math": "行内数学公式",
   "moveToUp": "向上移",
   "moveToDown": "向下移",
   "copyProtocol": "复制块超链接",

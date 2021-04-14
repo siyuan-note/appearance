@@ -1,5 +1,7 @@
 {
   "split": "Split",
+  "underline": "Underline",
+  "inline-math": "Inline Math",
   "moveToUp": "Move Block Up",
   "moveToDown": "Move Block Down",
   "copyProtocol": "Copy block hyperlink",
