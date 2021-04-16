@@ -327,8 +327,6 @@
   "md14": "Math Preview",
   "md15": "After closing, the math formula will not be rendered in the editor",
   "md16": "When the block is bookmarked, named, and aliased, the added content will be displayed on the upper right side of the block",
-  "md18": "Support image url path with spaces",
-  "md19": "After enabling, spaces will be allowed in the image or link path, that is, there is no need to use <code>%20</code>, it will take effect after restart",
   "md25": "HTML Block Preview",
   "md26": "After enabling, the HTML block will be rendered in time when editing",
   "md27": "The code block preview shows the line number",
