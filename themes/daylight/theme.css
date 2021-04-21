@@ -130,6 +130,6 @@
     --b3-protyle-inline-blockref-color: #660e7a;
 }
 
-.language-graphviz .graph > polygon {
+.render-node[data-subtype="graphviz"] .graph > polygon {
     fill: transparent;
 }

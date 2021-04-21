@@ -130,6 +130,6 @@
     --b3-protyle-inline-blockref-color: #9876aa;
 }
 
-.language-graphviz .graph > polygon {
+.render-node[data-subtype="graphviz"] .graph > polygon {
     fill: var(--b3-theme-on-surface);
 }
