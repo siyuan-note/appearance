@@ -119,7 +119,7 @@
     /* 代码片段背景 */
     --b3-protyle-code-background: rgba(27, 31, 35, .05);
 
-    /* 即时渲染行内元素颜色 */
+    /* 所见即所得行内元素颜色 */
     --b3-protyle-inline-strong-color: #202124;
     --b3-protyle-inline-em-color: #202124;
     --b3-protyle-inline-s-color: #202124;
