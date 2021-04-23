@@ -346,7 +346,7 @@
   "export14": "Please fill in the symbol on the left side of the anchor text and the symbol on the right side of the anchor text in the input box in turn",
   "export15": "Label Package Symbol",
   "export16": "Please fill in the symbol on the left side of the tag and the symbol on the right side of the tag in the input box in turn",
-  "export10": "Block Ref",
+  "blockRef": "Block Ref",
   "export11": "Content handling of content block references when exporting Markdown",
   "theme11": "Use theme in light mode",
   "theme12": "Use theme in dark mode",
