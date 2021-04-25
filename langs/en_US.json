@@ -371,7 +371,6 @@
   "closeUnmodified": "Close Unmodified Tabs",
   "newFileTip": "Please open a notebook first",
   "copyBlockRef": "Copy Block Ref",
-  "copyContent": "Copy Block Content",
   "linkLevel": "Depth",
   "mark": "Mark",
   "saveTip": " is not save, confirm close it?",
