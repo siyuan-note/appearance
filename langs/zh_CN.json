@@ -1,4 +1,12 @@
 {
+  "headingBlock": "标题块",
+  "listBlock": "列表块",
+  "listItemBlock": "列表项块",
+  "blockquoteBlock": "块引用块",
+  "tableBlock": "表格块",
+  "mathBlock": "数学公式块",
+  "codeBlock": "代码块",
+  "paragraphBlock": "段落块",
   "errorStyle": "错误样式",
   "successStyle": "成功样式",
   "warningStyle": "警告样式",

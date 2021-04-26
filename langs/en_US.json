@@ -1,4 +1,12 @@
 {
+  "headingBlock": "Heading block",
+  "listBlock": "List block",
+  "listItemBlock": "List Item block",
+  "blockquoteBlock": "Blockquote block",
+  "tableBlock": "Table block",
+  "mathBlock": "Math block",
+  "codeBlock": "Code block",
+  "paragraphBlock": "Paragraph block",
   "errorStyle": "Error Style",
   "successStyle": "Success Style",
   "warningStyle": "Warning Style",
