@@ -181,6 +181,7 @@
   "enterFullscreen": "进入全屏幕",
   "exitFullscreen": "退出全屏幕",
   "clearUnused": "未引用资源",
+  "clearAll": "确认清理所有未引用资源？",
   "paste": "粘贴",
   "pasteRef": "粘贴块引用",
   "pasteEmbed": "粘贴块嵌入",
