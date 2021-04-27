@@ -180,7 +180,7 @@
   "sort": "Sort",
   "enterFullscreen": "Enter Full Screen",
   "exitFullscreen": "Exit Full Screen",
-  "clearUnused": "Cleanup unreferenced assets",
+  "clearUnused": "Unreferenced assets",
   "paste": "Paste",
   "pasteRef": "Paste Block Ref",
   "pasteEmbed": "Paste Block Embed",
