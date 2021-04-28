@@ -333,7 +333,7 @@
   "fileTree11": "New daily note config",
   "fileTree12": "New doc name template",
   "fileTree13": "The template snippet is used by default when creating a new doc for naming, for example <code>{{now | date \"20060102150405\"}}</code>",
-  "fileTree14": "Save path (support date format template variables, such as <code>/Daily Notes/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}.md</code>)",
+  "fileTree14": "Save path (support date format template variables, such as <code>/Daily Notes/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}.sy</code>)",
   "fileTree15": "Template path (for example <code>/templates/dailynote.md</code>)",
   "fileTree16": "Maximum number of listings",
   "fileTree17": "If there are too many dco and folder in the same folder, you can use this restriction to improve performance",
