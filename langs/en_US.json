@@ -75,7 +75,6 @@
   "moveToBottomRight": "Move to the Bottom Right",
   "accountDisplayTitle": "Whether to display the title icon at the top bar",
   "accountDisplayVIP": "Whether to display the VIP icon at the top bar",
-  "expert": "Expert",
   "undoConfirm": "Are you sure rollback to the <b>${date}</b>?",
   "pdfTip": "PDF export does not support Dark theme",
   "pdfConfirm": "Do you want to continue exporting with the selected Light theme?",
