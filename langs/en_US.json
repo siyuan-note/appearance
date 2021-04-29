@@ -248,7 +248,7 @@
   "firstImport1": "The folder has not been imported into SiYuan, please import it in one of the following ways",
   "firstImport": "<ul><li><span class='ft__primary fn__pointer' id='dialogNewBookmark'>Create a new notebook</span> and then automatically import it under the notebook</li><li>Or select the notebook on the file tree and right click and select \"Import\" from the drop-down menu</li></ul><p>Wish you have a good time! \uD83C\uDF89",
   "sync": "Sync",
-  "syncTip": "After enabling, it will support uploading notebooks to the cloud or downloading from the cloud",
+  "syncTip": "After enabling, it will support uploading data to the cloud or downloading from the cloud",
   "publishTip": "After enabling, the notebook will support online access through the browser, using the data after the most recent synchronization upload as the data source",
   "cloudBook": "Cloud Notebook",
   "cumulativePayment": "Cumulative payment",
