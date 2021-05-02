@@ -17,7 +17,6 @@
   "moveToUp": "Move Block Up",
   "moveToDown": "Move Block Down",
   "copyProtocol": "Copy block hyperlink",
-  "copyAllProtocol": "Copy notebook block hyperlink",
   "uploadAssets2CDNTip": "Automatically upload a copy of the resource file to the CDN during synchronization upload, when copying standard Markdown and copy to the WeChat MP, Zhihu and Yuque, the link address of the asset file will automatically use the CDN address",
   "uploadAssets2CDN": "Upload asset files to CDN",
   "autoSync": "Auto Sync",

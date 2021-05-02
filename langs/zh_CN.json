@@ -17,7 +17,6 @@
   "moveToUp": "向上移",
   "moveToDown": "向下移",
   "copyProtocol": "复制块超链接",
-  "copyAllProtocol": "复制笔记本块超链接",
   "uploadAssets2CDNTip": "在同步上传时自动将资源文件上传一份到 CDN 中，在使用复制标准 Markdown 及预览中的复制到公众号、知乎和语雀功能时，资源文件的链接地址将自动使用 CDN 地址",
   "uploadAssets2CDN": "上传资源文件到 CDN",
   "autoSync": "自动同步",
