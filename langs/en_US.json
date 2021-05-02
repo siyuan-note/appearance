@@ -404,7 +404,7 @@
   "about5": "Browser access authentication",
   "about6": "After configuration, it will be used as the access authentication password (user name is always <code>siyuan</code>), use <code>BEYOND</code> as the password to turn off authentication",
   "about7": "Workspace dir",
-  "about8": "All data will be saved in the workspace directory, please manually move the data to the new path on the file system after modification",
+  "about8": "The workspace is used to save data and configuration, and needs to be restarted after modification",
   "autoSpace": "Automatically insert spaces between Chinese and Western languages",
   "inlineMathDigit": "Allow inline math formulas to follow numbers",
   "mathEngine": "Mathematical formula engine",
