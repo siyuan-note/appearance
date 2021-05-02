@@ -405,7 +405,7 @@
   "about5": "浏览器访问鉴权",
   "about6": "配置后作为访问鉴权密码（用户名固定使用 <code>siyuan</code>），关闭鉴权请使用 <code>BEYOND</code> 作为密码",
   "about7": "工作空间目录",
-  "about8": "工作空间用于保存数据和配置，修改后需要重启",
+  "about8": "工作空间用于保存数据和配置，修改后会自动重启",
   "autoSpace": "中西文中间自动插入空格",
   "inlineMathDigit": "允许内联数学公式后紧跟数字",
   "mathEngine": "数学公式引擎",
