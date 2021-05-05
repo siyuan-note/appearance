@@ -1,6 +1,8 @@
 {
-  "docLen": "Document word count:",
-  "blockLen": "Current block word count:",
+  "docWordCount": "Document words:",
+  "blockWordCount": "Block words:",
+  "docRuneCount": "Document characters:",
+  "blockRuneCount": "Block characters:",
   "kbd": "Keyboard",
   "errorStyle": "Error Style",
   "successStyle": "Success Style",
