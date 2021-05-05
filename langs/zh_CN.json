@@ -1,8 +1,8 @@
 {
   "docWordCount": "文档词数：",
-  "blockWordCount": "块字词数：",
+  "blockWordCount": "　块字数：",
   "docRuneCount": "文档字数：",
-  "blockRuneCount": "块字符数：",
+  "blockRuneCount": "　块字数：",
   "kbd": "键盘",
   "errorStyle": "错误样式",
   "successStyle": "成功样式",
