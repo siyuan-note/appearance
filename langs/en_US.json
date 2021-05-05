@@ -1,4 +1,6 @@
 {
+  "docLen": "Document word count:",
+  "blockLen": "Current block word count:",
   "kbd": "Keyboard",
   "errorStyle": "Error Style",
   "successStyle": "Success Style",
