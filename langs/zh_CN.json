@@ -323,7 +323,7 @@
   "fileTree12": "新建文档名模版",
   "fileTree13": "使用该模板片段进行命名，例如 <code>{{now | date \"20060102150405\"}}</code>",
   "fileTree14": "存放路径（可使用日期格式模板变量，例如 <code>/日记/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}.sy</code>）",
-  "fileTree15": "模板路径（例如 <code>/templates/dailynote.md</code>）",
+  "fileTree15": "模板路径（例如 <code>dailynote.md</code>，需要将该文件放置于工作空间/data/templates/ 下）",
   "fileTree16": "最大列出数量",
   "fileTree17": "如果同一文件夹下文档和文件夹非常多，可通过该项限制以提升性能",
   "fileTree18": "删除文件时进行备份",
