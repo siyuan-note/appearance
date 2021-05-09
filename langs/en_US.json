@@ -1,5 +1,5 @@
 {
-  "uploadCloud": "Upload to image bed",
+  "uploadAsset2Cloud": "Upload assets to cloud",
   "docWordCount": "Document words:",
   "blockWordCount": "Block words:",
   "docRuneCount": "Document characters:",
@@ -544,7 +544,7 @@
     "38": "Editing has generated multiple blocks, please edit again",
     "39": "The corresponding content block was not found on the document",
     "40": "Please install rsync (version 3.x.x protocol version 31) manually, macOS: brew install rsync",
-    "41": "TODO",
+    "41": "Upload completed",
     "42": "This function depends on Git, please install it manually https://git-scm.com/downloads",
     "43": "The maximum support of cloud space (4G) has been exceeded, and synchronization is not supported at present",
     "44": "Parse template failed: %s",

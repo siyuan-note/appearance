@@ -1,5 +1,5 @@
 {
-  "uploadCloud": "上传到图床",
+  "uploadAsset2Cloud": "上传资源文件到图床",
   "docWordCount": "文档词数：",
   "blockWordCount": "　块字数：",
   "docRuneCount": "文档字数：",
@@ -544,7 +544,7 @@
     "38": "编辑产生了多个块，请重新编辑",
     "39": "在文档上未找到对应内容块",
     "40": "请手动安装 rsync （version 3.x.x protocol version 31），macOS：brew install rsync",
-    "41": "TODO",
+    "41": "上传完毕",
     "42": "该功能依赖 Git，请手动安装 https://git-scm.com/downloads",
     "43": "已超过云端空间最大支持（4G），目前不支持同步",
     "44": "模板解析失败：%s",
