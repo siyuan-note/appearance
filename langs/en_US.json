@@ -40,7 +40,7 @@
   "needVIP": "This feature requires <a target='_blank' href='https://b3log.org/siyuan/en/pricing.html'>paid subscription</a>",
   "ppt": "Slide",
   "embed": "Embed Block",
-  "gutterTip": "Drag to move position, Right-click to open the menu, ⌥Click expand/collapse Double-Click name",
+  "gutterTip": "Drag to move position\nRight-click to open the menu\n⌘Click Zoom In\n⌥Click expand/collapse\nDouble-Click name",
   "linkDistance": "Link distance",
   "collideStrength": "Collide strength",
   "collideRadius": "Collide radius",

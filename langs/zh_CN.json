@@ -40,7 +40,7 @@
   "needVIP": "该功能需要<a target='_blank' href='https://b3log.org/siyuan/pricing.html'>付费订阅</a>",
   "ppt": "幻灯片",
   "embed": "嵌入块",
-  "gutterTip": "拖拽移动位置 右键打开菜单 ⌥Click折叠/展开 Double-Click 命名",
+  "gutterTip": "拖拽 移动位置\n右键 打开菜单\n⌘Click 进入\n⌥Click 折叠/展开\nDouble-Click 命名",
   "linkDistance": "链接距离",
   "collideStrength": "斥力强度",
   "collideRadius": "斥力半径",
