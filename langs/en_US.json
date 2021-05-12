@@ -105,8 +105,6 @@
   "heading4": "Heading 4",
   "heading5": "Heading 5",
   "heading6": "Heading 6",
-  "bigger": "Bigger",
-  "smaller": "Smaller",
   "general": "General",
   "insertBefore": "Insert an empty block before the block where the cursor is",
   "insertAfter": "Insert an empty block after the block where the cursor is located",
