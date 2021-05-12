@@ -135,7 +135,6 @@
   "previous": "Previous",
   "next": "Next",
   "file": "File",
-  "docRename": "Rename the document to",
   "kernelFault0": "Kernel connection interrupted...",
   "kernelFault1": "If the dialog do not disappear automatically after 7 seconds, please close the window and restart.",
   "kernelFault2": "If the problem still occurs after restarting, please report it via <a href=\"https://github.com/siyuan-note/siyuan/issues\">GitHub Issues</a>, thank you!",
