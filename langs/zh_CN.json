@@ -246,7 +246,7 @@
   "account5": "在线工作空间",
   "syncCloud": "云端数据同步",
   "downloadCloud": "从云端下载",
-  "downloadCloudTip": "下载后将使用云端数据覆盖本地，被覆盖的数据会自动备份到笔记本 <code>.siyuan/backup/</code> 文件夹下。是否下载？",
+  "downloadCloudTip": "下载后将使用云端数据覆盖本地，被覆盖的数据会自动备份到 <code>.siyuan/backup/</code> 文件夹下。是否下载？",
   "account2": "移动端可编辑",
   "account3": "上传到云端",
   "account3Tip": "上传后将使用本地数据覆盖云端数据，是否上传？",

@@ -246,7 +246,7 @@
   "account5": "Online workspace",
   "syncCloud": "Cloud data synchronization",
   "downloadCloud": "Download",
-  "downloadCloudTip": "After downloading, the cloud data will be used to overwrite the local, and the overwritten data will be automatically backed up to the notebook <code>.siyuan/backup/</code> folder. Do you want to download?",
+  "downloadCloudTip": "After downloading, the cloud data will be used to overwrite the local, and the overwritten data will be automatically backed up to the <code>.siyuan/backup/</code> folder. Do you want to download?",
   "account3": "Upload",
   "account3Tip": "After uploading, local data will overwrite cloud data. Do you want to upload?",
   "account2": "Mobile supports editing",
