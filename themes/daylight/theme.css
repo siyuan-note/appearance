@@ -129,7 +129,3 @@
     --b3-protyle-inline-tag-color: #5f6368;
     --b3-protyle-inline-blockref-color: #660e7a;
 }
-
-.render-node[data-subtype="graphviz"] .graph > polygon {
-    fill: transparent;
-}
