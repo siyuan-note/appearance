@@ -553,7 +553,7 @@
     "58": "应用更新失败，请<a href=\"https://b3log.org/siyuan/download.html\" target=\"_blank\">下载安装包</a>重新安装",
     "59": "有新版本可用<div class='fn__space'></div><button class='b3-button b3-button--white'>现在下载并应用更新</button></div>",
     "60": "获取更新包失败：%s",
-    "61": "TODO",
+    "61": "正在索引本地数据，请等待索引结束后再同步",
     "62": "同步完毕",
     "63": "安装目录下的笔记本不能进行配置",
     "64": "笔记本 [%s] 共有文件 [%d] 个，需要一些时间进行索引，请稍等...",

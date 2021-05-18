@@ -553,7 +553,7 @@
     "58": "Failed to apply update, please <a href=\"https://b3log.org/siyuan/en/download.html\" target=\"_blank\">download the installation package</a> and reinstall",
     "59": "The new version is available<div class='fn__space'></div><button class='b3-button b3-button--white'>Download and apply the update now</button></div>",
     "60": "Failed to get the update package: %s",
-    "61": "TODO",
+    "61": "Indexing local data, please wait for the end of the index to synchronize",
     "62": "Sync completed",
     "63": "The notebook in the installation directory cannot be configured",
     "64": "The notebook [%s] has a total of [%d] files. It will take some time to index, please wait...",
