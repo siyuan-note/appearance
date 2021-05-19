@@ -1,4 +1,7 @@
 {
+  "vLayout": "Vertical layout",
+  "hLayout": "Horizontal layout",
+  "merge": "Merge",
   "docWordCount": "Document words:",
   "blockWordCount": "Block words:",
   "docRuneCount": "Document characters:",
