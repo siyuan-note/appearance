@@ -167,7 +167,7 @@
   "enterFullscreen": "Enter Full Screen",
   "exitFullscreen": "Exit Full Screen",
   "clearUnused": "Unreferenced assets",
-  "clearAll": "Are you sure to clean up all unreferenced resources?",
+  "clearAll": "Are you sure to clean up all unreferenced assets?",
   "paste": "Paste",
   "pasteRef": "Paste Block Ref",
   "pasteEmbed": "Paste Block Embed",
