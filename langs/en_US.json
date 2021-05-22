@@ -26,8 +26,6 @@
   "copyProtocol": "Copy block hyperlink",
   "uploadAssets2CDNTip": "Automatically upload a copy of the resource file to the CDN during synchronization upload, when copying standard Markdown and copy to the WeChat MP, Zhihu and Yuque, the link address of the asset file will automatically use the CDN address",
   "uploadAssets2CDN": "Upload asset files to CDN",
-  "autoSync": "Auto Sync",
-  "autoSyncTip": "After enabling, the synchronization will switch from manual upload/download to automatic synchronization every 30 seconds, and the upload or download will be automatically judged according to the last change time of the data of each notebook",
   "notSupport1": "Does not support drag and drop across notebooks",
   "keymapTip": "After the shortcut keys are modified, they need to be restarted to take effect",
   "searchLimit": "The number of search results displayed",

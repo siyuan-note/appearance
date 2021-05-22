@@ -26,8 +26,6 @@
   "copyProtocol": "复制块超链接",
   "uploadAssets2CDNTip": "在同步上传时自动将资源文件上传一份到 CDN 中，在使用复制标准 Markdown 及预览中的复制到公众号、知乎和语雀功能时，资源文件的链接地址将自动使用 CDN 地址",
   "uploadAssets2CDN": "上传资源文件到 CDN",
-  "autoSync": "自动同步",
-  "autoSyncTip": "开启后同步将从手动上传/下载切换为间隔 30 秒进行一次自动同步，根据每个笔记本的数据最后变更时间自动判断上传或下载",
   "notSupport1": "不支持跨笔记本进行拖拽",
   "keymapTip": "快捷键修改后需要重新启动后才能生效",
   "searchLimit": "搜索结果显示数",
