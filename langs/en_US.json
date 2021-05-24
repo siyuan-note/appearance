@@ -1,4 +1,10 @@
 {
+  "localBackup": "Local backup",
+  "cloudBackup": "Cloud backup",
+  "total": "Total",
+  "cdn": "Assets CDN",
+  "backup": "Backup",
+  "cloudSpace": "Cloud space",
   "vLayout": "Vertical layout",
   "hLayout": "Horizontal layout",
   "merge": "Merge",

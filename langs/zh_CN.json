@@ -1,4 +1,10 @@
 {
+  "localBackup": "本地备份",
+  "cloudBackup": "云端备份",
+  "total": "总计",
+  "cdn": "CDN 图床",
+  "backup": "备份",
+  "cloudSpace": "云端空间",
   "vLayout": "垂直布局",
   "hLayout": "水平布局",
   "merge": "合并",
