@@ -150,8 +150,6 @@
   "useBrowserView": "View in the browser",
   "userLocalPDF": "Open with local PDF tool",
   "copyID": "Copy ID",
-  "workspace": "Online Workspace",
-  "sharePublish": "Online Publishing",
   "newBookmark": "Create a bookmark label",
   "autoBackup": "Automatic backup",
   "autoBackupInterval": "Automatically auto backup interval (minutes, set to 0 to disable auto backup)",
@@ -464,7 +462,7 @@
   "update": "Update",
   "upload": "Upload image or file",
   "uploadError": "upload error",
-  "uploading": "Inserting...",
+  "uploading": "Uploading...",
   "wysiwyg": "WYSIWYG",
   "_label": "English",
   "_time": {

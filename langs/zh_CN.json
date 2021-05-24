@@ -150,8 +150,6 @@
   "useBrowserView": "在浏览器中查看",
   "userLocalPDF": "使用本地 PDF 工具打开",
   "copyID": "复制 ID",
-  "workspace": "在线工作空间",
-  "sharePublish": "在线分享发布",
   "newBookmark": "新建书签标识",
   "autoBackup": "自动备份",
   "autoBackupInterval": "自动备份时间间隔（分钟，设置为 0 则禁用自动备份）",
@@ -465,7 +463,7 @@
   "update": "更新",
   "upload": "上传图片或文件",
   "uploadError": "上传错误",
-  "uploading": "插入中...",
+  "uploading": "上传中...",
   "wysiwyg": "所见即所得",
   "_label": "简体中文",
   "_time": {
