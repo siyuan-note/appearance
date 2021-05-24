@@ -1,4 +1,7 @@
 {
+  "backupUpload": "Backup and Upload",
+  "download": "Download",
+  "downloadRecover": "Download and Recover",
   "localBackup": "Local backup",
   "cloudBackup": "Cloud backup",
   "total": "Total",
