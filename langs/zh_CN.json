@@ -528,7 +528,7 @@
     "37": "路径请勿包含标点符号或空格",
     "38": "编辑产生了多个块，请重新编辑",
     "39": "在文档上未找到对应内容块",
-    "40": "请手动安装 rsync （version 3.x.x protocol version 31），macOS：brew install rsync",
+    "40": "请手动安装 Rsync",
     "41": "上传完毕",
     "42": "该功能依赖 Git，请手动安装 https://git-scm.com/downloads",
     "43": "已超过云端空间最大支持，无法继续上传",

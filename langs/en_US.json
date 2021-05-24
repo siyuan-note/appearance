@@ -527,7 +527,7 @@
     "37": "Do not include punctuation or spaces in the save path",
     "38": "Editing has generated multiple blocks, please edit again",
     "39": "The corresponding content block was not found on the document",
-    "40": "Please install rsync (version 3.x.x protocol version 31) manually, macOS: brew install rsync",
+    "40": "Please install Rsync",
     "41": "Upload completed",
     "42": "This function depends on Git, please install it manually https://git-scm.com/downloads",
     "43": "The maximum support of cloud space has been exceeded, and the upload cannot be continued",
