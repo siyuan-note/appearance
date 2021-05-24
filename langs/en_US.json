@@ -548,14 +548,14 @@
     "58": "Failed to apply update, please <a href=\"https://b3log.org/siyuan/en/download.html\" target=\"_blank\">download the installation package</a> and reinstall",
     "59": "The new version is available<div class='fn__space'></div><button class='b3-button b3-button--white'>Download and apply the update now</button></div>",
     "60": "Failed to get the update package: %s",
-    "61": "TODO",
+    "61": "Uploading, please wait...",
     "62": "Recover completed",
     "63": "Recovering, please wait...",
     "64": "The notebook [%s] has a total of [%d] files. It will take some time to index, please wait...",
     "65": "Creating document files, [%d] documents to be processed",
     "66": "[%d] document files have been created, [%d] documents remaining to be processed",
     "67": "Uploaded at %s, downloaded at %s",
-    "68": "TODO",
+    "68": "Downloading, please wait...",
     "69": "Download completed",
     "70": "Copy notebook [%s] file [%s] failed: %s"
   }
