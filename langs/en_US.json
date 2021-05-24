@@ -240,7 +240,7 @@
   "insertRight": "Open Right the Tab",
   "account7": "More advanced features",
   "account5": "Assets CDN",
-  "account8": "End-to-End encryption",
+  "account8": "End-to-End encryption backup",
   "downloadCloud": "Download",
   "downloadCloudTip": "After downloading, the cloud data will be used to overwrite the local, and the overwritten data will be automatically backed up to the <code>.siyuan/backup/</code> folder. Do you want to download?",
   "account3": "Upload",
