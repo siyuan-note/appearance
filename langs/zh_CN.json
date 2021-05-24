@@ -239,7 +239,7 @@
   "insertBottom": "在页签下侧打开",
   "insertRight": "在页签右侧打开",
   "account7": "更多高级特性",
-  "account5": "CDN 图床",
+  "account5": "CDN 图床服务",
   "account8": "端到端加密备份",
   "downloadCloud": "从云端下载",
   "downloadCloudTip": "下载后将使用云端数据覆盖本地，被覆盖的数据会自动备份到 <code>.siyuan/backup/</code> 文件夹下。是否下载？",
