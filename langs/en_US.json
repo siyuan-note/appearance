@@ -1,4 +1,7 @@
 {
+  "openLocalBackupDir": "Open backup dir",
+  "recover": "Recover",
+  "upload": "Upload",
   "backupUpload": "Backup and Upload",
   "download": "Download",
   "downloadRecover": "Download and Recover",
@@ -469,7 +472,7 @@
   "undo": "Undo",
   "up": "Up",
   "update": "Update",
-  "upload": "Upload image or file",
+  "insertAsset": "Upload image or file",
   "uploadError": "upload error",
   "uploading": "Uploading...",
   "wysiwyg": "WYSIWYG",

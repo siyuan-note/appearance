@@ -1,4 +1,7 @@
 {
+  "openLocalBackupDir": "打开备份目录",
+  "recover": "恢复",
+  "upload": "上传",
   "backupUpload": "备份并上传",
   "download": "下载",
   "downloadRecover": "下载并恢复",
@@ -470,7 +473,7 @@
   "undo": "撤销",
   "up": "上",
   "update": "更新",
-  "upload": "上传图片或文件",
+  "insertAsset": "上传图片或文件",
   "uploadError": "上传错误",
   "uploading": "上传中...",
   "wysiwyg": "所见即所得",
