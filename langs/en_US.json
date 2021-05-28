@@ -1,4 +1,5 @@
 {
+  "backupPasswordTip": "This password is used to restore the backup, please keep it in mind.",
   "openLocalBackupDir": "Open backup dir",
   "recover": "Recover",
   "upload": "Upload",
@@ -527,7 +528,7 @@
     "25": "TODO",
     "26": "Generate auth key failed",
     "27": "TODO",
-    "28": "TODO",
+    "28": "The password is incorrect, please use the password you entered during backup",
     "29": "This feature requires <a target='_blank' href='https://b3log.org/siyuan/en/pricing.html'>paid subscription</a>",
     "30": "Failed to obtain cloud backup",
     "31": "Failed to open the folder: %s",
