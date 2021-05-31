@@ -54,6 +54,7 @@
   "ppt": "幻灯片",
   "embed": "嵌入块",
   "gutterTip": "拖拽 移动位置\n点击 打开菜单\n⌘Click 进入\n⌥Click 折叠/展开\n⇧Click 命名",
+  "gutterTip2": "点击 打开菜单",
   "linkDistance": "链接距离",
   "collideStrength": "斥力强度",
   "collideRadius": "斥力半径",
