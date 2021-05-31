@@ -525,7 +525,7 @@
     "21": "Backup completed",
     "22": "Backuping, please wait...",
     "23": "Backup [%s] failed: %s",
-    "24": "TODO",
+    "24": "A paid subscription is required to pull images and copy them locally",
     "25": "TODO",
     "26": "Generate auth key failed",
     "27": "TODO",
