@@ -1,4 +1,12 @@
 {
+  "openLocalBackupDir1": "在操作系统上打开本地备份目录",
+  "downloadRecover1": "将云端备份下载并覆盖本地备份，然后从本地备份进行恢复",
+  "deleteCloudBackup": "彻底删除云端备份",
+  "backup1": "生成加密过的本地备份",
+  "upload1": "将加密过的本地备份上传到云端",
+  "recover1": "从本地备份进行恢复",
+  "backupUpload1": "生成加密过的本地备份，然后将该备份上传到云端",
+  "download1": "将云端备份下载并覆盖本地备份",
   "noOpenFile": "没有打开的文档",
   "backupPasswordTip": "该密码用于恢复备份，请务必牢记",
   "openLocalBackupDir": "打开备份目录",
