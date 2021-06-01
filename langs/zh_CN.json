@@ -1,4 +1,5 @@
 {
+  "noOpenFile": "没有打开的文档",
   "backupPasswordTip": "该密码用于恢复备份，请务必牢记",
   "openLocalBackupDir": "打开备份目录",
   "recover": "恢复",

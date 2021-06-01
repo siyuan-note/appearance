@@ -1,4 +1,5 @@
 {
+  "noOpenFile": "No file is open",
   "backupPasswordTip": "This password is used to restore the backup, please keep it in mind",
   "openLocalBackupDir": "Open backup dir",
   "recover": "Recover",
