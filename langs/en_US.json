@@ -1,4 +1,5 @@
 {
+  "random": "Random",
   "darkMode": "Dark mode",
   "openLocalBackupDir1": "Open the local backup directory on the operating system",
   "downloadRecover1": "Download the cloud backup and overwrite the local backup, and then recover from the local backup",

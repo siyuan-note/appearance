@@ -1,4 +1,5 @@
 {
+  "random": "随机",
   "darkMode": "暗黑模式",
   "openLocalBackupDir1": "在操作系统上打开本地备份目录",
   "downloadRecover1": "将云端备份下载并覆盖本地备份，然后从本地备份进行恢复",
