@@ -119,13 +119,13 @@
     --b3-protyle-search-current-background: #204282;
 
     /* 代码片段背景 */
-    --b3-protyle-code-background: rgba(66, 133, 244, .36);
+    --b3-protyle-code-background: rgba(240, 246, 252, .15);
 
     /* 所见即所得行内元素颜色 */
     --b3-protyle-inline-strong-color: #e8eaed;
     --b3-protyle-inline-em-color: #e8eaed;
     --b3-protyle-inline-s-color: #e8eaed;
-    --b3-protyle-inline-link-color: #4285f4;
+    --b3-protyle-inline-link-color: #8ab4f8;
     --b3-protyle-inline-mark-background: #32593c;
     --b3-protyle-inline-mark-color: #e8eaed;
     --b3-protyle-inline-tag-color: #9aa0a6;
