@@ -35,6 +35,9 @@
     --b3-tab-background: #f3f3f3;
     --b3-tab-background-hover: #e9eaeb;
 
+    /* 菜单 */
+    --b3-menu-background: #f8f9fa;
+
     /* 提示 */
     --b3-tooltips-color: rgba(0, 0, 0, 0.54);
 
