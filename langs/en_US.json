@@ -1,4 +1,5 @@
 {
+  "default": "Default",
   "insertTitleBg": "Add Cover",
   "random": "Random",
   "darkMode": "Dark mode",
@@ -164,7 +165,7 @@
   "kernelFault2": "If the problem still occurs after restarting, please report it via <a href=\"https://github.com/siyuan-note/siyuan/issues\" target=\"_blank\">GitHub Issues</a>, thank you!",
   "fontSize": "Font Size",
   "fontSizeTip": "The default font size is 16px, this setting only affects the font size display in the editor",
-  "font1": "This setting only affects the font family display in the editor, choose to remove to use the theme's font family",
+  "font1": "This setting only affects the font family display in the editor, choose <code>Default</code> to use the theme's font family",
   "newNameFile": "The name of the new document is",
   "newContentFile": "The content of the new document is",
   "mounting": "Opening, please wait...",

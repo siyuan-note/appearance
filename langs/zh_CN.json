@@ -1,4 +1,5 @@
 {
+  "default": "默认",
   "insertTitleBg": "插入题头图",
   "random": "随机",
   "darkMode": "暗黑模式",
@@ -164,7 +165,7 @@
   "kernelFault2": "如果重启后仍然出现该问题，请通过<a href=\"https://ld246.com/domain/siyuan\" target=\"_blank\">社区发帖</a>反馈，谢谢！",
   "fontSize": "字号",
   "fontSizeTip": "字号默认为 16px，该设置仅影响编辑器内字体大小显示",
-  "font1": "该设置仅影响编辑器内字体显示，选择移除则使用主题自带字体",
+  "font1": "该设置仅影响编辑器内字体显示，选择 <code>默认</code> 则使用主题自带字体",
   "newNameFile": "新建文档名为",
   "newContentFile": "新建文档内容为",
   "mounting": "正在打开，请稍等...",
