@@ -1,4 +1,5 @@
 {
+  "updateWorkspace": "Update workspace dir",
   "default": "Default",
   "insertTitleBg": "Add Cover",
   "random": "Random",
@@ -14,6 +15,7 @@
   "noOpenFile": "No file is open",
   "backupPasswordTip": "This password is used to recover the backup, please keep it in mind",
   "openLocalBackupDir": "Open backup dir",
+  "updateLocalBackupDir": "Update backup dir",
   "recover": "Recover",
   "upload": "Upload",
   "backupUpload": "Backup and Upload",

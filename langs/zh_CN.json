@@ -1,4 +1,5 @@
 {
+  "updateWorkspace": "修改工作空间目录",
   "default": "默认",
   "insertTitleBg": "插入题头图",
   "random": "随机",
@@ -14,6 +15,7 @@
   "noOpenFile": "没有打开的文档",
   "backupPasswordTip": "该密码用于恢复备份，请务必牢记",
   "openLocalBackupDir": "打开备份目录",
+  "updateLocalBackupDir": "修改备份目录",
   "recover": "恢复",
   "upload": "上传",
   "backupUpload": "备份并上传",
