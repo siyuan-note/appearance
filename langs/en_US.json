@@ -544,7 +544,7 @@
     "22": "Backuping, please wait...",
     "23": "Backup [%s] failed: %s",
     "24": "A paid subscription is required to pull images and copy them locally",
-    "25": "TODO",
+    "25": "The attribute name only supports English letters and digits",
     "26": "Generate auth key failed",
     "27": "TODO",
     "28": "The password is incorrect, please use the password you entered during backup",
