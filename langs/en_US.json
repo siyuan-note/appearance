@@ -1,4 +1,5 @@
 {
+  "emptyTip": "Type text or '/' select",
   "updateWorkspace": "Update workspace dir",
   "default": "Default",
   "insertTitleBg": "Add Cover",
