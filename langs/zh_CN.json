@@ -1,4 +1,5 @@
 {
+  "attrName": "属性名",
   "attr": "属性",
   "emptyTip": "键入文字或 '/' 选择",
   "updateWorkspace": "修改工作空间目录",

@@ -1,4 +1,5 @@
 {
+  "attrName": "Key",
   "attr": "Attribute",
   "emptyTip": "Type text or '/' select",
   "updateWorkspace": "Update workspace dir",
