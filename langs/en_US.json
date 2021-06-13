@@ -1,4 +1,6 @@
 {
+  "addAttr": "Add Attribute",
+  "width": "Width",
   "attrName": "Key",
   "attr": "Attribute",
   "emptyTip": "Type text or '/' select",

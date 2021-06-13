@@ -1,4 +1,6 @@
 {
+  "addAttr": "添加属性",
+  "width": "宽度",
   "attrName": "属性名",
   "attr": "属性",
   "emptyTip": "键入文字或 '/' 选择",
