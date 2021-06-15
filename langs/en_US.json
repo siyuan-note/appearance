@@ -542,7 +542,7 @@
     "17": "Please enter the folder name",
     "18": "Get community user account failed",
     "19": "User information has expired, please log in again",
-    "20": "Cannot create folders named assets, templates, widgets, please use another name",
+    "20": "Cannot create notebook named assets, templates, widgets, please use another name",
     "21": "Backup completed",
     "22": "Backuping, please wait...",
     "23": "Backup [%s] failed: %s",
