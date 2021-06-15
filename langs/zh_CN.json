@@ -187,7 +187,7 @@
   "copyID": "复制 ID",
   "newBookmark": "新建书签标识",
   "autoBackup": "历史生成间隔（分钟，设置为 0 则禁用）",
-  "autoBackupInterval": "编辑文档时会定时自动备份，备份数据存放在笔记本 <code>.siyuan/bakcup/</code> 文件夹下",
+  "autoBackupInterval": "编辑文档时会定时自动生成历史，历史数据存放在笔记本 <code>.siyuan/bakcup/</code> 文件夹下",
   "fileNameASC": "文件名字母升序",
   "fileNameDESC": "文件名字母降序",
   "modifiedASC": "修改时间升序",

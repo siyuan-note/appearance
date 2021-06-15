@@ -187,7 +187,7 @@
   "copyID": "Copy ID",
   "newBookmark": "Create a bookmark label",
   "autoBackup": "History Generation Interval (minutes, set to 0 to disable)",
-  "autoBackupInterval": "When editing the document, it will be automatically backed up periodically, and the backup data is stored in the notebook <code>.siyuan/bakcup/</code> folder",
+  "autoBackupInterval": "When editing a document, the history is automatically generated periodically, and the history data is stored in the notebook <code>.siyuan/bakcup/</code> folder",
   "fileNameASC": "File Name Alphabet ASC",
   "fileNameDESC": "File Name Alphabet DESC",
   "modifiedASC": "Modified Time ASC",
