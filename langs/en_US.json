@@ -324,6 +324,8 @@
   "restore": "Restore",
   "max": "Max",
   "md1": "Automatically insert spaces between Chinese and Western (English, Arabic numerals and symbols, etc.).",
+  "md2": "Code block ligature",
+  "md3": "After enabling, multiple connectable symbols in the code block will be merged into one",
   "md4": "Automatically indent the beginning of paragraphs to conform to traditional Chinese typesetting habits",
   "md6": "MathJax has better compatibility, and KaTex has better performance",
   "md12": "Whether to display bookmark/name/alias/memo label",
