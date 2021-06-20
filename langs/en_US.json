@@ -547,7 +547,7 @@
     "20": "Cannot create notebook named assets, templates, widgets, please use another name",
     "21": "Backup completed",
     "22": "Backuping, please wait...",
-    "23": "Backup [%s] failed: %s",
+    "23": "Backup failed: %s",
     "24": "A paid subscription is required to pull images and copy them locally",
     "25": "The attribute name only supports English letters and digits",
     "26": "Generate auth key failed",
