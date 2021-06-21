@@ -1,7 +1,7 @@
 {
   "changeE2EEPasswdTip": "修改密码以后：\n<ul>\n<li>使用老密码创建的备份将无法解密恢复，请重新创建备份</li>\n<li>请务必在所有设备上修改为一致的密码</li>\n</ul>",
   "changeE2EEPasswd": "修改端到端加密密码",
-  "changePasswd": "修改密码",
+  "setPasswd": "设置密码",
   "e2eePasswd": "端到端加密密码",
   "e2eePasswdTip": "该密码用于端到端加密备份和同步，请谨慎修改并牢记密码",
   "addAttr": "添加属性",
