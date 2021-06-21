@@ -535,7 +535,7 @@
     "8": "Check update failed",
     "9": "The new version is available, please download the complete installation package manually %s",
     "10": "Is the latest version",
-    "11": "TODO",
+    "11": "Please configure the end-to-end encryption password in Settings - About",
     "12": "Query asset failed",
     "13": "Query content block failed",
     "14": "Export failed: %s",
