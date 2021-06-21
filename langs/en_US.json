@@ -1,4 +1,8 @@
 {
+  "changeE2EEPasswd": "Modify the end-to-end encryption password",
+  "changePasswd": "Change it",
+  "e2eePasswd": "End-to-end encrypted password",
+  "e2eePasswdTip": "This password is used for end-to-end encryption backup and synchronization, please modify it carefully",
   "addAttr": "Add Attribute",
   "width": "Width",
   "attrName": "Key",

@@ -1,4 +1,8 @@
 {
+  "changeE2EEPasswd": "修改端到端加密密码",
+  "changePasswd": "修改密码",
+  "e2eePasswd": "端到端加密密码",
+  "e2eePasswdTip": "该密码用于端到端加密备份和同步，请谨慎修改",
   "addAttr": "添加属性",
   "width": "宽度",
   "attrName": "属性名",
