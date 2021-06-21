@@ -1,7 +1,8 @@
 {
+  "changeE2EEPasswdTip": "After changing the password:\n<ul>\n<li>The backup created with the old password cannot be decrypted and restored. Please re-create the backup</li>\n<li>Please make sure to change to a consistent password on all devices</li>\n</ul>",
   "changeE2EEPasswd": "Modify the end-to-end encryption password",
   "changePasswd": "Change it",
-  "e2eePasswd": "End-to-end encrypted password",
+  "e2eePasswd": "End-to-end encryption password",
   "e2eePasswdTip": "This password is used for end-to-end encrypted backup and synchronization, please modify it carefully and keep in mind the password",
   "addAttr": "Add Attribute",
   "width": "Width",
@@ -117,7 +118,6 @@
   "replaceAll": "Replace All",
   "alias": "Alias",
   "addTplSucc": "The template was added successfully",
-  "updateSearch": "Modify global search criteria",
   "globalSearch": "Global Search",
   "globalSearchNew": "New Global Search",
   "resetLayout1": "Reset Layout",
