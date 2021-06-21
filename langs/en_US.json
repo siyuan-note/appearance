@@ -9,7 +9,7 @@
   "attrName": "Key",
   "attr": "Attribute",
   "emptyTip": "Type text or '/' select",
-  "updateWorkspace": "Update workspace dir",
+  "updateWorkspace": "Change workspace dir",
   "default": "Default",
   "insertTitleBg": "Add Cover",
   "random": "Random",
