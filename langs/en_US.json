@@ -1,4 +1,5 @@
 {
+  "attrValue1": "Leave the attribute value blank will automatically delete the attribute",
   "specifyPath": "Specify path",
   "changeE2EEPasswdTip": "After changing the password:\n<ul>\n<li>The backup created with the old password cannot be decrypted and restored. Please re-create the backup</li>\n<li>Please make sure to change to a consistent password on all devices</li>\n</ul>",
   "changeE2EEPasswd": "Modify the end-to-end encryption password",
