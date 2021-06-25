@@ -552,7 +552,7 @@
     "21": "Backup completed",
     "22": "Backuping, please wait...",
     "23": "Backup failed: %s",
-    "24": "A paid subscription is required to pull images and copy them locally",
+    "24": "A <a href=\"https://ld246.com/subscribe/siyuan\" target=\"_blank\">paid subscription</a> is required to pull images and copy them locally",
     "25": "The attribute name only supports English letters and digits",
     "26": "Generate auth key failed",
     "27": "Please regenerate the backup data, please do not write new data during the generation",
@@ -599,6 +599,7 @@
     "68": "Downloading, please wait...",
     "69": "Download completed",
     "70": "Copy notebook [%s] file [%s] failed: %s",
-    "71": "Failed to insert asset file, please reopen the document"
+    "71": "Failed to insert asset file, please reopen the document",
+    "72": "Content has been copied to the system clipboard, please go to SiYuan to paste"
   }
 }
