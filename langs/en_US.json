@@ -552,7 +552,7 @@
     "21": "Backup completed",
     "22": "Backuping, please wait...",
     "23": "Backup failed: %s",
-    "24": "A <a href=\"https://ld246.com/subscribe/siyuan\" target=\"_blank\">paid subscription</a> is required to pull images and copy them locally",
+    "24": "A <a href=\"https://ld246.com/subscribe/siyuan\" target=\"_blank\" style=\"text-decoration:underline;color:#fff;\">paid subscription</a> is required to pull images and copy them locally",
     "25": "The attribute name only supports English letters and digits",
     "26": "Generate auth key failed",
     "27": "Please regenerate the backup data, please do not write new data during the generation",
