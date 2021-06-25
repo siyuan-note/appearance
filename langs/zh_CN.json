@@ -553,7 +553,7 @@
     "21": "备份完毕",
     "22": "正在备份，请稍等...",
     "23": "备份失败：%s",
-    "24": "拉取图片复制到本地需要 <a href=\"https://ld246.com/subscribe/siyuan\" target=\"_blank\">付费订阅</a>",
+    "24": "拉取图片复制到本地需要 <a style=\"text-decoration:underline;color:#fff;\" href=\"https://ld246.com/subscribe/siyuan\" target=\"_blank\">付费订阅</a>",
     "25": "属性名仅支持英文字母和阿拉伯数字",
     "26": "生成认证密钥失败",
     "27": "请重新生成备份数据，生成期间请勿写入新数据",
