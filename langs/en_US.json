@@ -595,7 +595,7 @@
     "59": "The new version is available<div class='fn__space'></div><button class='b3-button b3-button--white'>Download and apply the update now</button></div>",
     "60": "Failed to get the update package: %s",
     "61": "Uploading, please wait...",
-    "62": "Recovery is complete, about to restart automatically...",
+    "62": "The recovery is complete, the application is about to be closed, please restart later...",
     "63": "Recovering, please wait...",
     "64": "The notebook [%s] has a total of [%d] files. It will take some time to index, please wait...",
     "65": "Creating document files, [%d] documents to be processed",
