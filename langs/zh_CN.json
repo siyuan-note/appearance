@@ -66,6 +66,8 @@
   "inline-math": "行内数学公式",
   "moveToUp": "向上移",
   "moveToDown": "向下移",
+  "moveToLeft": "向左移",
+  "moveToRight": "向右移",
   "copyProtocol": "复制块超链接",
   "uploadAssets2CDN": "上传资源文件到云端图床",
   "notSupport1": "不支持跨笔记本进行拖拽",
