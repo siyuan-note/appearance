@@ -87,7 +87,7 @@
   "ppt": "Slide",
   "embed": "Embed Block",
   "gutterTip": "Drag to move position\nClick Open the menu\n⌘Click Zoom In\n⌥Click Expand/Collapse\n⇧Click Update attribute",
-  "gutterTip2": "Click to open the menu",
+  "gutterTip2": "Click to open the menu\n⇧Click Update attribute",
   "linkDistance": "Link distance",
   "collideStrength": "Collide strength",
   "collideRadius": "Collide radius",
