@@ -1,4 +1,5 @@
 {
+  "dockTip": "\n单击 展开/最小化\n右键 调整位置",
   "glow": "发光",
   "multicolor": "彩色",
   "shadow": "投影",
@@ -85,7 +86,7 @@
   "needVIP": "该功能需要<a target='_blank' href='https://b3log.org/siyuan/pricing.html'>付费订阅</a>",
   "ppt": "幻灯片",
   "embed": "嵌入块",
-  "gutterTip": "拖拽 移动位置\n点击 打开菜单\n⌘Click 进入\n⌥Click 折叠/展开\n⇧Click 命名",
+  "gutterTip": "拖拽 移动位置\n点击 打开菜单\n⌘Click 进入\n⌥Click 折叠/展开\n⇧Click 修改属性",
   "gutterTip2": "点击 打开菜单",
   "linkDistance": "链接距离",
   "collideStrength": "斥力强度",

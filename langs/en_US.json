@@ -1,4 +1,5 @@
 {
+  "dockTip": "\nClick Open/Minimize\nRight Click Adjust position",
   "glow": "Glow",
   "multicolor": "Multicolor",
   "shadow": "Shadow",
@@ -85,7 +86,7 @@
   "needVIP": "This feature requires <a target='_blank' href='https://b3log.org/siyuan/en/pricing.html'>paid subscription</a>",
   "ppt": "Slide",
   "embed": "Embed Block",
-  "gutterTip": "Drag to move position\nClick to open the menu\n⌘Click Zoom In\n⌥Click expand/collapse\n⇧Click name",
+  "gutterTip": "Drag to move position\nClick Open the menu\n⌘Click Zoom In\n⌥Click Expand/Collapse\n⇧Click Update attribute",
   "gutterTip2": "Click to open the menu",
   "linkDistance": "Link distance",
   "collideStrength": "Collide strength",
