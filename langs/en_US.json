@@ -435,7 +435,7 @@
   "about5": "Browser access authentication",
   "about6": "After configuration, it will be used as the access authentication password (user name is always <code>siyuan</code>), use <code>BEYOND</code> as the password to turn off authentication",
   "about7": "Workspace dir",
-  "about8": "The workspace is used to save data and configuration, and it will automatically restart after modification",
+  "about8": "The workspace is used to save data and configuration, the application will be closed automatically after modification, please restart manually",
   "about9": "⚗️ Priority to use the existing database at booting (This feature is currently in the experimental stage, not currently supported by the current version)",
   "about10": "After enabling, the boot speed will be significantly improved in the case of a large amount of data.",
   "autoSpace": "⚗️ Automatically insert spaces between Chinese and Western languages (This feature is currently in the experimental stage)",
