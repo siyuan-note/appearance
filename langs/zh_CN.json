@@ -1,8 +1,8 @@
 {
-  "inputVideoURL": "输入视频链接",
-  "inputAudioURL": "输入音频链接",
-  "inputImgURL": "输入图片链接",
-  "inputIframeURL": "输入 IFrame 链接",
+  "inputVideoURL": "插入视频链接",
+  "inputAudioURL": "插入音频链接",
+  "inputImgURL": "插入图片链接",
+  "inputIframeURL": "插入 IFrame 链接",
   "context": "上下文",
   "dockTip": "\n单击 展开/最小化\n右键 调整位置",
   "glow": "发光",

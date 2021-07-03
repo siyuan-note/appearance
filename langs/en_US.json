@@ -1,8 +1,8 @@
 {
-  "inputVideoURL": "Input video link",
-  "inputAudioURL": "Input audio link",
-  "inputImgURL": "Input image link",
-  "inputIframeURL": "Input IFrame link",
+  "inputVideoURL": "Insert video link",
+  "inputAudioURL": "Insert audio link",
+  "inputImgURL": "Insert image link",
+  "inputIframeURL": "Insert IFrame link",
   "context": "Context",
   "dockTip": "\nClick Open/Minimize\nRight Click Adjust position",
   "glow": "Glow",
