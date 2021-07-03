@@ -90,7 +90,7 @@
   "needVIP1": "Export theme other than daylight requires <a target='_blank' href='https://b3log.org/siyuan/en/pricing.html'>paid subscription</a>",
   "needVIP": "This feature requires <a target='_blank' href='https://b3log.org/siyuan/en/pricing.html'>paid subscription</a>",
   "ppt": "Slide",
-  "embedBlock": "Embed Block",
+  "blockEmbed": "Embed Block",
   "gutterTip": "Drag to move position\nClick Open the menu\n⌘Click Zoom In\n⌥Click Expand/Collapse\n⇧Click Update attribute",
   "gutterTip2": "Click to open the menu\n⇧Click Update attribute",
   "linkDistance": "Link distance",
