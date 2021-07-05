@@ -618,6 +618,7 @@
     "71": "Failed to insert asset file, please reopen the document",
     "72": "Content has been copied to the system clipboard, please go to SiYuan to paste",
     "73": "Write notebook [%s] file [%s] failed: %s",
-    "74": "The kernel has not been fully booted [%d%%], please try again later"
+    "74": "The kernel has not been fully booted [%d%%], please try again later",
+    "75": "Failed to lock file [%s]"
   }
 }
