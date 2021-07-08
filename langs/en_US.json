@@ -66,6 +66,7 @@
   "sup": "Superscript",
   "sub": "Subscript",
   "enter": "Focus",
+  "enterBack": "Zoom out",
   "duplicate": "Duplicate",
   "turnInto": "Turn into",
   "split": "Split",
