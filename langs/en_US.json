@@ -621,6 +621,7 @@
     "73": "Write notebook [%s] file [%s] failed: %s",
     "74": "The kernel has not been fully booted [%d%%], please try again later",
     "75": "Failed to lock file [%s]",
-    "76": "Save failed: the file name is too long"
+    "76": "Save failed: the file name is too long",
+    "77": "Invalid backup dir path [%s]"
   }
 }
