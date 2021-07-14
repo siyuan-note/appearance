@@ -84,7 +84,6 @@
   "searchLimit1": "如果数据量较大，该值请勿配置过大",
   "searchFilter": "类型过滤",
   "attrFilter": "属性过滤",
-  "copyImage": "复制图片",
   "toggleWin": "隐藏/显示窗口",
   "customSort": "自定义排序",
   "downloadingUpdate": "正在下载更新包，请稍等...",

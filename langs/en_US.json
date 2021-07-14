@@ -84,7 +84,6 @@
   "searchLimit1": "If the amount of data is large, do not configure the value too large",
   "searchFilter": "Type filter",
   "attrFilter": "Attribute filter",
-  "copyImage": "Copy Image",
   "toggleWin": "Hide/Show Window",
   "customSort": "Custom Sorting",
   "downloadingUpdate": "Downloading the update package, please wait...",
