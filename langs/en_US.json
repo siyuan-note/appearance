@@ -1,4 +1,5 @@
 {
+  "dataIsWriting": "Data is being written",
   "retry": "Retry",
   "insertVideoURL": "Insert video link",
   "insertAudioURL": "Insert audio link",

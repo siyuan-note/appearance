@@ -1,4 +1,5 @@
 {
+  "dataIsWriting": "数据写入中",
   "retry": "重试",
   "insertVideoURL": "插入视频链接",
   "insertAudioURL": "插入音频链接",
