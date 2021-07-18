@@ -626,6 +626,7 @@
     "75": "Failed to lock file [%s]",
     "76": "Save failed: the file name is too long",
     "77": "Invalid backup dir path [%s]",
-    "78": "The old and new paths are repeated"
+    "78": "The old and new paths are repeated",
+    "79": "Only supports importing Markdown document"
   }
 }
