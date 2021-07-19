@@ -217,6 +217,8 @@
   "modifiedDESC": "Modified Time DESC",
   "fileNameNatASC": "File Name Natural ASC",
   "fileNameNatDESC": "File Name Natural DESC",
+  "refCountASC":"Ref Count ASC",
+  "refCountDESC":"Ref Count DESC",
   "sort": "Sort",
   "enterFullscreen": "Enter Full Screen",
   "exitFullscreen": "Exit Full Screen",
