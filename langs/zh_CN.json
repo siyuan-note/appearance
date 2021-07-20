@@ -1,4 +1,5 @@
 {
+  "cloud": "云端",
   "openSync": "开启云端同步",
   "cloudSync": "云端同步",
   "localSync": "本地同步",
@@ -220,8 +221,8 @@
   "modifiedDESC": "修改时间降序",
   "fileNameNatASC": "文件名自然升序",
   "fileNameNatDESC": "文件名自然降序",
-  "refCountASC":"引用数升序",
-  "refCountDESC":"引用数降序",
+  "refCountASC": "引用数升序",
+  "refCountDESC": "引用数降序",
   "sort": "排序",
   "enterFullscreen": "进入全屏幕",
   "exitFullscreen": "退出全屏幕",

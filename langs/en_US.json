@@ -1,4 +1,5 @@
 {
+  "cloud": "Cloud",
   "openSync": "Open Cloud Sync",
   "cloudSync": "Cloud sync",
   "localSync": "Local sync",
