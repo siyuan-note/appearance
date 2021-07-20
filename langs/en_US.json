@@ -1,6 +1,7 @@
 {
   "openSync": "Open Cloud Sync",
   "cloudSync": "Cloud sync",
+  "localSync": "Local sync",
   "dataIsWriting": "Data is being written",
   "retry": "Retry",
   "insertVideoURL": "Insert video link",
