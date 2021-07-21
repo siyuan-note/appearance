@@ -434,6 +434,7 @@
   "confirm": "Confirm",
   "confirmDelete": "Delete",
   "confirmSelectCloudDir": "After selection, the data in the cloud directory will be overwritten by the current workspace data, please confirm the operation",
+  "confirmDeleteCloudDir": "Are you sure you want to delete the cloud directory?",
   "back": "Back",
   "mount": "Open Notebook",
   "newNotebook": "New Notebook",

@@ -434,6 +434,7 @@
   "confirm": "确定",
   "confirmDelete": "确定删除",
   "confirmSelectCloudDir": "选择后该云端目录中的数据会被当前工作空间数据覆盖，请确认操作",
+  "confirmDeleteCloudDir": "是否确定删除该云端目录？",
   "back": "返回上一层",
   "mount": "打开笔记本",
   "newNotebook": "新建笔记本",
