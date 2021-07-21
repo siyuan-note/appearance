@@ -33,7 +33,6 @@
   "random": "Random",
   "darkMode": "Dark mode",
   "localBackupDir": "Local backup directory",
-  "cloudSyncDir": "Cloud sync directory",
   "localSyncDir": "Local sync directory",
   "downloadRecover1": "Download the cloud backup and overwrite the local backup, and then recover from the local backup",
   "deleteCloudBackup": "Delete cloud backup completely",
