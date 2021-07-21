@@ -3,7 +3,7 @@
   "openSync": "Sync to the cloud",
   "cloudSync": "Cloud sync",
   "localSync": "Local sync",
-  "dataIsWriting": "Data is being written",
+  "dataIsWriting": "Writing data...",
   "retry": "Retry",
   "insertVideoURL": "Insert video link",
   "insertAudioURL": "Insert audio link",

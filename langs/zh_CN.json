@@ -3,7 +3,7 @@
   "openSync": "同步到云端",
   "cloudSync": "云端同步",
   "localSync": "本地同步",
-  "dataIsWriting": "数据写入中",
+  "dataIsWriting": "数据写入中...",
   "retry": "重试",
   "insertVideoURL": "插入视频链接",
   "insertAudioURL": "插入音频链接",
