@@ -1,6 +1,6 @@
 {
   "cloud": "云端",
-  "openSync": "开启云端同步",
+  "openSync": "同步到云端",
   "cloudSync": "云端同步",
   "localSync": "本地同步",
   "dataIsWriting": "数据写入中",

@@ -1,6 +1,6 @@
 {
   "cloud": "Cloud",
-  "openSync": "Open Cloud Sync",
+  "openSync": "Sync to the cloud",
   "cloudSync": "Cloud sync",
   "localSync": "Local sync",
   "dataIsWriting": "Data is being written",
