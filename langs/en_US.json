@@ -1,4 +1,5 @@
 {
+  "syncTip": "The synchronization function can only be activated after selecting the cloud synchronization list",
   "stickOpen": "Keep all opened",
   "cloud": "Cloud",
   "openSync": "Sync to the cloud",
