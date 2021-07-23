@@ -1,4 +1,5 @@
 {
+  "reposTip": "Used to distinguish different workspaces synchronized to the cloud, you can enter the workspace name",
   "syncTip": "The synchronization function can only be activated after selecting the cloud synchronization list",
   "stickOpen": "Keep all opened",
   "cloud": "Cloud",
