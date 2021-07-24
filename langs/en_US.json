@@ -571,7 +571,7 @@
     "10": "Is the latest version",
     "11": "Please configure the end-to-end encryption password in Settings - Cloud",
     "12": "Query asset failed",
-    "13": "Failed to query the content block, the data that continues to be written may be lost, please reopen the document",
+    "13": "Encountered an error, continue to write data may be lost, please restart and then operate",
     "14": "Export failed: %s",
     "15": "No content block with ID [%s] found",
     "16": "Please enter the file name",
