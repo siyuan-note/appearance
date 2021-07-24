@@ -436,7 +436,7 @@
   "cancel": "Cancel",
   "confirm": "Confirm",
   "confirmDelete": "Delete",
-  "confirmSelectCloudDir": "After selection, the data in the cloud directory will be overwritten by the current workspace data, please confirm the operation",
+  "confirmSelectCloudDir": "Cloud or local data will be overwritten, please exercise caution",
   "confirmDeleteCloudDir": "Are you sure you want to delete the cloud directory?",
   "back": "Back",
   "mount": "Open Notebook",
