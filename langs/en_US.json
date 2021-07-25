@@ -656,6 +656,7 @@
     "79": "Only supports importing Markdown document",
     "80": "Sync failed: %s",
     "81": "Syncing...",
-    "82": "Synced at %s"
+    "82": "Synced at %s",
+    "83": "The access authorization code is incorrect"
   }
 }
