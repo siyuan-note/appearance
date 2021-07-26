@@ -394,8 +394,6 @@
   "fileTree15": "Template path (for example, <code>dailynote.md</code>, the file needs to be placed under the workspace/data/templates/)",
   "fileTree16": "Maximum number of listings",
   "fileTree17": "If there are too many dco and folder in the same folder, you can use this restriction to improve performance",
-  "fileTree18": "Generate history when deleting documents",
-  "fileTree19": "After enabling, files or folders will be automatically backed up to the notebook <code>.siyuan/history/</code> folder before deleting them",
   "export13": "Anchor text wrapping symbol",
   "export14": "Please fill in the symbol on the left side of the anchor text and the symbol on the right side of the anchor text in the input box in turn",
   "export15": "Label Package Symbol",
