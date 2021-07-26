@@ -465,7 +465,7 @@
   "password": "Password",
   "theme": "Theme",
   "about": "About",
-  "about1": "Copyright (c) 2020-present, ld246.com<div class='fn__hr'></div><div class='ft__on-surface'>SiYuan is a commercial software developed by Yunnan Liandi Technology Co., Ltd.<br><br>Basic functions are free for personal use, <a href='https://b3log.org/siyuan/pricing.html' target='_blank'>advanced features</a> require paid subscription.</div>",
+  "about1": "Copyright (c) 2020-present, ld246.com<div class='fn__hr'></div><div class='ft__on-surface'>SiYuan is a commercial software developed by Yunnan Liandi Technology Co., Ltd.<br><br>Local functions are free for personal use, <a href='https://b3log.org/siyuan/pricing.html' target='_blank'>cloud services</a> require paid subscription.</div>",
   "about2": "Use desktop/mobile browser to access",
   "about3": "Please use Chrome browser and keep it on the same network as your computer",
   "about4": "Open browser",
