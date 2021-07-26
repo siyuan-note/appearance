@@ -233,7 +233,7 @@
   "generateHistory": "历史生成间隔（分钟，设置为 0 则禁用）",
   "generateHistoryInterval": "编辑或删除时会定时自动生成历史，历史数据存放在笔记本 <code>.siyuan/history/</code> 文件夹下",
   "historyRetentionDays": "历史保留天数",
-  "historyRetentionDaysTip": "超过保留天数的历史数据会被自动彻底删除，配置为 <code>0</code> 则不会保留任何历史数据",
+  "historyRetentionDaysTip": "超过保留天数的历史数据会被自动彻底删除",
   "fileNameASC": "文件名字母升序",
   "fileNameDESC": "文件名字母降序",
   "modifiedASC": "修改时间升序",
