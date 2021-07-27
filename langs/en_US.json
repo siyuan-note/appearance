@@ -19,7 +19,7 @@
   "syncTip": "The synchronization function can only be activated after selecting the cloud synchronization list",
   "stickOpen": "Keep all opened",
   "cloud": "Cloud",
-  "openSync": "Sync to the cloud",
+  "openSync": "Sync to the cloud (In the beta, please backup data before enabling)",
   "cloudSync": "Cloud sync",
   "localSync": "Local sync",
   "dataIsWriting": "Writing data...",

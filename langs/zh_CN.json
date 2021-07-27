@@ -19,7 +19,7 @@
   "syncTip": "选择云端同步列表后才能开通同步功能",
   "stickOpen": "保持全部展开",
   "cloud": "云端",
-  "openSync": "同步到云端",
+  "openSync": "同步到云端（公测中，开启前请备份数据）",
   "cloudSync": "云端同步",
   "localSync": "本地同步",
   "dataIsWriting": "数据写入中...",
