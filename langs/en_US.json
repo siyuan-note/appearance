@@ -587,7 +587,7 @@
     "10": "Is the latest version",
     "11": "Please configure the end-to-end encryption password in Settings - Cloud",
     "12": "Query asset failed",
-    "13": "A critical error has been encountered and the data cannot be saved anymore. Please report this issue to the developer, thank you!",
+    "13": "TODO",
     "14": "Export failed: %s",
     "15": "No content block with ID [%s] found",
     "16": "Please enter the file name",
