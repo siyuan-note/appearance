@@ -479,6 +479,8 @@
   "about10": "After enabling, the boot speed will be significantly improved in the case of a large amount of data",
   "about11": "Network serving",
   "about12": "After enabling, other devices in the same LAN will be allowed to access. The application will be closed automatically after modification, please restart manually",
+  "about13": "API token",
+  "about14": "The token needs to be authenticated when calling the API",
   "autoSpace": "Automatically insert spaces between Chinese and Western languages",
   "mathEngine": "Mathematical formula engine",
   "checkUpdate": "Check update",
