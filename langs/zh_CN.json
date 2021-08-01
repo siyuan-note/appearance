@@ -1,5 +1,6 @@
 {
-  "lockScreen": "锁屏",
+  "goForward": "前进",
+  "goBack": "后退",
   "cloudIntro1": "端到端加密数据同步",
   "cloudIntro2": "加密和解密过程完全在本地设备上进行",
   "cloudIntro3": "加密算法为业界公认安全的 AES GCM",
@@ -19,6 +20,7 @@
   "syncTip": "选择云端同步列表后才能开通同步功能",
   "stickOpen": "保持全部展开",
   "cloud": "云端",
+  "openSyncTip": "请前往 设置->云端 中开启同步到云端",
   "openSync": "同步到云端（公测中，开启前请备份数据）",
   "cloudSync": "云端同步",
   "localSync": "本地同步",

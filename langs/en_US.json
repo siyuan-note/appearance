@@ -1,4 +1,6 @@
 {
+  "goForward": "Go forward",
+  "goBack": "Go back",
   "lockScreen": "Lock screen",
   "cloudIntro1": "End-to-end encrypted data synchronization",
   "cloudIntro2": "The encryption and decryption process is completely performed on the local device",
@@ -19,6 +21,7 @@
   "syncTip": "The synchronization function can only be activated after selecting the cloud synchronization list",
   "stickOpen": "Keep all opened",
   "cloud": "Cloud",
+  "openSyncTip": "Please go to Settings -> Cloud to enable sync to the cloud",
   "openSync": "Sync to the cloud (In the beta, please backup data before enabling)",
   "cloudSync": "Cloud sync",
   "localSync": "Local sync",
