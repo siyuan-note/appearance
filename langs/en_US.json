@@ -664,6 +664,7 @@
     "80": "Sync failed: %s",
     "81": "Syncing...",
     "82": "Synced at %s",
-    "83": "The access authorization code is incorrect"
+    "83": "The access authorization code is incorrect",
+    "84": "The metadata used for synchronization has been damaged, please refer to <a href=\"https://ld246.com/article/1627822637525\" target=\"_blank\">here</a> to resolve"
   }
 }
