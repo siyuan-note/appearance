@@ -23,6 +23,7 @@
   "cloud": "Cloud",
   "openSyncTip": "Please go to Settings -> Cloud to enable sync to the cloud",
   "openSync": "Sync to the cloud (In the beta, please backup data before enabling)",
+  "openSyncTip1": "⚠️ The other devices need to make the same settings before the data can be consistent across multiple devices",
   "cloudSync": "Cloud sync",
   "localSync": "Local sync",
   "dataIsWriting": "Writing data...",
