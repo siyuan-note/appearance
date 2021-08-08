@@ -668,6 +668,7 @@
     "83": "The access authorization code is incorrect",
     "84": "The metadata used for synchronization has been damaged, please refer to <a href=\"https://ld246.com/article/1627822637525\" target=\"_blank\">here</a> to resolve",
     "85": "File permission problems encountered during synchronization, please refer to <a href=\"https://ld246.com/article/1627828701134\" target=\"_blank\">here</a> to resolve",
-    "86": "Please configure Settings - About - Access authorization code"
+    "86": "Please configure Settings - About - Access authorization code",
+    "87": "Cannot move to this location"
   }
 }
