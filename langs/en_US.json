@@ -610,7 +610,7 @@
     "28": "The password is incorrect, please configure the end-to-end encryption password in Settings - Cloud and make sure that the passwords configured on all devices are consistent",
     "29": "This feature requires <a target='_blank' href='https://b3log.org/siyuan/pricing.html'>paid subscription</a>",
     "30": "Failed to obtain cloud backup info",
-    "31": "TODO",
+    "31": "Account security auth failed",
     "32": "Failed to remove cloud notebook",
     "33": "<div class='fn__flex'><span class='fn__flex-center'>The update is ready, please restart manually after closing</span><div class='fn__space'></div><button class='b3-button b3-button--white'>Close now</button></div>",
     "34": "This operation is not supported in read-only mode",
