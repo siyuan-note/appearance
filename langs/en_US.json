@@ -42,7 +42,7 @@
   "hollow": "Hollow",
   "attrValue1": "Leave the attribute value blank will automatically delete the attribute",
   "specifyPath": "Specify path",
-  "changeE2EEPasswdTip": "After changing the password:\n<ul>\n<li>The backup created with the old password cannot be decrypted and restored. Please re-create the backup</li>\n<li>Please make sure to change to a consistent password on all devices</li>\n</ul>",
+  "changeE2EEPasswdTip": "<b>If it is not necessary, please do not modify.</b> If you need to modify, please follow the steps below: <ol><li>Turn off synchronization on all devices</li><li> Delete cloud backup and cloud synchronization</li><li>Change all device passwords</li><li>Open the synchronization on the <b>main</b> device and manually click the synchronization button</li><li> After one step of synchronization is successful, start the synchronization of the remaining devices</li></ol>",
   "changeE2EEPasswd": "Modify the end-to-end encryption password",
   "setPasswd": "Set it",
   "e2eePasswd": "End-to-end encryption password",
