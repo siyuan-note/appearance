@@ -2,6 +2,7 @@
 
 The appearance repo of SiYuan includes themes, icons and multi-language configuration.
 
-* icons: Appearance icons
+* emojis: Emoji assets
 * langs: Multi-language configuration
 * themes: Appearance theme
+* icons: Appearance icon
