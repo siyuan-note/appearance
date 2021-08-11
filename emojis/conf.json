@@ -2,6 +2,7 @@
   {
     "id": "people",
     "title": "Smileys \u0026 people",
+    "title_zh_cn": "表情和人物",
     "items": [
       {
         "unicode": "1f600",
@@ -2834,6 +2835,7 @@
   {
     "id": "nature",
     "title": "Animals \u0026 nature",
+    "title_zh_cn": "动物和自然",
     "items": [
       {
         "unicode": "1f436",
@@ -4040,6 +4042,7 @@
   {
     "id": "food",
     "title": "Food \u0026 drink",
+    "title_zh_cn": "食物和饮料",
     "items": [
       {
         "unicode": "1f34f",
@@ -4766,6 +4769,7 @@
   {
     "id": "activity",
     "title": "Activity",
+    "title_zh_cn": "活动",
     "items": [
       {
         "unicode": "26bd",
@@ -5474,6 +5478,7 @@
   {
     "id": "travel",
     "title": "Travel \u0026 places",
+    "title_zh_cn": "旅行和地点",
     "items": [
       {
         "unicode": "1f697",
@@ -6248,6 +6253,7 @@
   {
     "id": "objects",
     "title": "Objects",
+    "title_zh_cn": "物件",
     "items": [
       {
         "unicode": "231a",
@@ -7610,6 +7616,7 @@
   {
     "id": "symbols",
     "title": "Symbols",
+    "title_zh_cn": "符号",
     "items": [
       {
         "unicode": "2764",
@@ -9542,6 +9549,7 @@
   {
     "id": "flags",
     "title": "Flags",
+    "title_zh_cn": "旗帜",
     "items": [
       {
         "unicode": "1f3f3",
