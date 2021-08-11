@@ -668,6 +668,12 @@
     "85": "File permission problems encountered during synchronization, please refer to <a href=\"https://ld246.com/article/1627828701134\" target=\"_blank\">here</a> to resolve",
     "86": "Please configure Settings - About - Access authorization code",
     "87": "Cannot move to this location",
-    "88": "Data has been downloaded from the cloud twice in a row. In order to avoid data conflicts as much as possible, the application will be closed..."
+    "88": "Data has been downloaded from the cloud twice in a row. In order to avoid data conflicts as much as possible, the application will be closed...",
+    "89": "Deleting the local backup directory...",
+    "90": "Deleting the local synchronization directory...",
+    "91": "Deleting the local incremental directory...",
+    "92": "Modification completed",
+    "93": "Only numbers or letters are supported",
+    "94": "Please turn off synchronization before modifying"
   }
 }
