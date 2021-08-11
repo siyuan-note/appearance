@@ -596,7 +596,7 @@
     "14": "Export failed: %s",
     "15": "No content block with ID [%s] found",
     "16": "Please enter the file name",
-    "17": "TODO",
+    "17": "The initial synchronization failed at startup, data conflicts may occur if you continue to operate, please perform a synchronization first",
     "18": "Get community user account failed",
     "19": "User information has expired, please log in again",
     "20": "Cannot be converted to heading when including sub-documents",
