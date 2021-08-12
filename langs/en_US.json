@@ -388,6 +388,8 @@
   "md30": "Configure to 0, use the default Tab width (usually 8 spaces)",
   "md31": "Code block wraps",
   "md32": "After enabling, the content in the code block will wrap automatically",
+  "md33": "Virtual Reference",
+  "md34": "After enabling, it will automatically identify possible reference relationships based on the name, alias, and block anchor text of the existing content block",
   "fileTree2": "The doc tree will automatically select the current document when the editor tab is switched",
   "fileTree5": "Ref create doc save location",
   "fileTree6": "When using <code>((</code>, the save path of the new document (for example, /folder1/folder2/, the relative path of the current doc is used if it does not start with /)",
