@@ -1,6 +1,7 @@
 {
+  "andSubFile": "及其 <b>x</b> 个子文档",
   "addIcon": "添加图标",
-  "includeSubFile": "\n包含x个子文档",
+  "includeSubFile": "\n包含 x 个子文档",
   "untitled": "新文档",
   "goForward": "前进",
   "goBack": "后退",
