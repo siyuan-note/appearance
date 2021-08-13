@@ -6298,6 +6298,12 @@
         "keywords": "liandi,链滴,b3log"
       },
       {
+        "unicode": "siyuan.svg",
+        "description": "SiYuan Note",
+        "description_zh_cn": "思源笔记",
+        "keywords": "思源笔记,sy,双链,b3log"
+      },
+      {
         "unicode": "lute.png",
         "description": "A structured Markdown engine that supports Go and JavaScript",
         "description_zh_cn": "一款结构化的 Markdown 引擎，支持 Go 和 JavaScript",
