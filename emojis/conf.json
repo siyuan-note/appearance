@@ -554,7 +554,7 @@
         "unicode": "1f915",
         "description": "Face with head-bandage",
         "description_zh_cn": "头戴绷带的脸",
-        "keywords": "bandage,face,hurt,injury,绷带, 脸, 受伤, 受伤"
+        "keywords": "bandage,face,hurt,injury,绷带,脸,受伤,受伤"
       },
       {
         "unicode": "1f912",
@@ -578,7 +578,7 @@
         "unicode": "1f927",
         "description": "Sneezing face",
         "description_zh_cn": "打喷嚏的脸",
-        "keywords": "face,gesundheit,sneeze,脸, gesundheit, 打喷嚏"
+        "keywords": "face,gesundheit,sneeze,脸,gesundheit,打喷嚏"
       },
       {
         "unicode": "1f975",
@@ -1104,91 +1104,91 @@
       },
       {
         "unicode": "1f469-200d-1f9b1",
-        "description": "Woman, curly haired",
+        "description": "Woman,curly haired",
         "description_zh_cn": "女人，卷发",
         "keywords": "curly,hair,woman,female,women,卷发,头发,女子,女性,妇女"
       },
       {
         "unicode": "1f9d1-200d-1f9b1",
-        "description": "Person, curly haired",
+        "description": "Person,curly haired",
         "description_zh_cn": "人，卷发",
         "keywords": "curly,hair,卷发"
       },
       {
         "unicode": "1f468-200d-1f9b1",
-        "description": "Man, curly haired",
+        "description": "Man,curly haired",
         "description_zh_cn": "男人，卷发",
         "keywords": "curly,hair,man,male,men,卷发,头发,男人,男,男"
       },
       {
         "unicode": "1f469-200d-1f9b0",
-        "description": "Woman, red haired",
+        "description": "Woman,red haired",
         "description_zh_cn": "女人，红头发",
         "keywords": "red,hair,woman,female,women,红色,头发,女人,女性,妇女"
       },
       {
         "unicode": "1f9d1-200d-1f9b0",
-        "description": "Person, red haired",
+        "description": "Person,red haired",
         "description_zh_cn": "人，红头发",
         "keywords": "red,hair,红发"
       },
       {
         "unicode": "1f468-200d-1f9b0",
-        "description": "Man, red haired",
+        "description": "Man,red haired",
         "description_zh_cn": "男人，红头发",
         "keywords": "red,hair,man,male,men,红色,头发,男人,男,男"
       },
       {
         "unicode": "1f471-200d-2640-fe0f",
-        "description": "Woman, blond haired",
+        "description": "Woman,blond haired",
         "description_zh_cn": "女人，金发",
         "keywords": "blond,blonde,hair,woman,female,women,金发女郎,金发女郎,头发,女子,女性,妇女"
       },
       {
         "unicode": "1f471",
-        "description": "Person, blond haired",
+        "description": "Person,blond haired",
         "description_zh_cn": "人，金发",
         "keywords": "blond,blonde,hair,金发,金发,头发"
       },
       {
         "unicode": "1f471-200d-2642-fe0f",
-        "description": "Man, blond haired",
+        "description": "Man,blond haired",
         "description_zh_cn": "男人，金发",
         "keywords": "blond,blonde,hair,man,male,men,金发女郎,金发女郎,头发,男子,男,男子"
       },
       {
         "unicode": "1f469-200d-1f9b3",
-        "description": "Woman, white haired",
+        "description": "Woman,white haired",
         "description_zh_cn": "女人，白发",
         "keywords": "white,hair,woman,female,women,白,头发,女人,女性,妇女"
       },
       {
         "unicode": "1f9d1-200d-1f9b3",
-        "description": "Person, white haired",
+        "description": "Person,white haired",
         "description_zh_cn": "人，白发",
         "keywords": "white,hair,白色的头发"
       },
       {
         "unicode": "1f468-200d-1f9b3",
-        "description": "Man, white haired",
+        "description": "Man,white haired",
         "description_zh_cn": "男人，白头发",
         "keywords": "white,hair,man,male,men,白,头发,男人,男,男"
       },
       {
         "unicode": "1f469-200d-1f9b2",
-        "description": "Woman, bald",
+        "description": "Woman,bald",
         "description_zh_cn": "女人，秃头",
         "keywords": "bald,woman,female,women,秃头,女人,女性,妇女"
       },
       {
         "unicode": "1f9d1-200d-1f9b2",
-        "description": "Person, bald",
+        "description": "Person,bald",
         "description_zh_cn": "人，秃头",
         "keywords": "bald,秃"
       },
       {
         "unicode": "1f468-200d-1f9b2",
-        "description": "Man, bald",
+        "description": "Man,bald",
         "description_zh_cn": "男人，秃头",
         "keywords": "bald,man,male,men,秃头,男人,男性,男人"
       },
@@ -2316,13 +2316,13 @@
       },
       {
         "unicode": "1f469-200d-2764-fe0f-200d-1f468",
-        "description": "Couple with heart (woman, man)",
+        "description": "Couple with heart (woman,man)",
         "description_zh_cn": "有心的情侣（女人，男人）",
         "keywords": "couple,heart,love,romance,man,woman,male,female,men,women,情侣,心,爱情,浪漫,男人,女人,男,女,男,女"
       },
       {
         "unicode": "1f469-200d-2764-fe0f-200d-1f469",
-        "description": "Couple with heart (woman, woman)",
+        "description": "Couple with heart (woman,woman)",
         "description_zh_cn": "情侣心（女人，女人）",
         "keywords": "couple,heart,love,romance,woman,female,women,pride,lgbt,lesbian,夫妇,心,爱情,浪漫,女人,女性,妇女,骄傲,lgbt,女同性恋"
       },
@@ -2334,19 +2334,19 @@
       },
       {
         "unicode": "1f468-200d-2764-fe0f-200d-1f468",
-        "description": "Couple with heart (man, man)",
+        "description": "Couple with heart (man,man)",
         "description_zh_cn": "情侣心（男人，男人）",
         "keywords": "couple,heart,love,romance,man,male,men,pride,lgbt,gay,夫妇,心,爱情,浪漫,男子,男性,男子,骄傲,同性恋,同性恋"
       },
       {
         "unicode": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
-        "description": "Kiss (woman, man)",
+        "description": "Kiss (woman,man)",
         "description_zh_cn": "吻（女人，男人）",
         "keywords": "couple,kiss,heart,love,romance,man,woman,male,female,men,women,情侣,吻,心,爱情,浪漫,男人,女人,男,女,男人,女人"
       },
       {
         "unicode": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469",
-        "description": "Kiss (woman, woman)",
+        "description": "Kiss (woman,woman)",
         "description_zh_cn": "吻（女人，女人）",
         "keywords": "couple,kiss,heart,love,romance,woman,female,women,pride,lgbt,lesbian,夫妇,吻,心,爱情,浪漫,女人,女性,妇女,骄傲,lgbt,女同性恋"
       },
@@ -2358,7 +2358,7 @@
       },
       {
         "unicode": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
-        "description": "Kiss (man, man)",
+        "description": "Kiss (man,man)",
         "description_zh_cn": "吻（男人，男人）",
         "keywords": "couple,kiss,heart,love,romance,man,male,men,pride,lgbt,gay,情侣,吻,心,爱情,浪漫,男人,男,男,骄傲,lgbt,gay"
       },
@@ -2370,145 +2370,145 @@
       },
       {
         "unicode": "1f468-200d-1f469-200d-1f467",
-        "description": "Family (man, woman, girl)",
+        "description": "Family (man,woman,girl)",
         "description_zh_cn": "家庭（男人，女人，女孩）",
         "keywords": "family,father,mother,,man,woman,male,female,men,women,girl,child,家庭,父亲,母亲,男人,女人,男,女,男人,女人,女孩,儿童"
       },
       {
         "unicode": "1f468-200d-1f469-200d-1f467-200d-1f466",
-        "description": "Family (man, woman, girl, boy)",
+        "description": "Family (man,woman,girl,boy)",
         "description_zh_cn": "家庭（男人，女人，女孩，男孩）",
         "keywords": "family,father,mother,man,woman,male,female,men,women,boy,girl,child,家庭,父亲,母亲,男子,女子,男,女,男子,妇女,男孩,女孩,儿童"
       },
       {
         "unicode": "1f468-200d-1f469-200d-1f466-200d-1f466",
-        "description": "Family (man, woman, boy, boy)",
+        "description": "Family (man,woman,boy,boy)",
         "description_zh_cn": "家庭（男人，女人，男孩，男孩）",
         "keywords": "family,father,mother,man,woman,male,female,men,women,boy,child,家庭,父亲,母亲,男子,女子,男,女,男子,妇女,男孩,儿童"
       },
       {
         "unicode": "1f468-200d-1f469-200d-1f467-200d-1f467",
-        "description": "Family (man, woman, girl, girl)",
+        "description": "Family (man,woman,girl,girl)",
         "description_zh_cn": "家庭（男人，女人，女孩，女孩）",
         "keywords": "family,father,mother,man,woman,male,female,men,women,girl,child,家庭,父亲,母亲,男子,女子,男,女,男子,妇女,女孩,儿童"
       },
       {
         "unicode": "1f469-200d-1f469-200d-1f466",
-        "description": "Family (woman, woman, boy)",
+        "description": "Family (woman,woman,boy)",
         "description_zh_cn": "家庭（女人，女人，男孩）",
         "keywords": "family,mother,woman,female,women,boy,child,pride,lgbt,lesbian,家庭,母亲,女人,女性,妇女,男孩,儿童,骄傲,lgbt,女同性恋"
       },
       {
         "unicode": "1f469-200d-1f469-200d-1f467",
-        "description": "Family (woman, woman, girl)",
+        "description": "Family (woman,woman,girl)",
         "description_zh_cn": "家庭（女人，女人，女孩）",
         "keywords": "family,mother,woman,female,women,girl,child,pride,lgbt,lesbian,家庭,母亲,女子,女性,妇女,女孩,儿童,骄傲,lgbt,女同性恋"
       },
       {
         "unicode": "1f469-200d-1f469-200d-1f467-200d-1f466",
-        "description": "Family (woman, woman, girl, boy)",
+        "description": "Family (woman,woman,girl,boy)",
         "description_zh_cn": "家庭（女人，女人，女孩，男孩）",
         "keywords": "family,mother,woman,female,women,boy,girl,child,pride,lgbt,lesbian,家庭,母亲,女子,女性,妇女,男孩,女孩,儿童,骄傲,lgbt,女同性恋"
       },
       {
         "unicode": "1f469-200d-1f469-200d-1f466-200d-1f466",
-        "description": "Family (woman, woman, boy, boy)",
+        "description": "Family (woman,woman,boy,boy)",
         "description_zh_cn": "家庭（女人，女人，男孩，男孩）",
         "keywords": "family,mother,woman,female,women,boy,child,pride,lgbt,lesbian,家庭,母亲,女人,女性,妇女,男孩,儿童,骄傲,lgbt,女同性恋"
       },
       {
         "unicode": "1f469-200d-1f469-200d-1f467-200d-1f467",
-        "description": "Family (woman, woman, girl, girl)",
+        "description": "Family (woman,woman,girl,girl)",
         "description_zh_cn": "家庭（女人，女人，女孩，女孩）",
         "keywords": "family,mother,woman,female,women,girl,child,pride,lgbt,lesbian,家庭,母亲,女子,女性,妇女,女孩,儿童,骄傲,lgbt,女同性恋"
       },
       {
         "unicode": "1f468-200d-1f468-200d-1f466",
-        "description": "Family (man, man, boy)",
+        "description": "Family (man,man,boy)",
         "description_zh_cn": "家庭（男人，男人，男孩）",
         "keywords": "family,father,man,male,men,boy,child,pride,lgbt,gay,家庭,父亲,男子,男性,男子,男孩,儿童,骄傲,同性恋,同性恋"
       },
       {
         "unicode": "1f468-200d-1f468-200d-1f467",
-        "description": "Family (man, man, girl)",
+        "description": "Family (man,man,girl)",
         "description_zh_cn": "家庭（男人，男人，女孩）",
         "keywords": "family,father,man,male,men,girl,child,pride,lgbt,gay,家庭,父亲,男子,男性,男子,女孩,儿童,骄傲,lgbt,同性恋"
       },
       {
         "unicode": "1f468-200d-1f468-200d-1f467-200d-1f466",
-        "description": "Family (man, man, girl, boy)",
+        "description": "Family (man,man,girl,boy)",
         "description_zh_cn": "家庭（男人，男人，女孩，男孩）",
         "keywords": "family,father,man,male,men,boy,girl,child,pride,lgbt,gay,家庭,父亲,男子,男性,男子,男孩,女孩,儿童,骄傲,同性恋,同性恋"
       },
       {
         "unicode": "1f468-200d-1f468-200d-1f466-200d-1f466",
-        "description": "Family (man, man, boy, boy)",
+        "description": "Family (man,man,boy,boy)",
         "description_zh_cn": "家庭（男人，男人，男孩，男孩）",
         "keywords": "family,father,man,male,men,boy,child,pride,lgbt,gay,家庭,父亲,男子,男性,男子,男孩,儿童,骄傲,同性恋,同性恋"
       },
       {
         "unicode": "1f468-200d-1f468-200d-1f467-200d-1f467",
-        "description": "Family (man, man, girl, girl)",
+        "description": "Family (man,man,girl,girl)",
         "description_zh_cn": "家庭（男人，男人，女孩，女孩）",
         "keywords": "family,father,man,male,men,girl,child,pride,lgbt,gay,家庭,父亲,男子,男性,男子,女孩,儿童,骄傲,lgbt,同性恋"
       },
       {
         "unicode": "1f469-200d-1f466",
-        "description": "Family (woman, boy)",
+        "description": "Family (woman,boy)",
         "description_zh_cn": "家庭（女人，男孩）",
         "keywords": "family,mother,woman,female,women,boy,child,家庭,母亲,女子,女性,妇女,男孩,儿童"
       },
       {
         "unicode": "1f469-200d-1f467",
-        "description": "Family (woman, girl)",
+        "description": "Family (woman,girl)",
         "description_zh_cn": "家庭（女人，女孩）",
         "keywords": "family,mother,woman,female,women,girl,child,家庭,母亲,女子,女性,妇女,女孩,儿童"
       },
       {
         "unicode": "1f469-200d-1f467-200d-1f466",
-        "description": "Family (woman, girl, boy)",
+        "description": "Family (woman,girl,boy)",
         "description_zh_cn": "家庭（女人，女孩，男孩）",
         "keywords": "family,mother,woman,female,male,girl,boy,child,家庭,母亲,女人,女性,男性,女孩,男孩,儿童"
       },
       {
         "unicode": "1f469-200d-1f466-200d-1f466",
-        "description": "Family (woman, boy, boy)",
+        "description": "Family (woman,boy,boy)",
         "description_zh_cn": "家庭（女人，男孩，男孩）",
         "keywords": "family,mother,woman,female,women,boy,child,家庭,母亲,女子,女性,妇女,男孩,儿童"
       },
       {
         "unicode": "1f469-200d-1f467-200d-1f467",
-        "description": "Family (woman, girl, girl)",
+        "description": "Family (woman,girl,girl)",
         "description_zh_cn": "家庭（女人，女孩，女孩）",
         "keywords": "family,mother,woman,female,women,girl,child,家庭,母亲,女子,女性,妇女,女孩,儿童"
       },
       {
         "unicode": "1f468-200d-1f466",
-        "description": "Family (man, boy)",
+        "description": "Family (man,boy)",
         "description_zh_cn": "家庭（男人，男孩）",
         "keywords": "family,father,man,male,men,boy,child,家庭,父亲,男子,男性,男子,男孩,儿童"
       },
       {
         "unicode": "1f468-200d-1f467",
-        "description": "Family (man, girl)",
+        "description": "Family (man,girl)",
         "description_zh_cn": "家庭（男、女）",
         "keywords": "family,father,man,male,female,girl,child,家庭,父亲,男子,男性,女性,女孩,儿童"
       },
       {
         "unicode": "1f468-200d-1f467-200d-1f466",
-        "description": "Family (man, girl, boy)",
+        "description": "Family (man,girl,boy)",
         "description_zh_cn": "家庭（男人，女孩，男孩）",
         "keywords": "family,father,man,male,men,boy,girl,child,家庭,父亲,男子,男性,男子,男孩,女孩,儿童"
       },
       {
         "unicode": "1f468-200d-1f466-200d-1f466",
-        "description": "Family (man, boy, boy)",
+        "description": "Family (man,boy,boy)",
         "description_zh_cn": "家庭（男人，男孩，男孩）",
         "keywords": "family,father,man,male,men,boy,child,家庭,父亲,男子,男性,男子,男孩,儿童"
       },
       {
         "unicode": "1f468-200d-1f467-200d-1f467",
-        "description": "Family (man, girl, girl)",
+        "description": "Family (man,girl,girl)",
         "description_zh_cn": "家庭（男人，女孩，女孩）",
         "keywords": "family,father,man,male,female,girl,child,家庭,父亲,男子,男性,女性,女孩,儿童"
       },
@@ -2642,7 +2642,7 @@
         "unicode": "1f462",
         "description": "Woman’s boots",
         "description_zh_cn": "女靴",
-        "keywords": "boot,clothing,shoe,woman,引导, 服装, 鞋, 女人"
+        "keywords": "boot,clothing,shoe,woman,引导,服装,鞋,女人"
       },
       {
         "unicode": "1f97f",
@@ -2850,7 +2850,7 @@
       },
       {
         "unicode": "1f468-200d-1f469-200d-1f466",
-        "description": "Family (man, woman, boy)",
+        "description": "Family (man,woman,boy)",
         "description_zh_cn": "家庭（男人，女人，男孩）",
         "keywords": "family,father,mother,man,woman,male,female,men,women,boy,child,家庭,父亲,母亲,男子,女子,男,女,男子,妇女,男孩,儿童"
       }
@@ -3147,7 +3147,7 @@
         "unicode": "1f41e",
         "description": "Lady beetle",
         "description_zh_cn": "瓢虫",
-        "keywords": "beetle,insect,lady beetle,ladybird,ladybug,甲虫, 昆虫, 瓢虫, 瓢虫, 瓢虫"
+        "keywords": "beetle,insect,lady beetle,ladybird,ladybug,甲虫,昆虫,瓢虫,瓢虫,瓢虫"
       },
       {
         "unicode": "1f41c",
@@ -3609,7 +3609,7 @@
         "unicode": "1f996",
         "description": "T-Rex",
         "description_zh_cn": "霸王龙",
-        "keywords": "tyrannosaurus rex,trex,dinosaur,霸王龙, 特雷克斯, 恐龙"
+        "keywords": "tyrannosaurus rex,trex,dinosaur,霸王龙,特雷克斯,恐龙"
       },
       {
         "unicode": "1f335",
@@ -4907,7 +4907,7 @@
         "unicode": "1f94c",
         "description": "Curling stone",
         "description_zh_cn": "冰壶石",
-        "keywords": "curling,stone,冰壶, 石头"
+        "keywords": "curling,stone,冰壶,石头"
       },
       {
         "unicode": "26f3",
@@ -5309,7 +5309,7 @@
         "unicode": "1f397",
         "description": "Reminder ribbon",
         "description_zh_cn": "提醒功能区",
-        "keywords": "celebration,reminder,ribbon,庆祝活动, 提醒, 丝带"
+        "keywords": "celebration,reminder,ribbon,庆祝活动,提醒,丝带"
       },
       {
         "unicode": "1f3ab",
@@ -6335,7 +6335,7 @@
       },
       {
         "unicode": "vditor.png",
-        "description": "An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes",
+        "description": "An In-browser Markdown editor,support WYSIWYG (Rich Text),Instant Rendering (Typora-like) and Split View modes",
         "description_zh_cn": "一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式",
         "keywords": "vditor,b3log,markdown"
       },
@@ -7213,7 +7213,7 @@
         "unicode": "1f380",
         "description": "Ribbon",
         "description_zh_cn": "丝带",
-        "keywords": "celebration,ribbon,庆祝活动, 丝带"
+        "keywords": "celebration,ribbon,庆祝活动,丝带"
       },
       {
         "unicode": "1f9e7",
@@ -7856,7 +7856,7 @@
         "unicode": "1f549",
         "description": "Om symbol",
         "description_zh_cn": "嗡符号",
-        "keywords": "hindu,om,religion,印度教, OM, 宗教"
+        "keywords": "hindu,om,religion,印度教,OM,宗教"
       },
       {
         "unicode": "2638",
@@ -8132,7 +8132,7 @@
         "unicode": "1f18e",
         "description": "Negative squared ab",
         "description_zh_cn": "负平方ab",
-        "keywords": "ab,blood,ab, 血"
+        "keywords": "ab,blood,ab,血"
       },
       {
         "unicode": "1f191",
@@ -8468,7 +8468,7 @@
         "unicode": "1f6b0",
         "description": "Potable water symbol",
         "description_zh_cn": "饮用水符号",
-        "keywords": "drink,potable,water,饮料, 饮用水, 水"
+        "keywords": "drink,potable,water,饮料,饮用水,水"
       },
       {
         "unicode": "1f6d7",
@@ -9663,7 +9663,7 @@
         "unicode": "1f6a9",
         "description": "Triangular flag on post",
         "description_zh_cn": "柱子上的三角旗",
-        "keywords": "flag,post,旗帜, 岗位"
+        "keywords": "flag,post,旗帜,岗位"
       },
       {
         "unicode": "1f38c",
@@ -9693,54 +9693,54 @@
         "unicode": "1f1e6-1f1e8",
         "description": "Flag of Ascension Island",
         "description_zh_cn": "阿森松岛的旗帜",
-        "keywords": "ascension,flag,island,升天, 旗帜, 岛"
+        "keywords": "ascension,flag,island,升天,旗帜,岛"
       },
       {
         "unicode": "1f1e6-1f1e9",
         "description": "Flag of Andorra",
-        "description_zh_cn": "安道尔国旗",
+        "description_zh_cn": "安道尔",
         "keywords": "andorra,flag,安道尔,国旗"
       },
       {
         "unicode": "1f1e6-1f1ea",
         "description": "Flag of United Arab Emirates",
-        "description_zh_cn": "阿拉伯联合酋长国国旗",
+        "description_zh_cn": "阿拉伯联合酋长国",
         "keywords": "emirates,flag,uae,united,酋长国、国旗、阿联酋、联合"
       },
       {
         "unicode": "1f1e6-1f1eb",
         "description": "Flag of Afghanistan",
-        "description_zh_cn": "阿富汗国旗",
-        "keywords": "afghanistan,flag,阿富汗, 国旗"
+        "description_zh_cn": "阿富汗",
+        "keywords": "afghanistan,flag,阿富汗,国旗"
       },
       {
         "unicode": "1f1e6-1f1ec",
         "description": "Flag of Antigua \u0026 Barbuda",
-        "description_zh_cn": "安提瓜和巴布达国旗",
+        "description_zh_cn": "安提瓜和巴布达",
         "keywords": "antigua,barbuda,flag,安提瓜,巴布达,国旗"
       },
       {
         "unicode": "1f1e6-1f1ee",
         "description": "Flag of Anguilla",
-        "description_zh_cn": "安圭拉国旗",
+        "description_zh_cn": "安圭拉",
         "keywords": "anguilla,flag,安圭拉,国旗"
       },
       {
         "unicode": "1f1e6-1f1f1",
         "description": "Flag of Albania",
-        "description_zh_cn": "阿尔巴尼亚国旗",
+        "description_zh_cn": "阿尔巴尼亚",
         "keywords": "albania,flag,阿尔巴尼亚,国旗"
       },
       {
         "unicode": "1f1e6-1f1f2",
         "description": "Flag of Armenia",
-        "description_zh_cn": "亚美尼亚国旗",
-        "keywords": "armenia,flag,亚美尼亚, 国旗"
+        "description_zh_cn": "亚美尼亚",
+        "keywords": "armenia,flag,亚美尼亚,国旗"
       },
       {
         "unicode": "1f1e6-1f1f4",
         "description": "Flag of Angola",
-        "description_zh_cn": "安哥拉国旗",
+        "description_zh_cn": "安哥拉",
         "keywords": "angola,flag,安哥拉,国旗"
       },
       {
@@ -9752,32 +9752,32 @@
       {
         "unicode": "1f1e6-1f1f7",
         "description": "Flag of Argentina",
-        "description_zh_cn": "阿根廷国旗",
+        "description_zh_cn": "阿根廷",
         "keywords": "argentina,flag,阿根廷,国旗"
       },
       {
         "unicode": "1f1e6-1f1f8",
         "description": "Flag of American Samoa",
-        "description_zh_cn": "美属萨摩亚国旗",
+        "description_zh_cn": "美属萨摩亚",
         "keywords": "american,flag,samoa,美国,国旗,萨摩亚"
       },
       {
         "unicode": "1f1e6-1f1f9",
         "description": "Flag of Austria",
-        "description_zh_cn": "奥地利国旗",
+        "description_zh_cn": "奥地利",
         "keywords": "austria,flag,奥地利,国旗"
       },
       {
         "unicode": "1f1e6-1f1fa",
         "description": "Flag of Australia",
-        "description_zh_cn": "澳大利亚国旗",
+        "description_zh_cn": "澳大利亚",
         "keywords": "australia,flag,heard,mcdonald,澳大利亚,国旗,听说,麦当劳"
       },
       {
         "unicode": "1f1e6-1f1fc",
         "description": "Flag of Aruba",
-        "description_zh_cn": "阿鲁巴国旗",
-        "keywords": "aruba,flag,阿鲁巴, 国旗"
+        "description_zh_cn": "阿鲁巴",
+        "keywords": "aruba,flag,阿鲁巴,国旗"
       },
       {
         "unicode": "1f1e6-1f1fd",
@@ -9788,140 +9788,140 @@
       {
         "unicode": "1f1e6-1f1ff",
         "description": "Flag of Azerbaijan",
-        "description_zh_cn": "阿塞拜疆国旗",
+        "description_zh_cn": "阿塞拜疆",
         "keywords": "azerbaijan,flag,阿塞拜疆,国旗"
       },
       {
         "unicode": "1f1e7-1f1e6",
         "description": "Flag of Bosnia \u0026 Herzegovina",
-        "description_zh_cn": "波斯尼亚和黑塞哥维那国旗",
-        "keywords": "bosnia,flag,herzegovina,波斯尼亚, 国旗, 黑塞哥维那"
+        "description_zh_cn": "波斯尼亚和黑塞哥维那",
+        "keywords": "bosnia,flag,herzegovina,波斯尼亚,国旗,黑塞哥维那"
       },
       {
         "unicode": "1f1e7-1f1e7",
         "description": "Flag of Barbados",
-        "description_zh_cn": "巴巴多斯国旗",
-        "keywords": "barbados,flag,巴巴多斯, 国旗"
+        "description_zh_cn": "巴巴多斯",
+        "keywords": "barbados,flag,巴巴多斯,国旗"
       },
       {
         "unicode": "1f1e7-1f1e9",
         "description": "Flag of Bangladesh",
-        "description_zh_cn": "孟加拉国国旗",
+        "description_zh_cn": "孟加拉国",
         "keywords": "bangladesh,flag,孟加拉国,国旗"
       },
       {
         "unicode": "1f1e7-1f1ea",
         "description": "Flag of Belgium",
-        "description_zh_cn": "比利时国旗",
+        "description_zh_cn": "比利时",
         "keywords": "belgium,flag,比利时,国旗"
       },
       {
         "unicode": "1f1e7-1f1eb",
         "description": "Flag of Burkina Faso",
-        "description_zh_cn": "布基纳法索国旗",
-        "keywords": "burkina faso,flag,布基纳法索, 国旗"
+        "description_zh_cn": "布基纳法索",
+        "keywords": "burkina faso,flag,布基纳法索,国旗"
       },
       {
         "unicode": "1f1e7-1f1ec",
         "description": "Flag of Bulgaria",
-        "description_zh_cn": "保加利亚国旗",
+        "description_zh_cn": "保加利亚",
         "keywords": "bulgaria,flag,保加利亚,国旗"
       },
       {
         "unicode": "1f1e7-1f1ed",
         "description": "Flag of Bahrain",
-        "description_zh_cn": "巴林国旗",
+        "description_zh_cn": "巴林",
         "keywords": "bahrain,flag,巴林,国旗"
       },
       {
         "unicode": "1f1e7-1f1ee",
         "description": "Flag of Burundi",
-        "description_zh_cn": "布隆迪国旗",
-        "keywords": "burundi,flag,布隆迪, 国旗"
+        "description_zh_cn": "布隆迪",
+        "keywords": "burundi,flag,布隆迪,国旗"
       },
       {
         "unicode": "1f1e7-1f1ef",
         "description": "Flag of Benin",
-        "description_zh_cn": "贝宁国旗",
-        "keywords": "benin,flag,贝宁, 国旗"
+        "description_zh_cn": "贝宁",
+        "keywords": "benin,flag,贝宁,国旗"
       },
       {
         "unicode": "1f1e7-1f1f1",
         "description": "Flag of St. Barthélemy",
-        "description_zh_cn": "圣巴泰勒米国旗",
+        "description_zh_cn": "圣巴泰勒米",
         "keywords": "barthelemy,barthélemy,flag,saint,巴泰勒米,巴泰勒米,国旗,圣"
       },
       {
         "unicode": "1f1e7-1f1f2",
         "description": "Flag of Bermuda",
-        "description_zh_cn": "百慕大国旗",
+        "description_zh_cn": "百慕大",
         "keywords": "bermuda,flag,百慕大,国旗"
       },
       {
         "unicode": "1f1e7-1f1f3",
         "description": "Flag of Brunei",
-        "description_zh_cn": "文莱国旗",
+        "description_zh_cn": "文莱",
         "keywords": "brunei,darussalam,flag,文莱,达鲁萨兰国,国旗"
       },
       {
         "unicode": "1f1e7-1f1f4",
         "description": "Flag of Bolivia",
-        "description_zh_cn": "玻利维亚国旗",
-        "keywords": "bolivia,flag,玻利维亚, 国旗"
+        "description_zh_cn": "玻利维亚",
+        "keywords": "bolivia,flag,玻利维亚,国旗"
       },
       {
         "unicode": "1f1e7-1f1f6",
         "description": "Flag of Caribbean Netherlands",
-        "description_zh_cn": "加勒比荷兰国旗",
+        "description_zh_cn": "加勒比荷兰",
         "keywords": "bonaire,caribbean,eustatius,flag,netherlands,saba,sint,博内尔岛,加勒比海,eustatius,标志,荷兰,萨巴岛,圣"
       },
       {
         "unicode": "1f1e7-1f1f7",
         "description": "Flag of Brazil",
-        "description_zh_cn": "巴西国旗",
-        "keywords": "brazil,flag,巴西, 国旗"
+        "description_zh_cn": "巴西",
+        "keywords": "brazil,flag,巴西,国旗"
       },
       {
         "unicode": "1f1e7-1f1f8",
         "description": "Flag of Bahamas",
-        "description_zh_cn": "巴哈马国旗",
-        "keywords": "bahamas,flag,巴哈马, 国旗"
+        "description_zh_cn": "巴哈马",
+        "keywords": "bahamas,flag,巴哈马,国旗"
       },
       {
         "unicode": "1f1e7-1f1f9",
         "description": "Flag of Bhutan",
-        "description_zh_cn": "不丹国旗",
+        "description_zh_cn": "不丹",
         "keywords": "bhutan,flag,不丹,国旗"
       },
       {
         "unicode": "1f1e7-1f1fc",
         "description": "Flag of Botswana",
-        "description_zh_cn": "博茨瓦纳国旗",
-        "keywords": "botswana,flag,博茨瓦纳, 国旗"
+        "description_zh_cn": "博茨瓦纳",
+        "keywords": "botswana,flag,博茨瓦纳,国旗"
       },
       {
         "unicode": "1f1e7-1f1fe",
         "description": "Flag of Belarus",
-        "description_zh_cn": "白俄罗斯国旗",
-        "keywords": "belarus,flag,白俄罗斯, 国旗"
+        "description_zh_cn": "白俄罗斯",
+        "keywords": "belarus,flag,白俄罗斯,国旗"
       },
       {
         "unicode": "1f1e7-1f1ff",
         "description": "Flag of Belize",
-        "description_zh_cn": "伯利兹国旗",
-        "keywords": "belize,flag,伯利兹, 国旗"
+        "description_zh_cn": "伯利兹",
+        "keywords": "belize,flag,伯利兹,国旗"
       },
       {
         "unicode": "1f1e8-1f1e6",
         "description": "Flag of Canada",
-        "description_zh_cn": "加拿大国旗",
+        "description_zh_cn": "加拿大",
         "keywords": "canada,flag,加拿大,国旗"
       },
       {
         "unicode": "1f1e8-1f1e8",
         "description": "Flag of Cocos Islands",
         "description_zh_cn": "科科斯群岛的旗帜",
-        "keywords": "cocos,flag,island,keeling,可可, 国旗, 岛, 龙骨"
+        "keywords": "cocos,flag,island,keeling,可可,国旗,岛,龙骨"
       },
       {
         "unicode": "1f1e8-1f1e9",
@@ -9932,7 +9932,7 @@
       {
         "unicode": "1f1e8-1f1eb",
         "description": "Flag of Central African Republic",
-        "description_zh_cn": "中非共和国国旗",
+        "description_zh_cn": "中非共和国",
         "keywords": "central african republic,flag,republic,中非共和国,国旗,共和国"
       },
       {
@@ -9944,61 +9944,61 @@
       {
         "unicode": "1f1e8-1f1ed",
         "description": "Flag of Switzerland",
-        "description_zh_cn": "瑞士国旗",
+        "description_zh_cn": "瑞士",
         "keywords": "flag,switzerland,国旗,瑞士"
       },
       {
         "unicode": "1f1e8-1f1ee",
         "description": "Flag of Côte d’Ivoire",
-        "description_zh_cn": "科特迪瓦国旗",
+        "description_zh_cn": "科特迪瓦",
         "keywords": "cote ivoire,côte ivoire,flag,ivory coast,科特迪瓦,科特迪瓦,国旗,象牙海岸"
       },
       {
         "unicode": "1f1e8-1f1f0",
         "description": "Flag of Cook Islands",
-        "description_zh_cn": "库克群岛国旗",
-        "keywords": "cook,flag,island,厨师, 国旗, 岛"
+        "description_zh_cn": "库克群岛",
+        "keywords": "cook,flag,island,厨师,国旗,岛"
       },
       {
         "unicode": "1f1e8-1f1f1",
         "description": "Flag of Chile",
-        "description_zh_cn": "智利国旗",
-        "keywords": "chile,flag,智利, 国旗"
+        "description_zh_cn": "智利",
+        "keywords": "chile,flag,智利,国旗"
       },
       {
         "unicode": "1f1e8-1f1f2",
         "description": "Flag of Cameroon",
-        "description_zh_cn": "喀麦隆国旗",
-        "keywords": "cameroon,flag,喀麦隆, 国旗"
+        "description_zh_cn": "喀麦隆",
+        "keywords": "cameroon,flag,喀麦隆,国旗"
       },
       {
         "unicode": "1f1e8-1f1f3",
         "description": "Flag of China",
-        "description_zh_cn": "中国国旗",
+        "description_zh_cn": "中国",
         "keywords": "china,flag,中国,国旗"
       },
       {
         "unicode": "1f1e8-1f1f4",
         "description": "Flag of Colombia",
-        "description_zh_cn": "哥伦比亚国旗",
+        "description_zh_cn": "哥伦比亚",
         "keywords": "colombia,flag,哥伦比亚,国旗"
       },
       {
         "unicode": "1f1e8-1f1f7",
         "description": "Flag of Costa Rica",
-        "description_zh_cn": "哥斯达黎加国旗",
+        "description_zh_cn": "哥斯达黎加",
         "keywords": "costa rica,flag,哥斯达黎加,国旗"
       },
       {
         "unicode": "1f1e8-1f1fa",
         "description": "Flag of Cuba",
-        "description_zh_cn": "古巴国旗",
+        "description_zh_cn": "古巴",
         "keywords": "cuba,flag,古巴,国旗"
       },
       {
         "unicode": "1f1e8-1f1fb",
         "description": "Flag of Cape Verde",
-        "description_zh_cn": "佛得角国旗",
+        "description_zh_cn": "佛得角",
         "keywords": "cabo,cape,flag,verde,卡波,海角,国旗,佛得角"
       },
       {
@@ -10016,73 +10016,73 @@
       {
         "unicode": "1f1e8-1f1fe",
         "description": "Flag of Cyprus",
-        "description_zh_cn": "塞浦路斯国旗",
+        "description_zh_cn": "塞浦路斯",
         "keywords": "cyprus,flag,塞浦路斯,国旗"
       },
       {
         "unicode": "1f1e8-1f1ff",
         "description": "Flag of Czech Republic",
-        "description_zh_cn": "捷克共和国国旗",
-        "keywords": "czech republic,flag,捷克共和国, 国旗"
+        "description_zh_cn": "捷克共和国",
+        "keywords": "czech republic,flag,捷克共和国,国旗"
       },
       {
         "unicode": "1f1e9-1f1ea",
         "description": "Flag of Germany",
-        "description_zh_cn": "德国国旗",
+        "description_zh_cn": "德国",
         "keywords": "flag,germany,国旗,德国"
       },
       {
         "unicode": "1f1e9-1f1ef",
         "description": "Flag of Djibouti",
-        "description_zh_cn": "吉布提国旗",
-        "keywords": "djibouti,flag,吉布提, 国旗"
+        "description_zh_cn": "吉布提",
+        "keywords": "djibouti,flag,吉布提,国旗"
       },
       {
         "unicode": "1f1e9-1f1f0",
         "description": "Flag of Denmark",
-        "description_zh_cn": "丹麦国旗",
+        "description_zh_cn": "丹麦",
         "keywords": "denmark,flag,丹麦,国旗"
       },
       {
         "unicode": "1f1e9-1f1f2",
         "description": "Flag of Dominica",
-        "description_zh_cn": "多米尼加国旗",
-        "keywords": "dominica,flag,多米尼加, 国旗"
+        "description_zh_cn": "多米尼加",
+        "keywords": "dominica,flag,多米尼加,国旗"
       },
       {
         "unicode": "1f1e9-1f1f4",
         "description": "Flag of Dominican Republic",
-        "description_zh_cn": "多米尼加共和国国旗",
-        "keywords": "dominican republic,flag,多米尼加共和国, 国旗"
+        "description_zh_cn": "多米尼加共和国",
+        "keywords": "dominican republic,flag,多米尼加共和国,国旗"
       },
       {
         "unicode": "1f1e9-1f1ff",
         "description": "Flag of Algeria",
-        "description_zh_cn": "阿尔及利亚国旗",
+        "description_zh_cn": "阿尔及利亚",
         "keywords": "algeria,flag,阿尔及利亚,国旗"
       },
       {
         "unicode": "1f1ea-1f1e8",
         "description": "Flag of Ecuador",
-        "description_zh_cn": "厄瓜多尔国旗",
-        "keywords": "ecuador,flag,厄瓜多尔, 国旗"
+        "description_zh_cn": "厄瓜多尔",
+        "keywords": "ecuador,flag,厄瓜多尔,国旗"
       },
       {
         "unicode": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f",
         "description": "Flag of England",
-        "description_zh_cn": "英国国旗",
+        "description_zh_cn": "英国",
         "keywords": "england,flag,英格兰,国旗"
       },
       {
         "unicode": "1f1ea-1f1ea",
         "description": "Flag of Estonia",
-        "description_zh_cn": "爱沙尼亚国旗",
-        "keywords": "estonia,flag,爱沙尼亚, 国旗"
+        "description_zh_cn": "爱沙尼亚",
+        "keywords": "estonia,flag,爱沙尼亚,国旗"
       },
       {
         "unicode": "1f1ea-1f1ec",
         "description": "Flag of Egypt",
-        "description_zh_cn": "埃及国旗",
+        "description_zh_cn": "埃及",
         "keywords": "egypt,flag,埃及,国旗"
       },
       {
@@ -10094,19 +10094,19 @@
       {
         "unicode": "1f1ea-1f1f7",
         "description": "Flag of Eritrea",
-        "description_zh_cn": "厄立特里亚国旗",
+        "description_zh_cn": "厄立特里亚",
         "keywords": "eritrea,flag,厄立特里亚,国旗"
       },
       {
         "unicode": "1f1ea-1f1f8",
         "description": "Flag of Spain",
-        "description_zh_cn": "西班牙国旗",
+        "description_zh_cn": "西班牙",
         "keywords": "flag,spain,ceuta,melilla,国旗,西班牙,休达,梅利利亚"
       },
       {
         "unicode": "1f1ea-1f1f9",
         "description": "Flag of Ethiopia",
-        "description_zh_cn": "埃塞俄比亚国旗",
+        "description_zh_cn": "埃塞俄比亚",
         "keywords": "ethiopia,flag,埃塞俄比亚,国旗"
       },
       {
@@ -10118,25 +10118,25 @@
       {
         "unicode": "1f1eb-1f1ee",
         "description": "Flag of Finland",
-        "description_zh_cn": "芬兰国旗",
+        "description_zh_cn": "芬兰",
         "keywords": "finland,flag,芬兰,国旗"
       },
       {
         "unicode": "1f1eb-1f1ef",
         "description": "Flag of Fiji",
-        "description_zh_cn": "斐济国旗",
+        "description_zh_cn": "斐济",
         "keywords": "fiji,flag,斐济,国旗"
       },
       {
         "unicode": "1f1eb-1f1f0",
         "description": "Flag of Falkland Islands",
-        "description_zh_cn": "福克兰群岛国旗",
+        "description_zh_cn": "福克兰群岛",
         "keywords": "falkland,falklands,flag,island,islas,malvinas,福克兰群岛,福克兰群岛,标志,岛,岛,马尔维纳斯"
       },
       {
         "unicode": "1f1eb-1f1f2",
         "description": "Flag of Micronesia",
-        "description_zh_cn": "密克罗尼西亚国旗",
+        "description_zh_cn": "密克罗尼西亚",
         "keywords": "flag,micronesia,国旗,密克罗尼西亚"
       },
       {
@@ -10148,37 +10148,37 @@
       {
         "unicode": "1f1eb-1f1f7",
         "description": "Flag of France",
-        "description_zh_cn": "法国国旗",
+        "description_zh_cn": "法国",
         "keywords": "flag,france,clipperton island,st. martin,saint martin,国旗,法国,克利珀顿岛,圣。马丁,圣马丁"
       },
       {
         "unicode": "1f1ec-1f1e6",
         "description": "Flag of Gabon",
-        "description_zh_cn": "加蓬国旗",
+        "description_zh_cn": "加蓬",
         "keywords": "flag,gabon,国旗,加蓬"
       },
       {
         "unicode": "1f1ec-1f1e7",
         "description": "Flag of United Kingdom",
-        "description_zh_cn": "英国国旗",
+        "description_zh_cn": "英国",
         "keywords": "britain,british,cornwall,england,flag,great britain,ireland,northern ireland,scotland,uk,union jack,united,united kingdom,wales,英国,英国,康沃尔郡,英格兰,国旗,大不列颠,爱尔兰,北爱尔兰,苏格兰,英国,联盟杰克,联合王国,威尔士"
       },
       {
         "unicode": "1f1ec-1f1e9",
         "description": "Flag of Grenada",
-        "description_zh_cn": "格林纳达国旗",
+        "description_zh_cn": "格林纳达",
         "keywords": "flag,grenada,国旗,格林纳达"
       },
       {
         "unicode": "1f1ec-1f1ea",
         "description": "Flag of Georgia",
-        "description_zh_cn": "格鲁吉亚国旗",
+        "description_zh_cn": "格鲁吉亚",
         "keywords": "flag,georgia,国旗,格鲁吉亚"
       },
       {
         "unicode": "1f1ec-1f1eb",
         "description": "Flag of French Guiana",
-        "description_zh_cn": "法属圭亚那国旗",
+        "description_zh_cn": "法属圭亚那",
         "keywords": "flag,french,guiana,国旗,法国,圭亚那"
       },
       {
@@ -10190,49 +10190,49 @@
       {
         "unicode": "1f1ec-1f1ed",
         "description": "Flag of Ghana",
-        "description_zh_cn": "加纳国旗",
+        "description_zh_cn": "加纳",
         "keywords": "flag,ghana,国旗,加纳"
       },
       {
         "unicode": "1f1ec-1f1ee",
         "description": "Flag of Gibraltar",
-        "description_zh_cn": "直布罗陀国旗",
+        "description_zh_cn": "直布罗陀",
         "keywords": "flag,gibraltar,国旗,直布罗陀"
       },
       {
         "unicode": "1f1ec-1f1f1",
         "description": "Flag of Greenland",
-        "description_zh_cn": "格陵兰国旗",
-        "keywords": "flag,greenland,旗, 格陵兰"
+        "description_zh_cn": "格陵兰",
+        "keywords": "flag,greenland,旗,格陵兰"
       },
       {
         "unicode": "1f1ec-1f1f2",
         "description": "Flag of Gambia",
-        "description_zh_cn": "冈比亚国旗",
+        "description_zh_cn": "冈比亚",
         "keywords": "flag,gambia,国旗,冈比亚"
       },
       {
         "unicode": "1f1ec-1f1f3",
         "description": "Flag of Guinea",
-        "description_zh_cn": "几内亚国旗",
+        "description_zh_cn": "几内亚",
         "keywords": "flag,guinea,国旗,几内亚"
       },
       {
         "unicode": "1f1ec-1f1f5",
         "description": "Flag of Guadeloupe",
-        "description_zh_cn": "瓜德罗普岛国旗",
+        "description_zh_cn": "瓜德罗普岛",
         "keywords": "flag,guadeloupe,国旗,瓜德罗普岛"
       },
       {
         "unicode": "1f1ec-1f1f6",
         "description": "Flag of Equatorial Guinea",
-        "description_zh_cn": "赤道几内亚国旗",
-        "keywords": "equatorial guinea,flag,guinea,赤道几内亚, 国旗, 几内亚"
+        "description_zh_cn": "赤道几内亚",
+        "keywords": "equatorial guinea,flag,guinea,赤道几内亚,国旗,几内亚"
       },
       {
         "unicode": "1f1ec-1f1f7",
         "description": "Flag of Greece",
-        "description_zh_cn": "希腊国旗",
+        "description_zh_cn": "希腊",
         "keywords": "flag,greece,国旗,希腊"
       },
       {
@@ -10244,80 +10244,80 @@
       {
         "unicode": "1f1ec-1f1f9",
         "description": "Flag of Guatemala",
-        "description_zh_cn": "危地马拉国旗",
+        "description_zh_cn": "危地马拉",
         "keywords": "flag,guatemala,国旗,危地马拉"
       },
       {
         "unicode": "1f1ec-1f1fa",
         "description": "Flag of Guam",
-        "description_zh_cn": "关岛国旗",
+        "description_zh_cn": "关岛",
         "keywords": "flag,guam,国旗,关岛"
       },
       {
         "unicode": "1f1ec-1f1fc",
         "description": "Flag of Guinea-Bissau",
-        "description_zh_cn": "几内亚比绍国旗",
+        "description_zh_cn": "几内亚比绍",
         "keywords": "bissau,flag,guinea,比绍,国旗,几内亚"
       },
       {
         "unicode": "1f1ec-1f1fe",
         "description": "Flag of Guyana",
-        "description_zh_cn": "圭亚那国旗",
+        "description_zh_cn": "圭亚那",
         "keywords": "flag,guyana,国旗,圭亚那"
       },
       {
         "unicode": "1f1ed-1f1f0",
         "description": "Flag of Hong Kong",
-        "description_zh_cn": "香港国旗",
-        "keywords": "china,flag,hong kong,中国, 国旗, 香港"
+        "description_zh_cn": "中国香港",
+        "keywords": "china,flag,hong kong,中国,国旗,香港"
       },
       {
         "unicode": "1f1ed-1f1f3",
         "description": "Flag of Honduras",
-        "description_zh_cn": "洪都拉斯国旗",
+        "description_zh_cn": "洪都拉斯",
         "keywords": "flag,honduras,国旗,洪都拉斯"
       },
       {
         "unicode": "1f1ed-1f1f7",
         "description": "Flag of Croatia",
-        "description_zh_cn": "克罗地亚国旗",
+        "description_zh_cn": "克罗地亚",
         "keywords": "croatia,flag,克罗地亚,国旗"
       },
       {
         "unicode": "1f1ed-1f1f9",
         "description": "Flag of Haiti",
-        "description_zh_cn": "海地国旗",
+        "description_zh_cn": "海地",
         "keywords": "flag,haiti,国旗,海地"
       },
       {
         "unicode": "1f1ed-1f1fa",
         "description": "Flag of Hungary",
-        "description_zh_cn": "匈牙利国旗",
+        "description_zh_cn": "匈牙利",
         "keywords": "flag,hungary,国旗,匈牙利"
       },
       {
         "unicode": "1f1ee-1f1e8",
         "description": "Flag of Canary Islands",
         "description_zh_cn": "加那利群岛的旗帜",
-        "keywords": "canary,flag,island,金丝雀, 国旗, 岛"
+        "keywords": "canary,flag,island,金丝雀,国旗,岛"
       },
       {
         "unicode": "1f1ee-1f1e9",
         "description": "Flag of Indonesia",
-        "description_zh_cn": "印度尼西亚国旗",
+        "description_zh_cn": "印度尼西亚",
         "keywords": "flag,indonesia,国旗,印度尼西亚"
       },
       {
         "unicode": "1f1ee-1f1ea",
         "description": "Flag of Ireland",
-        "description_zh_cn": "爱尔兰国旗",
+        "description_zh_cn": "爱尔兰",
         "keywords": "flag,ireland,国旗,爱尔兰"
       },
       {
         "unicode": "1f1ee-1f1f1",
         "description": "Flag of Israel",
-        "description_zh_cn": "以色列国旗",
-        "keywords": "flag,israel,国旗, 以色列"
+        "description_zh_cn": "以色列",
+        "keywords": "flag,israel,国旗,以色列"
       },
       {
         "unicode": "1f1ee-1f1f2",
@@ -10328,7 +10328,7 @@
       {
         "unicode": "1f1ee-1f1f3",
         "description": "Flag of India",
-        "description_zh_cn": "印度国旗",
+        "description_zh_cn": "印度",
         "keywords": "flag,india,国旗,印度"
       },
       {
@@ -10340,25 +10340,25 @@
       {
         "unicode": "1f1ee-1f1f6",
         "description": "Flag of Iraq",
-        "description_zh_cn": "伊拉克国旗",
+        "description_zh_cn": "伊拉克",
         "keywords": "flag,iraq,国旗,伊拉克"
       },
       {
         "unicode": "1f1ee-1f1f7",
         "description": "Flag of Iran",
-        "description_zh_cn": "伊朗国旗",
+        "description_zh_cn": "伊朗",
         "keywords": "flag,iran,国旗,伊朗"
       },
       {
         "unicode": "1f1ee-1f1f8",
         "description": "Flag of Iceland",
-        "description_zh_cn": "冰岛国旗",
+        "description_zh_cn": "冰岛",
         "keywords": "flag,iceland,国旗,冰岛"
       },
       {
         "unicode": "1f1ee-1f1f9",
         "description": "Flag of Italy",
-        "description_zh_cn": "意大利国旗",
+        "description_zh_cn": "意大利",
         "keywords": "flag,italy,国旗,意大利"
       },
       {
@@ -10370,218 +10370,218 @@
       {
         "unicode": "1f1ef-1f1f2",
         "description": "Flag of Jamaica",
-        "description_zh_cn": "牙买加国旗",
+        "description_zh_cn": "牙买加",
         "keywords": "flag,jamaica,国旗,牙买加"
       },
       {
         "unicode": "1f1ef-1f1f4",
         "description": "Flag of Jordan",
-        "description_zh_cn": "约旦国旗",
+        "description_zh_cn": "约旦",
         "keywords": "flag,jordan,国旗,约旦"
       },
       {
         "unicode": "1f1ef-1f1f5",
         "description": "Flag of Japan",
-        "description_zh_cn": "日本国旗",
+        "description_zh_cn": "日本",
         "keywords": "flag,japan,国旗,日本"
       },
       {
         "unicode": "1f1f0-1f1ea",
         "description": "Flag of Kenya",
-        "description_zh_cn": "肯尼亚国旗",
+        "description_zh_cn": "肯尼亚",
         "keywords": "flag,kenya,国旗,肯尼亚"
       },
       {
         "unicode": "1f1f0-1f1ec",
         "description": "Flag of Kyrgyzstan",
-        "description_zh_cn": "吉尔吉斯斯坦国旗",
+        "description_zh_cn": "吉尔吉斯斯坦",
         "keywords": "flag,kyrgyzstan,国旗,吉尔吉斯斯坦"
       },
       {
         "unicode": "1f1f0-1f1ed",
         "description": "Flag of Cambodia",
-        "description_zh_cn": "柬埔寨国旗",
+        "description_zh_cn": "柬埔寨",
         "keywords": "cambodia,flag,柬埔寨,国旗"
       },
       {
         "unicode": "1f1f0-1f1ee",
         "description": "Flag of Kiribati",
-        "description_zh_cn": "基里巴斯国旗",
+        "description_zh_cn": "基里巴斯",
         "keywords": "flag,kiribati,国旗,基里巴斯"
       },
       {
         "unicode": "1f1f0-1f1f2",
         "description": "Flag of Comoros",
-        "description_zh_cn": "科摩罗国旗",
+        "description_zh_cn": "科摩罗",
         "keywords": "comoros,flag,科摩罗,国旗"
       },
       {
         "unicode": "1f1f0-1f1f3",
         "description": "Flag of St. Kitts \u0026 Nevis",
-        "description_zh_cn": "圣基茨和尼维斯国旗",
+        "description_zh_cn": "圣基茨和尼维斯",
         "keywords": "flag,kitts,nevis,saint,国旗,基茨,尼维斯,圣"
       },
       {
         "unicode": "1f1f0-1f1f5",
         "description": "Flag of North Korea",
-        "description_zh_cn": "朝鲜国旗",
-        "keywords": "flag,korea,north,north korea,国旗, 韩国, 北朝鲜, 朝鲜"
+        "description_zh_cn": "朝鲜",
+        "keywords": "flag,korea,north,north korea,国旗,韩国,北朝鲜,朝鲜"
       },
       {
         "unicode": "1f1f0-1f1f7",
         "description": "Flag of South Korea",
-        "description_zh_cn": "韩国国旗",
+        "description_zh_cn": "韩国",
         "keywords": "flag,korea,south,south korea,国旗,韩国,南韩,韩国"
       },
       {
         "unicode": "1f1f0-1f1fc",
         "description": "Flag of Kuwait",
-        "description_zh_cn": "科威特国旗",
+        "description_zh_cn": "科威特",
         "keywords": "flag,kuwait,国旗,科威特"
       },
       {
         "unicode": "1f1f0-1f1fe",
         "description": "Flag of Cayman Islands",
-        "description_zh_cn": "开曼群岛国旗",
-        "keywords": "cayman,flag,island,开曼, 国旗, 岛"
+        "description_zh_cn": "开曼群岛",
+        "keywords": "cayman,flag,island,开曼,国旗,岛"
       },
       {
         "unicode": "1f1f0-1f1ff",
         "description": "Flag of Kazakhstan",
-        "description_zh_cn": "哈萨克斯坦国旗",
+        "description_zh_cn": "哈萨克斯坦",
         "keywords": "flag,kazakhstan,国旗,哈萨克斯坦"
       },
       {
         "unicode": "1f1f1-1f1e6",
         "description": "Flag of Laos",
-        "description_zh_cn": "老挝国旗",
+        "description_zh_cn": "老挝",
         "keywords": "flag,laos,国旗,老挝"
       },
       {
         "unicode": "1f1f1-1f1e7",
         "description": "Flag of Lebanon",
-        "description_zh_cn": "黎巴嫩国旗",
+        "description_zh_cn": "黎巴嫩",
         "keywords": "flag,lebanon,国旗,黎巴嫩"
       },
       {
         "unicode": "1f1f1-1f1e8",
         "description": "Flag of St. Lucia",
-        "description_zh_cn": "圣卢西亚国旗",
-        "keywords": "flag,lucia,saint,旗, 露西亚, 圣"
+        "description_zh_cn": "圣卢西亚",
+        "keywords": "flag,lucia,saint,旗,露西亚,圣"
       },
       {
         "unicode": "1f1f1-1f1ee",
         "description": "Flag of Liechtenstein",
-        "description_zh_cn": "列支敦士登国旗",
+        "description_zh_cn": "列支敦士登",
         "keywords": "flag,liechtenstein,国旗,列支敦士登"
       },
       {
         "unicode": "1f1f1-1f1f0",
         "description": "Flag of Sri Lanka",
-        "description_zh_cn": "斯里兰卡国旗",
+        "description_zh_cn": "斯里兰卡",
         "keywords": "flag,sri lanka,国旗,斯里兰卡"
       },
       {
         "unicode": "1f1f1-1f1f7",
         "description": "Flag of Liberia",
-        "description_zh_cn": "利比里亚国旗",
+        "description_zh_cn": "利比里亚",
         "keywords": "flag,liberia,国旗,利比里亚"
       },
       {
         "unicode": "1f1f1-1f1f8",
         "description": "Flag of Lesotho",
-        "description_zh_cn": "莱索托国旗",
+        "description_zh_cn": "莱索托",
         "keywords": "flag,lesotho,国旗,莱索托"
       },
       {
         "unicode": "1f1f1-1f1f9",
         "description": "Flag of Lithuania",
-        "description_zh_cn": "立陶宛国旗",
+        "description_zh_cn": "立陶宛",
         "keywords": "flag,lithuania,国旗,立陶宛"
       },
       {
         "unicode": "1f1f1-1f1fa",
         "description": "Flag of Luxembourg",
-        "description_zh_cn": "卢森堡国旗",
+        "description_zh_cn": "卢森堡",
         "keywords": "flag,luxembourg,国旗,卢森堡"
       },
       {
         "unicode": "1f1f1-1f1fb",
         "description": "Flag of Latvia",
-        "description_zh_cn": "拉脱维亚国旗",
+        "description_zh_cn": "拉脱维亚",
         "keywords": "flag,latvia,国旗,拉脱维亚"
       },
       {
         "unicode": "1f1f1-1f1fe",
         "description": "Flag of Libya",
-        "description_zh_cn": "利比亚国旗",
+        "description_zh_cn": "利比亚",
         "keywords": "flag,libya,国旗,利比亚"
       },
       {
         "unicode": "1f1f2-1f1e6",
         "description": "Flag of Morocco",
-        "description_zh_cn": "摩洛哥国旗",
+        "description_zh_cn": "摩洛哥",
         "keywords": "flag,morocco,国旗,摩洛哥"
       },
       {
         "unicode": "1f1f2-1f1e8",
         "description": "Flag of Monaco",
-        "description_zh_cn": "摩纳哥国旗",
+        "description_zh_cn": "摩纳哥",
         "keywords": "flag,monaco,国旗,摩纳哥"
       },
       {
         "unicode": "1f1f2-1f1e9",
         "description": "Flag of Moldova",
-        "description_zh_cn": "摩尔多瓦国旗",
+        "description_zh_cn": "摩尔多瓦",
         "keywords": "flag,moldova,国旗,摩尔多瓦"
       },
       {
         "unicode": "1f1f2-1f1ea",
         "description": "Flag of Montenegro",
-        "description_zh_cn": "黑山国旗",
+        "description_zh_cn": "黑山",
         "keywords": "flag,montenegro,国旗,黑山"
       },
       {
         "unicode": "1f1f2-1f1ec",
         "description": "Flag of Madagascar",
-        "description_zh_cn": "马达加斯加国旗",
+        "description_zh_cn": "马达加斯加",
         "keywords": "flag,madagascar,国旗,马达加斯加"
       },
       {
         "unicode": "1f1f2-1f1ed",
         "description": "Flag of Marshall Islands",
-        "description_zh_cn": "马绍尔群岛国旗",
+        "description_zh_cn": "马绍尔群岛",
         "keywords": "flag,island,marshall,旗,岛,马歇尔"
       },
       {
         "unicode": "1f1f2-1f1f0",
         "description": "Flag of Macedonia",
-        "description_zh_cn": "马其顿国旗",
+        "description_zh_cn": "马其顿",
         "keywords": "flag,macedonia,国旗,马其顿"
       },
       {
         "unicode": "1f1f2-1f1f1",
         "description": "Flag of Mali",
-        "description_zh_cn": "马里国旗",
+        "description_zh_cn": "马里",
         "keywords": "flag,mali,国旗,马里"
       },
       {
         "unicode": "1f1f2-1f1f2",
         "description": "Flag of Myanmar",
-        "description_zh_cn": "缅甸国旗",
+        "description_zh_cn": "缅甸",
         "keywords": "burma,flag,myanmar,缅甸,国旗,缅甸"
       },
       {
         "unicode": "1f1f2-1f1f3",
         "description": "Flag of Mongolia",
-        "description_zh_cn": "蒙古国国旗",
+        "description_zh_cn": "蒙古国",
         "keywords": "flag,mongolia,国旗,蒙古"
       },
       {
         "unicode": "1f1f2-1f1f4",
         "description": "Flag of Macau",
-        "description_zh_cn": "澳门国旗",
-        "keywords": "china,flag,macao,macau,中国,国旗,澳门,澳门"
+        "description_zh_cn": "中国澳门",
+        "keywords": "china,flag,macao,macau,中国,国旗,澳门"
       },
       {
         "unicode": "1f1f2-1f1f5",
@@ -10592,13 +10592,13 @@
       {
         "unicode": "1f1f2-1f1f6",
         "description": "Flag of Martinique",
-        "description_zh_cn": "马提尼克国旗",
+        "description_zh_cn": "马提尼克",
         "keywords": "flag,martinique,国旗,马提尼克"
       },
       {
         "unicode": "1f1f2-1f1f7",
         "description": "Flag of Mauritania",
-        "description_zh_cn": "毛里塔尼亚国旗",
+        "description_zh_cn": "毛里塔尼亚",
         "keywords": "flag,mauritania,国旗,毛里塔尼亚"
       },
       {
@@ -10610,163 +10610,163 @@
       {
         "unicode": "1f1f2-1f1f9",
         "description": "Flag of Malta",
-        "description_zh_cn": "马耳他国旗",
+        "description_zh_cn": "马耳他",
         "keywords": "flag,malta,国旗,马耳他"
       },
       {
         "unicode": "1f1f2-1f1fa",
         "description": "Flag of Mauritius",
-        "description_zh_cn": "毛里求斯国旗",
+        "description_zh_cn": "毛里求斯",
         "keywords": "flag,mauritius,国旗,毛里求斯"
       },
       {
         "unicode": "1f1f2-1f1fb",
         "description": "Flag of Maldives",
-        "description_zh_cn": "马尔代夫国旗",
+        "description_zh_cn": "马尔代夫",
         "keywords": "flag,maldives,国旗,马尔代夫"
       },
       {
         "unicode": "1f1f2-1f1fc",
         "description": "Flag of Malawi",
-        "description_zh_cn": "马拉维国旗",
+        "description_zh_cn": "马拉维",
         "keywords": "flag,malawi,国旗,马拉维"
       },
       {
         "unicode": "1f1f2-1f1fd",
         "description": "Flag of Mexico",
-        "description_zh_cn": "墨西哥国旗",
+        "description_zh_cn": "墨西哥",
         "keywords": "flag,mexico,国旗,墨西哥"
       },
       {
         "unicode": "1f1f2-1f1fe",
         "description": "Flag of Malaysia",
-        "description_zh_cn": "马来西亚国旗",
+        "description_zh_cn": "马来西亚",
         "keywords": "flag,malaysia,国旗,马来西亚"
       },
       {
         "unicode": "1f1f2-1f1ff",
         "description": "Flag of Mozambique",
-        "description_zh_cn": "莫桑比克国旗",
+        "description_zh_cn": "莫桑比克",
         "keywords": "flag,mozambique,国旗,莫桑比克"
       },
       {
         "unicode": "1f1f3-1f1e6",
         "description": "Flag of Namibia",
-        "description_zh_cn": "纳米比亚国旗",
+        "description_zh_cn": "纳米比亚",
         "keywords": "flag,namibia,国旗,纳米比亚"
       },
       {
         "unicode": "1f1f3-1f1e8",
         "description": "Flag of New Caledonia",
-        "description_zh_cn": "新喀里多尼亚国旗",
+        "description_zh_cn": "新喀里多尼亚",
         "keywords": "flag,new,new caledonia,国旗,新,新喀里多尼亚"
       },
       {
         "unicode": "1f1f3-1f1ea",
         "description": "Flag of Niger",
-        "description_zh_cn": "尼日尔国旗",
+        "description_zh_cn": "尼日尔",
         "keywords": "flag,niger,国旗,尼日尔"
       },
       {
         "unicode": "1f1f3-1f1eb",
         "description": "Flag of Norfolk Island",
         "description_zh_cn": "诺福克岛的旗帜",
-        "keywords": "flag,island,norfolk,国旗, 岛, 诺福克"
+        "keywords": "flag,island,norfolk,国旗,岛,诺福克"
       },
       {
         "unicode": "1f1f3-1f1ec",
         "description": "Flag of Nigeria",
-        "description_zh_cn": "尼日利亚国旗",
+        "description_zh_cn": "尼日利亚",
         "keywords": "flag,nigeria,国旗,尼日利亚"
       },
       {
         "unicode": "1f1f3-1f1ee",
         "description": "Flag of Nicaragua",
-        "description_zh_cn": "尼加拉瓜国旗",
+        "description_zh_cn": "尼加拉瓜",
         "keywords": "flag,nicaragua,国旗,尼加拉瓜"
       },
       {
         "unicode": "1f1f3-1f1f1",
         "description": "Flag of Netherlands",
-        "description_zh_cn": "荷兰国旗",
+        "description_zh_cn": "荷兰",
         "keywords": "flag,netherlands,国旗,荷兰"
       },
       {
         "unicode": "1f1f3-1f1f4",
         "description": "Flag of Norway",
-        "description_zh_cn": "挪威国旗",
+        "description_zh_cn": "挪威",
         "keywords": "flag,norway,bouvet,svalbard,jan mayen,国旗,挪威,布韦,斯瓦尔巴群岛,扬马延"
       },
       {
         "unicode": "1f1f3-1f1f5",
         "description": "Flag of Nepal",
-        "description_zh_cn": "尼泊尔国旗",
+        "description_zh_cn": "尼泊尔",
         "keywords": "flag,nepal,国旗,尼泊尔"
       },
       {
         "unicode": "1f1f3-1f1f7",
         "description": "Flag of Nauru",
-        "description_zh_cn": "瑙鲁国旗",
+        "description_zh_cn": "瑙鲁",
         "keywords": "flag,nauru,国旗,瑙鲁"
       },
       {
         "unicode": "1f1f3-1f1fa",
         "description": "Flag of Niue",
-        "description_zh_cn": "纽埃国旗",
+        "description_zh_cn": "纽埃",
         "keywords": "flag,niue,国旗,纽埃"
       },
       {
         "unicode": "1f1f3-1f1ff",
         "description": "Flag of New Zealand",
-        "description_zh_cn": "新西兰国旗",
-        "keywords": "flag,new,new zealand,国旗, 新, 新西兰"
+        "description_zh_cn": "新西兰",
+        "keywords": "flag,new,new zealand,国旗,新,新西兰"
       },
       {
         "unicode": "1f1f4-1f1f2",
         "description": "Flag of Oman",
-        "description_zh_cn": "阿曼国旗",
+        "description_zh_cn": "阿曼",
         "keywords": "flag,oman,国旗,阿曼"
       },
       {
         "unicode": "1f1f5-1f1e6",
         "description": "Flag of Panama",
-        "description_zh_cn": "巴拿马国旗",
+        "description_zh_cn": "巴拿马",
         "keywords": "flag,panama,国旗,巴拿马"
       },
       {
         "unicode": "1f1f5-1f1ea",
         "description": "Flag of Peru",
-        "description_zh_cn": "秘鲁国旗",
+        "description_zh_cn": "秘鲁",
         "keywords": "flag,peru,国旗,秘鲁"
       },
       {
         "unicode": "1f1f5-1f1eb",
         "description": "Flag of French Polynesia",
-        "description_zh_cn": "法属波利尼西亚国旗",
+        "description_zh_cn": "法属波利尼西亚",
         "keywords": "flag,french,polynesia,国旗,法国,波利尼西亚"
       },
       {
         "unicode": "1f1f5-1f1ec",
         "description": "Flag of Papua New Guinea",
-        "description_zh_cn": "巴布亚新几内亚国旗",
+        "description_zh_cn": "巴布亚新几内亚",
         "keywords": "flag,guinea,new,papua new guinea,国旗,几内亚,新,巴布亚新几内亚"
       },
       {
         "unicode": "1f1f5-1f1ed",
         "description": "Flag of Philippines",
-        "description_zh_cn": "菲律宾国旗",
+        "description_zh_cn": "菲律宾",
         "keywords": "flag,philippines,国旗,菲律宾"
       },
       {
         "unicode": "1f1f5-1f1f0",
         "description": "Flag of Pakistan",
-        "description_zh_cn": "巴基斯坦国旗",
+        "description_zh_cn": "巴基斯坦",
         "keywords": "flag,pakistan,国旗,巴基斯坦"
       },
       {
         "unicode": "1f1f5-1f1f1",
         "description": "Flag of Poland",
-        "description_zh_cn": "波兰国旗",
+        "description_zh_cn": "波兰",
         "keywords": "flag,poland,国旗,波兰"
       },
       {
@@ -10784,37 +10784,37 @@
       {
         "unicode": "1f1f5-1f1f7",
         "description": "Flag of Puerto Rico",
-        "description_zh_cn": "波多黎各国旗",
+        "description_zh_cn": "波多黎各",
         "keywords": "flag,puerto rico,国旗,波多黎各"
       },
       {
         "unicode": "1f1f5-1f1f8",
         "description": "Flag of Palestinian Territories",
         "description_zh_cn": "巴勒斯坦领土旗帜",
-        "keywords": "flag,palestine,国旗, 巴勒斯坦"
+        "keywords": "flag,palestine,国旗,巴勒斯坦"
       },
       {
         "unicode": "1f1f5-1f1f9",
         "description": "Flag of Portugal",
-        "description_zh_cn": "葡萄牙国旗",
+        "description_zh_cn": "葡萄牙",
         "keywords": "flag,portugal,国旗,葡萄牙"
       },
       {
         "unicode": "1f1f5-1f1fc",
         "description": "Flag of Palau",
-        "description_zh_cn": "帕劳国旗",
-        "keywords": "flag,palau,旗, 帕劳"
+        "description_zh_cn": "帕劳",
+        "keywords": "flag,palau,旗,帕劳"
       },
       {
         "unicode": "1f1f5-1f1fe",
         "description": "Flag of Paraguay",
-        "description_zh_cn": "巴拉圭国旗",
+        "description_zh_cn": "巴拉圭",
         "keywords": "flag,paraguay,国旗,巴拉圭"
       },
       {
         "unicode": "1f1f6-1f1e6",
         "description": "Flag of Qatar",
-        "description_zh_cn": "卡塔尔国旗",
+        "description_zh_cn": "卡塔尔",
         "keywords": "flag,qatar,国旗,卡塔尔"
       },
       {
@@ -10826,67 +10826,67 @@
       {
         "unicode": "1f1f7-1f1f4",
         "description": "Flag of Romania",
-        "description_zh_cn": "罗马尼亚国旗",
+        "description_zh_cn": "罗马尼亚",
         "keywords": "flag,romania,国旗,罗马尼亚"
       },
       {
         "unicode": "1f1f7-1f1f8",
         "description": "Flag of Serbia",
-        "description_zh_cn": "塞尔维亚国旗",
+        "description_zh_cn": "塞尔维亚",
         "keywords": "flag,serbia,国旗,塞尔维亚"
       },
       {
         "unicode": "1f1f7-1f1fa",
         "description": "Flag of Russia",
-        "description_zh_cn": "俄罗斯国旗",
+        "description_zh_cn": "俄罗斯",
         "keywords": "flag,russia,国旗,俄罗斯"
       },
       {
         "unicode": "1f1f7-1f1fc",
         "description": "Flag of Rwanda",
-        "description_zh_cn": "卢旺达国旗",
+        "description_zh_cn": "卢旺达",
         "keywords": "flag,rwanda,国旗,卢旺达"
       },
       {
         "unicode": "1f1f8-1f1e6",
         "description": "Flag of Saudi Arabia",
-        "description_zh_cn": "沙特阿拉伯国旗",
+        "description_zh_cn": "沙特阿拉伯",
         "keywords": "flag,saudi arabia,国旗,沙特阿拉伯"
       },
       {
         "unicode": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f",
         "description": "Flag of Scotland",
-        "description_zh_cn": "苏格兰国旗",
-        "keywords": "scotland,flag,苏格兰, 国旗"
+        "description_zh_cn": "苏格兰",
+        "keywords": "scotland,flag,苏格兰,国旗"
       },
       {
         "unicode": "1f1f8-1f1e7",
         "description": "Flag of Solomon Islands",
         "description_zh_cn": "所罗门群岛的旗帜",
-        "keywords": "flag,island,solomon,旗, 岛, 所罗门"
+        "keywords": "flag,island,solomon,旗,岛,所罗门"
       },
       {
         "unicode": "1f1f8-1f1e8",
         "description": "Flag of Seychelles",
-        "description_zh_cn": "塞舌尔国旗",
+        "description_zh_cn": "塞舌尔",
         "keywords": "flag,seychelles,国旗,塞舌尔"
       },
       {
         "unicode": "1f1f8-1f1e9",
         "description": "Flag of Sudan",
-        "description_zh_cn": "苏丹国旗",
+        "description_zh_cn": "苏丹",
         "keywords": "flag,sudan,国旗,苏丹"
       },
       {
         "unicode": "1f1f8-1f1ea",
         "description": "Flag of Sweden",
-        "description_zh_cn": "瑞典国旗",
+        "description_zh_cn": "瑞典",
         "keywords": "flag,sweden,国旗,瑞典"
       },
       {
         "unicode": "1f1f8-1f1ec",
         "description": "Flag of Singapore",
-        "description_zh_cn": "新加坡国旗",
+        "description_zh_cn": "新加坡",
         "keywords": "flag,singapore,国旗,新加坡"
       },
       {
@@ -10898,62 +10898,62 @@
       {
         "unicode": "1f1f8-1f1ee",
         "description": "Flag of Slovenia",
-        "description_zh_cn": "斯洛文尼亚国旗",
+        "description_zh_cn": "斯洛文尼亚",
         "keywords": "flag,slovenia,国旗,斯洛文尼亚"
       },
       {
         "unicode": "1f1f8-1f1f0",
         "description": "Flag of Slovakia",
-        "description_zh_cn": "斯洛伐克国旗",
+        "description_zh_cn": "斯洛伐克",
         "keywords": "flag,slovakia,国旗,斯洛伐克"
       },
       {
         "unicode": "1f1f8-1f1f1",
         "description": "Flag of Sierra Leone",
-        "description_zh_cn": "塞拉利昂国旗",
+        "description_zh_cn": "塞拉利昂",
         "keywords": "flag,sierra leone,国旗,塞拉利昂"
       },
       {
         "unicode": "1f1f8-1f1f2",
         "description": "Flag of San Marino",
-        "description_zh_cn": "圣马力诺国旗",
-        "keywords": "flag,san marino,国旗, 圣马力诺"
+        "description_zh_cn": "圣马力诺",
+        "keywords": "flag,san marino,国旗,圣马力诺"
       },
       {
         "unicode": "1f1f8-1f1f3",
         "description": "Flag of Senegal",
-        "description_zh_cn": "塞内加尔国旗",
+        "description_zh_cn": "塞内加尔",
         "keywords": "flag,senegal,国旗,塞内加尔"
       },
       {
         "unicode": "1f1f8-1f1f4",
         "description": "Flag of Somalia",
-        "description_zh_cn": "索马里国旗",
-        "keywords": "flag,somalia,国旗, 索马里"
+        "description_zh_cn": "索马里",
+        "keywords": "flag,somalia,国旗,索马里"
       },
       {
         "unicode": "1f1f8-1f1f7",
         "description": "Flag of Suriname",
-        "description_zh_cn": "苏里南国旗",
+        "description_zh_cn": "苏里南",
         "keywords": "flag,suriname,国旗,苏里南"
       },
       {
         "unicode": "1f1f8-1f1f8",
         "description": "Flag of South Sudan",
-        "description_zh_cn": "南苏丹国旗",
+        "description_zh_cn": "南苏丹",
         "keywords": "flag,south,south sudan,sudan,国旗,南,南苏丹,苏丹"
       },
       {
         "unicode": "1f1f8-1f1f9",
         "description": "Flag of São Tomé \u0026 Príncipe",
-        "description_zh_cn": "圣多美和普林西比国旗",
+        "description_zh_cn": "圣多美和普林西比",
         "keywords": "flag,principe,príncipe,sao tome,são tomé,国旗,普林西比,普林西比,圣多美,圣多美"
       },
       {
         "unicode": "1f1f8-1f1fb",
         "description": "Flag of El Salvador",
-        "description_zh_cn": "萨尔瓦多国旗",
-        "keywords": "el salvador,flag,萨尔瓦多, 国旗"
+        "description_zh_cn": "萨尔瓦多",
+        "keywords": "el salvador,flag,萨尔瓦多,国旗"
       },
       {
         "unicode": "1f1f8-1f1fd",
@@ -10964,127 +10964,127 @@
       {
         "unicode": "1f1f8-1f1fe",
         "description": "Flag of Syria",
-        "description_zh_cn": "叙利亚国旗",
-        "keywords": "flag,syria,国旗, 叙利亚"
+        "description_zh_cn": "叙利亚",
+        "keywords": "flag,syria,国旗,叙利亚"
       },
       {
         "unicode": "1f1f8-1f1ff",
         "description": "Flag of Swaziland",
-        "description_zh_cn": "斯威士兰国旗",
+        "description_zh_cn": "斯威士兰",
         "keywords": "flag,swaziland,国旗,斯威士兰"
       },
       {
         "unicode": "1f1f9-1f1e6",
         "description": "Flag of Tristan da Cunha",
-        "description_zh_cn": "特里斯坦达库尼亚国旗",
+        "description_zh_cn": "特里斯坦达库尼亚",
         "keywords": "flag,tristan da cunha,旗子,特里斯坦达库尼亚"
       },
       {
         "unicode": "1f1f9-1f1e8",
         "description": "Flag of Turks \u0026 Caicos Islands",
         "description_zh_cn": "特克斯和凯科斯群岛的旗帜",
-        "keywords": "caicos,flag,island,turks,凯科斯, 国旗, 岛, 特克斯"
+        "keywords": "caicos,flag,island,turks,凯科斯,国旗,岛,特克斯"
       },
       {
         "unicode": "1f1f9-1f1e9",
         "description": "Flag of Chad",
-        "description_zh_cn": "乍得国旗",
-        "keywords": "chad,flag,乍得, 国旗"
+        "description_zh_cn": "乍得",
+        "keywords": "chad,flag,乍得,国旗"
       },
       {
         "unicode": "1f1f9-1f1eb",
         "description": "Flag of French Southern Territories",
         "description_zh_cn": "法属南部领土的旗帜",
-        "keywords": "antarctic,flag,french,南极, 国旗, 法语"
+        "keywords": "antarctic,flag,french,南极,国旗,法语"
       },
       {
         "unicode": "1f1f9-1f1ec",
         "description": "Flag of Togo",
-        "description_zh_cn": "多哥国旗",
+        "description_zh_cn": "多哥",
         "keywords": "flag,togo,国旗,多哥"
       },
       {
         "unicode": "1f1f9-1f1ed",
         "description": "Flag of Thailand",
-        "description_zh_cn": "泰国国旗",
+        "description_zh_cn": "泰国",
         "keywords": "flag,thailand,国旗,泰国"
       },
       {
         "unicode": "1f1f9-1f1ef",
         "description": "Flag of Tajikistan",
-        "description_zh_cn": "塔吉克斯坦国旗",
+        "description_zh_cn": "塔吉克斯坦",
         "keywords": "flag,tajikistan,国旗,塔吉克斯坦"
       },
       {
         "unicode": "1f1f9-1f1f0",
         "description": "Flag of Tokelau",
-        "description_zh_cn": "托克劳国旗",
+        "description_zh_cn": "托克劳",
         "keywords": "flag,tokelau,国旗,托克劳"
       },
       {
         "unicode": "1f1f9-1f1f1",
         "description": "Flag of Timor-Leste",
-        "description_zh_cn": "东帝汶国旗",
+        "description_zh_cn": "东帝汶",
         "keywords": "east,east timor,flag,timor-leste,东,东帝汶,国旗,东帝汶"
       },
       {
         "unicode": "1f1f9-1f1f2",
         "description": "Flag of Turkmenistan",
-        "description_zh_cn": "土库曼斯坦国旗",
+        "description_zh_cn": "土库曼斯坦",
         "keywords": "flag,turkmenistan,国旗,土库曼斯坦"
       },
       {
         "unicode": "1f1f9-1f1f3",
         "description": "Flag of Tunisia",
-        "description_zh_cn": "突尼斯国旗",
+        "description_zh_cn": "突尼斯",
         "keywords": "flag,tunisia,国旗,突尼斯"
       },
       {
         "unicode": "1f1f9-1f1f4",
         "description": "Flag of Tonga",
-        "description_zh_cn": "汤加国旗",
+        "description_zh_cn": "汤加",
         "keywords": "flag,tonga,国旗,汤加"
       },
       {
         "unicode": "1f1f9-1f1f7",
         "description": "Flag of Turkey",
-        "description_zh_cn": "土耳其国旗",
+        "description_zh_cn": "土耳其",
         "keywords": "flag,turkey,国旗,土耳其"
       },
       {
         "unicode": "1f1f9-1f1f9",
         "description": "Flag of Trinidad \u0026 Tobago",
-        "description_zh_cn": "特立尼达和多巴哥国旗",
+        "description_zh_cn": "特立尼达和多巴哥",
         "keywords": "flag,tobago,trinidad,国旗,多巴哥,特立尼达"
       },
       {
         "unicode": "1f1f9-1f1fb",
         "description": "Flag of Tuvalu",
-        "description_zh_cn": "图瓦卢国旗",
+        "description_zh_cn": "图瓦卢",
         "keywords": "flag,tuvalu,国旗,图瓦卢"
       },
       {
         "unicode": "1f1f9-1f1fc",
         "description": "Flag of Taiwan",
-        "description_zh_cn": "台湾国旗",
+        "description_zh_cn": "中国台湾",
         "keywords": "china,flag,taiwan,中国,国旗,台湾"
       },
       {
         "unicode": "1f1f9-1f1ff",
         "description": "Flag of Tanzania",
-        "description_zh_cn": "坦桑尼亚国旗",
+        "description_zh_cn": "坦桑尼亚",
         "keywords": "flag,tanzania,国旗,坦桑尼亚"
       },
       {
         "unicode": "1f1fa-1f1e6",
         "description": "Flag of Ukraine",
-        "description_zh_cn": "乌克兰国旗",
+        "description_zh_cn": "乌克兰",
         "keywords": "flag,ukraine,国旗,乌克兰"
       },
       {
         "unicode": "1f1fa-1f1ec",
         "description": "Flag of Uganda",
-        "description_zh_cn": "乌干达国旗",
+        "description_zh_cn": "乌干达",
         "keywords": "flag,uganda,国旗,乌干达"
       },
       {
@@ -11096,19 +11096,19 @@
       {
         "unicode": "1f1fa-1f1f8",
         "description": "Flag of United States",
-        "description_zh_cn": "美国国旗",
+        "description_zh_cn": "美国",
         "keywords": "america,flag,united,states,us,usa,outlying islands,美国,国旗,美国,各州,美国,离岛"
       },
       {
         "unicode": "1f1fa-1f1fe",
         "description": "Flag of Uruguay",
-        "description_zh_cn": "乌拉圭国旗",
+        "description_zh_cn": "乌拉圭",
         "keywords": "flag,uruguay,国旗,乌拉圭"
       },
       {
         "unicode": "1f1fa-1f1ff",
         "description": "Flag of Uzbekistan",
-        "description_zh_cn": "乌兹别克斯坦国旗",
+        "description_zh_cn": "乌兹别克斯坦",
         "keywords": "flag,uzbekistan,国旗,乌兹别克斯坦"
       },
       {
@@ -11120,13 +11120,13 @@
       {
         "unicode": "1f1fb-1f1e8",
         "description": "Flag of St. Vincent \u0026 Grenadines",
-        "description_zh_cn": "圣文森特和格林纳丁斯国旗",
+        "description_zh_cn": "圣文森特和格林纳丁斯",
         "keywords": "flag,grenadines,saint,vincent,标志,格林纳丁斯,圣,文森特"
       },
       {
         "unicode": "1f1fb-1f1ea",
         "description": "Flag of Venezuela",
-        "description_zh_cn": "委内瑞拉国旗",
+        "description_zh_cn": "委内瑞拉",
         "keywords": "flag,venezuela,国旗,委内瑞拉"
       },
       {
@@ -11138,25 +11138,25 @@
       {
         "unicode": "1f1fb-1f1ee",
         "description": "Flag of U.S. Virgin Islands",
-        "description_zh_cn": "美属维尔京群岛国旗",
+        "description_zh_cn": "美属维尔京群岛",
         "keywords": "america,flag,island,united states,us,usa,virgin,美国,国旗,岛屿,美国,美国,处女"
       },
       {
         "unicode": "1f1fb-1f1f3",
         "description": "Flag of Vietnam",
-        "description_zh_cn": "越南国旗",
+        "description_zh_cn": "越南",
         "keywords": "flag,viet nam,vietnam,国旗,越南,越南"
       },
       {
         "unicode": "1f1fb-1f1fa",
         "description": "Flag of Vanuatu",
-        "description_zh_cn": "瓦努阿图国旗",
+        "description_zh_cn": "瓦努阿图",
         "keywords": "flag,vanuatu,国旗,瓦努阿图"
       },
       {
         "unicode": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f",
         "description": "Flag of Wales",
-        "description_zh_cn": "威尔士国旗",
+        "description_zh_cn": "威尔士",
         "keywords": "wales,flag,威尔士,旗帜"
       },
       {
@@ -11168,19 +11168,19 @@
       {
         "unicode": "1f1fc-1f1f8",
         "description": "Flag of Samoa",
-        "description_zh_cn": "萨摩亚国旗",
+        "description_zh_cn": "萨摩亚",
         "keywords": "flag,samoa,国旗,萨摩亚"
       },
       {
         "unicode": "1f1fd-1f1f0",
         "description": "Flag of Kosovo",
-        "description_zh_cn": "科索沃国旗",
+        "description_zh_cn": "科索沃",
         "keywords": "flag,kosovo,国旗,科索沃"
       },
       {
         "unicode": "1f1fe-1f1ea",
         "description": "Flag of Yemen",
-        "description_zh_cn": "也门国旗",
+        "description_zh_cn": "也门",
         "keywords": "flag,yemen,国旗,也门"
       },
       {
@@ -11192,19 +11192,19 @@
       {
         "unicode": "1f1ff-1f1e6",
         "description": "Flag of South Africa",
-        "description_zh_cn": "南非国旗",
-        "keywords": "flag,south,south africa,国旗, 南, 南非"
+        "description_zh_cn": "南非",
+        "keywords": "flag,south,south africa,国旗,南,南非"
       },
       {
         "unicode": "1f1ff-1f1f2",
         "description": "Flag of Zambia",
-        "description_zh_cn": "赞比亚国旗",
+        "description_zh_cn": "赞比亚",
         "keywords": "flag,zambia,国旗,赞比亚"
       },
       {
         "unicode": "1f1ff-1f1fc",
         "description": "Flag of Zimbabwe",
-        "description_zh_cn": "津巴布韦国旗",
+        "description_zh_cn": "津巴布韦",
         "keywords": "flag,zimbabwe,国旗,津巴布韦"
       },
       {
@@ -11217,12 +11217,12 @@
         "unicode": "1f1e8-1f1f5",
         "description": "Flag of Clipperton Island",
         "description_zh_cn": "克利珀顿岛旗帜",
-        "keywords": "flag,clipperton,island,旗, 克利珀顿, 岛"
+        "keywords": "flag,clipperton,island,旗,克利珀顿,岛"
       },
       {
         "unicode": "1f1e9-1f1ec",
         "description": "Flag of Diego Garcia",
-        "description_zh_cn": "迪戈加西亚国旗",
+        "description_zh_cn": "迪戈加西亚",
         "keywords": "flag,diego garcia,国旗,迭戈加西亚"
       },
       {
@@ -11252,7 +11252,7 @@
       {
         "unicode": "1f1fa-1f1f2",
         "description": "Flag of U.S. Outlying Islands",
-        "description_zh_cn": "美国离岛国旗",
+        "description_zh_cn": "美国离岛",
         "keywords": "flag,america,island,minor outlying,united,united states,us,usa,国旗,美国,岛屿,次要边远地区,美国,美国,美国"
       }
     ]
