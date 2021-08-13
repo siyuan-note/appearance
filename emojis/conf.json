@@ -14,19 +14,19 @@
         "unicode": "wulian.png",
         "description": "Wulian",
         "description_zh_cn": "捂脸",
-        "keywords": "wulian,捂脸"
+        "keywords": "wulian,face,捂脸"
       },
       {
         "unicode": "huaji.gif",
-        "description": "Huaji",
+        "description": "Funny face",
         "description_zh_cn": "滑稽",
-        "keywords": "huaji,滑稽"
+        "keywords": "huaji,funny,face,滑稽"
       },
       {
         "unicode": "doge.png",
-        "description": "Doge",
-        "description_zh_cn": "狗头",
-        "keywords": "doge,狗头,保命"
+        "description": "Doge face",
+        "description_zh_cn": "狗头保命",
+        "keywords": "doge,face,狗头,保命"
       },
       {
         "unicode": "1f600",
