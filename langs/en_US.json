@@ -648,7 +648,7 @@
     "61": "Uploading, please wait...",
     "62": "The recovery is complete, the application is about to be closed, please restart later...",
     "63": "Recovering, please wait...",
-    "64": "The notebook [%s] has a total of [%d] files. It will take some time to index, please wait...",
+    "64": "There are [%d] files in total, it will take some time to index, please wait...",
     "65": "Creating data files, [%d] documents to be processed",
     "66": "[%d] data files have been created, [%d] documents remaining to be processed",
     "67": "Uploaded at %s, downloaded at %s",
