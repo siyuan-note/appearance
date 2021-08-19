@@ -375,7 +375,7 @@
   "appearance2": "Select the syntax highlighting theme used in light mode",
   "appearance1": "Code Block Theme",
   "appearance14": "Use the system Emoji",
-  "appearance15": "Twitter Emoji is used by default, and the existing Emoji in the system will be used after it is turned on",
+  "appearance15": "Twitter Emoji is used by default, and the native Emoji font in the system will be used after it is turned on",
   "min": "Min",
   "restore": "Restore",
   "max": "Max",

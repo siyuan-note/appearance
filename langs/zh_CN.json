@@ -375,7 +375,7 @@
   "appearance12": "退出界面时关闭内核",
   "appearance13": "内核进程默认是常驻内存的，如果需要在关闭界面时退出内核进程可启用该选项",
   "appearance14": "使用系统自带 Emoji",
-  "appearance15": "默认使用 Twitter Emoji，开启后将使用系统中已有的 Emoji",
+  "appearance15": "默认使用 Twitter Emoji，开启后将使用系统原生的 Emoji 字体",
   "min": "最小化",
   "restore": "向下还原",
   "max": "最大化",
