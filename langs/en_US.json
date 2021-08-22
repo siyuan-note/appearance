@@ -394,6 +394,8 @@
   "md32": "After enabling, the content in the code block will wrap automatically",
   "md33": "Virtual Reference",
   "md34": "After enabling, it will automatically identify the possible reference relationship according to the related naming, alias and text of the existing block ref",
+  "md35": "Virtual Reference keyword exclusion list",
+  "md36": "Use the English comma <code>,</code> to separate, the comma itself can be escaped by <code>\\,</code>",
   "fileTree2": "The doc tree will automatically select the current document when the editor tab is switched",
   "fileTree5": "Ref create doc save location",
   "fileTree6": "When using <code>((</code>, the save path of the new document (for example, /folder1/folder2/, the relative path of the current doc is used if it does not start with /)",
