@@ -51,6 +51,7 @@
   "e2eePasswd": "End-to-end encryption password",
   "e2eePasswdTip": "This password is used for end-to-end encrypted backup and synchronization, please modify it carefully and keep in mind the password",
   "addAttr": "Add",
+  "addTag": "Add Tag",
   "width": "Width",
   "attrName": "Key",
   "attr": "Attribute",

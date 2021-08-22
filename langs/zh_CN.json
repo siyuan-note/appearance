@@ -51,6 +51,7 @@
   "e2eePasswd": "端到端加密密码",
   "e2eePasswdTip": "该密码用于端到端加密备份和同步，请谨慎修改并牢记密码",
   "addAttr": "添加",
+  "addTag": "添加标签",
   "width": "宽度",
   "attrName": "属性名",
   "attr": "属性",
