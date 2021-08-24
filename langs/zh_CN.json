@@ -29,7 +29,7 @@
   "stickOpen": "保持全部展开",
   "cloud": "云端",
   "openSyncTip": "请前往 设置->云端 中开启云端同步",
-  "openSyncTip1": "启用同步",
+  "openSyncTip1": "启用同步（从禁用改为启用时建议手动点击同步按钮触发一次同步）",
   "cloudSync": "云端同步",
   "emptyCloudSyncList": "云端同步列表为空",
   "dataIsWriting": "数据写入中...",

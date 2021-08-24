@@ -29,7 +29,7 @@
   "stickOpen": "Keep all opened",
   "cloud": "Cloud",
   "openSyncTip": "Please go to Settings -> Cloud to enable cloud sync",
-  "openSyncTip1": "Enable sync",
+  "openSyncTip1": "Enable sync (when changing from disabled to enabled, it is recommended to manually click the sync button to trigger a synchronization)",
   "cloudSync": "Cloud sync",
   "emptyCloudSyncList": "The cloud sync list is empty",
   "dataIsWriting": "Writing data...",
