@@ -1,6 +1,8 @@
 {
   "closeNotebook": "Closed notebooks",
   "widget": "Widget",
+  "customEmoji": "Add custom emoji",
+  "customEmojiTip": "Open <a href=\"javascript:void(0)\" id=\"appearanceOpenEmoji\">Emoji folder</a>, put the picture in and click the refresh button",
   "recentEmoji": "Common Emoticons",
   "andSubFile": "and its <b>x</b> subfiles",
   "addIcon": "Add icon",
