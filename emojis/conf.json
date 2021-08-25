@@ -581,30 +581,6 @@
         "keywords": "face,sleep,zzz,脸,睡觉,zzz"
       },
       {
-        "unicode": "trollface.png",
-        "description": "Trollface",
-        "description_zh_cn": "邪恶的笑脸",
-        "keywords": "troll,face,邪恶"
-      },
-      {
-        "unicode": "wulian.png",
-        "description": "Wulian",
-        "description_zh_cn": "捂脸",
-        "keywords": "wulian,face,捂脸"
-      },
-      {
-        "unicode": "huaji.gif",
-        "description": "Funny face",
-        "description_zh_cn": "滑稽的笑脸",
-        "keywords": "huaji,funny,face,滑稽,笑脸"
-      },
-      {
-        "unicode": "doge.png",
-        "description": "Doge face",
-        "description_zh_cn": "狗头保命",
-        "keywords": "doge,face,狗头,保命"
-      },
-      {
         "unicode": "1f4a4",
         "description": "Sleeping symbol",
         "description_zh_cn": "睡眠符号",
@@ -7634,72 +7610,6 @@
         "description": "Right-pointing magnifying glass",
         "description_zh_cn": "右指向放大镜",
         "keywords": "glass,magnifying,search,tool,玻璃,放大,搜索,工具"
-      },
-      {
-        "unicode": "b3log.png",
-        "description": "B3log Open Source",
-        "description_zh_cn": "B3log 开源",
-        "keywords": "b3log,open source,开源"
-      },
-      {
-        "unicode": "latke.png",
-        "description": "A Java Web framework based on JSON",
-        "description_zh_cn": "一款以 JSON 为主的 Java Web 框架",
-        "keywords": "latke,b3log"
-      },
-      {
-        "unicode": "liandi.png",
-        "description": "LianDi Community",
-        "description_zh_cn": "链滴社区",
-        "keywords": "liandi,链滴,b3log"
-      },
-      {
-        "unicode": "siyuan.svg",
-        "description": "SiYuan Note",
-        "description_zh_cn": "思源笔记",
-        "keywords": "思源笔记,sy,双链,b3log"
-      },
-      {
-        "unicode": "lute.png",
-        "description": "A structured Markdown engine that supports Go and JavaScript",
-        "description_zh_cn": "一款结构化的 Markdown 引擎，支持 Go 和 JavaScript",
-        "keywords": "lute,b3log,markdown"
-      },
-      {
-        "unicode": "octocat.png",
-        "description": "GitHub: Where the world builds software",
-        "description_zh_cn": "GitHub：世界在哪里构建软件",
-        "keywords": "github,open source,octocat"
-      },
-      {
-        "unicode": "pipe.png",
-        "description": "B3log distributed community blog-end node based on Go",
-        "description_zh_cn": "B3log 分布式社区的 Go 博客端节点系统",
-        "keywords": "pipe,b3log"
-      },
-      {
-        "unicode": "solo.png",
-        "description": "B3log distributed community blog-end node based on Java",
-        "description_zh_cn": "B3log 分布式社区的 Java 博客端节点系统",
-        "keywords": "solo,b3log"
-      },
-      {
-        "unicode": "sym.png",
-        "description": "A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java",
-        "description_zh_cn": "一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台",
-        "keywords": "symphony,sym,b3log"
-      },
-      {
-        "unicode": "vditor.png",
-        "description": "An In-browser Markdown editor,support WYSIWYG (Rich Text),Instant Rendering (Typora-like) and Split View modes",
-        "description_zh_cn": "一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式",
-        "keywords": "vditor,b3log,markdown"
-      },
-      {
-        "unicode": "wide.png",
-        "description": "A web-based Go language IDE",
-        "description_zh_cn": "一款基于 Web 的 Go 语言 IDE",
-        "keywords": "go,golang,b3log"
       }
     ]
   },
