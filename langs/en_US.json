@@ -472,7 +472,7 @@
   "back": "Back",
   "mount": "Open Notebook",
   "newNotebook": "New Notebook",
-  "fileNameRule": "Not Allow \\/:*?\"<>|",
+  "fileNameRule": "Not Allow /",
   "slogan": "When one drinks water, one must not forget where it comes from",
   "showInFolder": "Show in Folder",
   "search": "Search",
