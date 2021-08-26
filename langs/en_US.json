@@ -30,6 +30,7 @@
   "syncTip": "The synchronization function can only be activated after adding/selecting the cloud synchronization list",
   "stickOpen": "Keep all opened",
   "cloud": "Cloud",
+  "setEmojiTip": "Please go to Settings -> Appearance to add emoji",
   "openSyncTip": "Please go to Settings -> Cloud to enable cloud sync",
   "openSyncTip1": "Enable sync (when changing from disabled to enabled, it is recommended to manually click the sync button to trigger a synchronization)",
   "cloudSync": "Cloud sync",
