@@ -497,6 +497,8 @@
   "about12": "启用后将允许同一局域网内的其他设备进行访问。修改后会自动关闭应用，请手动重启",
   "about13": "API token",
   "about14": "调用 API 时需要通过该 token 进行鉴权",
+  "about15": "启用更新检查",
+  "about16": "启动时TODO",
   "autoSpace": "中西文中间自动插入空格",
   "mathEngine": "数学公式引擎",
   "checkUpdate": "检查更新",
