@@ -5,7 +5,7 @@
   "customEmojiTip": "Open <a href=\"javascript:void(0)\" id=\"appearanceOpenEmoji\">Emoji folder</a>, put the picture in and click the refresh button",
   "recentEmoji": "Common Emoticons",
   "andSubFile": "and its <b>x</b> subfiles",
-  "addIcon": "Add icon",
+  "changeIcon": "Change icon",
   "includeSubFile": "\nInclude x subfiles",
   "untitled": "Untitled",
   "goForward": "Go forward",
