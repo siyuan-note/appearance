@@ -324,6 +324,7 @@
   "--b3-protyle-inline-blockref-color": "引用块",
   "open": "开启",
   "sync": "同步",
+  "syncNow": "立即同步",
   "cloudBook": "云端笔记本",
   "cumulativePayment": "累计支付",
   "refresh": "刷新",
