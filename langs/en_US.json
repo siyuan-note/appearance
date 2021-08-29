@@ -503,7 +503,7 @@
   "mathEngine": "Mathematical formula engine",
   "checkUpdate": "Check update",
   "currentVer": "Current version",
-  "visitChangelogs": "<a href=\"https://github.com/siyuan-note/siyuan/releases\" target=\"_blank\">Visit changelogs</a>",
+  "visitAnnouncements": "<a href=\"https://github.com/siyuan-note/siyuan/releases\" target=\"_blank\">View system announcements</a>",
   "themeLight": "Light",
   "themeDark": "Dark",
   "pasteAsPlainText": "Paste As Plain Text",
