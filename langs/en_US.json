@@ -604,7 +604,7 @@
     "2": "List files of box [%s] and path [%s] failed: %s",
     "3": "Read notebook [%s] file [%s] failed: %s",
     "4": "Get notebook [%s] file [%s] meta info failed: %s",
-    "5": "Rename notebook [%s] file [%s] failed: %s",
+    "5": "Move notebook [%s] file [%s] failed: %s",
     "6": "Create notebook [%s] folder [%s] failed: %s",
     "7": "Remove notebook [%s] path [%s] failed: %s",
     "8": "Check update failed",
