@@ -173,7 +173,7 @@
   "alias": "Alias",
   "addTplSucc": "The template was added successfully",
   "exportTplSucc": "The template was exported successfully",
-  "exportTplTip": "The template has the same name, overwrite it?",
+  "exportTplTip": "The template already exists, do you need to overwrite it?",
   "globalSearch": "Global Search",
   "resetLayout1": "Reset Layout",
   "zoomIn": "Zoom In",
