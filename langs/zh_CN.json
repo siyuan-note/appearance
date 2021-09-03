@@ -172,6 +172,8 @@
   "replaceAll": "全部替换",
   "alias": "别名",
   "addTplSucc": "模版添加成功",
+  "exportTplSucc": "模版导出成功",
+  "exportTplTip": "模版重名，是否需要覆盖？",
   "globalSearch": "全局搜索",
   "resetLayout1": "重置布局",
   "zoomIn": "放大",

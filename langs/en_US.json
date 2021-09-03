@@ -172,6 +172,8 @@
   "replaceAll": "Replace All",
   "alias": "Alias",
   "addTplSucc": "The template was added successfully",
+  "exportTplSucc": "The template was exported successfully",
+  "exportTplTip": "The template has the same name, overwrite it?",
   "globalSearch": "Global Search",
   "resetLayout1": "Reset Layout",
   "zoomIn": "Zoom In",
