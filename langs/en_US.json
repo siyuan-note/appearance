@@ -440,6 +440,7 @@
   "export1": "Blockquote",
   "export2": "Anchor text with block URL",
   "export3": "Just anchor text",
+  "export4": "Footnotes",
   "graphConfig2": "Reference Count filter",
   "selectOpen": "Always Select Opened File",
   "selectOpen1": "Select Opened File",
