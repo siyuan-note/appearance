@@ -247,7 +247,7 @@
   "copyID": "Copie ID",
   "newBookmark": "Créer une étiquette de signet",
   "generateHistory": "Intervalle de génération de l'historique (minutes, 0 pour désactiver)",
-  "generateHistoryInterval": "L'historique sera automatiquement généré périodiquement lors de l'édition ou de la suppression, et les données historiques sont stockées dans le carnet de notes <code>.siyuan/histoire/</code> dossier",
+  "generateHistoryInterval": "L'historique est généré automatiquement lors de l'édition ou de la suppression, et l'historique et la récupération peuvent être consultés dans le menu contextuel du bloc-notes",
   "historyRetentionDays": "Jours de rétention historiques",
   "historyRetentionDaysTip": "Les données historiques qui sont dépassé Jours de rétention seront automatiquement et complètement supprimées",
   "fileNameASC": "Nom du fichier par ordre alphabétique croissant",

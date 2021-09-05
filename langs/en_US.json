@@ -247,7 +247,7 @@
   "copyID": "Copy ID",
   "newBookmark": "Create a bookmark label",
   "generateHistory": "History Generation Interval (minutes, set to 0 to disable)",
-  "generateHistoryInterval": "History will be automatically generated periodically when editing or deleting, and the historical data is stored in the notebook <code>.siyuan/history/</code> folder",
+  "generateHistoryInterval": "The history is automatically generated when editing or deleting, and the history and recovery can be viewed in the right-click menu of the notebook",
   "historyRetentionDays": "History Retention Days",
   "historyRetentionDaysTip": "Historical data exceeding the retention days will be automatically and completely deleted",
   "fileNameASC": "File Name Alphabet ASC",
