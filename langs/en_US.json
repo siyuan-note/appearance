@@ -1,4 +1,12 @@
 {
+  "syncInterval6": "Every 12 hours",
+  "syncInterval5": "Every 6 hours",
+  "syncInterval4": "Every 2 hours",
+  "syncInterval3": "Every 30 minutes",
+  "syncInterval2": "Every 10 minutes",
+  "syncInterval1": "Every 5 minutes",
+  "syncInterval0": "Auto",
+  "syncInterval": "Sync interval",
   "rebuildIndex": "Rebuild Index",
   "closeNotebook": "Closed notebooks",
   "widget": "Widget",
