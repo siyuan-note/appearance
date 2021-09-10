@@ -134,4 +134,8 @@
     --b3-protyle-inline-mark-color: #202124;
     --b3-protyle-inline-tag-color: #5f6368;
     --b3-protyle-inline-blockref-color: #660e7a;
+
+    /* PDF */
+    --sidebar-width: 200px;
+    --loadingBar-end-offset: 0;
 }
