@@ -1,4 +1,10 @@
 {
+  "find_match_count_limit": "超过 {{limit}} 项匹配",
+  "find_match_count": "第 {{current}} 项，共匹配 {{total}} 项",
+  "findHighlight": "全部高亮显示",
+  "findEntireWord": "字词匹配",
+  "presentationMode": "切换到演示模式",
+  "focusOutline": "查找当前大纲项目",
   "previousLabel": "上一页",
   "nextLabel": "下一页",
   "pageScaleWidth": "适合页宽",
