@@ -137,6 +137,13 @@
     --b3-protyle-inline-blockref-color: #9876aa;
 
     /* PDF */
-    --sidebar-width: 200px;
-    --loadingBar-end-offset: 0;
+    --b3-pdf-sidebar-width: 200px;
+    --b3-pdf-offset: 0;
+    --b3-pdf-background1: var(--b3-theme-error);
+    --b3-pdf-background2: #f5822e;
+    --b3-pdf-background3: var(--b3-theme-secondary);
+    --b3-pdf-background4: #65b84d;
+    --b3-pdf-background5: #f5539e;
+    --b3-pdf-background6: var(--b3-theme-primary);
+    --b3-pdf-background7: #944194;
 }
