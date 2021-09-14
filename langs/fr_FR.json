@@ -98,7 +98,7 @@
   "cloudIntro13": "Bien qu'il ne soit pas d'une grande utilité, je l'écris quand même par souci d'espace",
   "cloudIntro14": "Si vous voulez dire que c'est utile, c'est que le développeur donnera la priorité à la réponse lorsque la communauté remontera le problème",
   "selectAll": "Sélectionner tout",
-  "reposTip": "Utilisé pour distinguer les différents espaces de travail synchronisés vers le cloud, vous pouvez saisir le nom de l'espace de travail",
+  "reposTip": "Le nom du répertoire de synchronisation cloud correspondant à l'espace de travail actuel, qui peut être sélectionné sur d'autres appareils après création sur l'appareil principal",
   "syncTip": "La fonction de synchronisation ne peut être activée qu'après avoir ajouté/sélectionné la liste de synchronisation du cloud.",
   "stickOpen": "Gardez tout ouvert",
   "cloud": "Cloud",
