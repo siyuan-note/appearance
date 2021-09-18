@@ -711,7 +711,7 @@
     "30": "Failed to obtain cloud backup info",
     "31": "Account authentication failed, please try again. If multiple retries still fail, please login again and try again",
     "32": "Failed to remove cloud notebook",
-    "33": "TODO",
+    "33": "Please check proxy and firewall settings",
     "34": "This operation is not supported in read-only mode",
     "35": "Downloading the update package, please wait...",
     "36": "Update cloud notebooks failed",
