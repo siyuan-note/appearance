@@ -110,7 +110,7 @@
   "cloudSync": "Cloud Sync",
   "cloudSyncDir": "Répertoire Cloud Sync",
   "emptyCloudSyncList": "La liste de sync du cloud est videy",
-  "dataIsWriting": "Écrire des données...",
+  "dataIsWriting": "Quitter le programme...",
   "retry": "Réessayer",
   "insertVideoURL": "Insérer lien vidéo",
   "insertAudioURL": "Insérer lien audio",

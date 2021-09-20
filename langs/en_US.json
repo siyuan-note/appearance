@@ -110,7 +110,7 @@
   "cloudSync": "Cloud sync",
   "cloudSyncDir": "Cloud Sync Dir",
   "emptyCloudSyncList": "The cloud sync list is empty",
-  "dataIsWriting": "Writing data...",
+  "dataIsWriting": "Exiting...",
   "retry": "Retry",
   "insertVideoURL": "Insert video link",
   "insertAudioURL": "Insert audio link",
