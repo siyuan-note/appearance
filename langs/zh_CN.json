@@ -110,7 +110,7 @@
   "cloudSync": "云端同步",
   "cloudSyncDir": "云端同步目录",
   "emptyCloudSyncList": "云端同步列表为空",
-  "dataIsWriting": "数据写入中...",
+  "dataIsWriting": "正在退出...",
   "retry": "重试",
   "insertVideoURL": "插入视频链接",
   "insertAudioURL": "插入音频链接",
