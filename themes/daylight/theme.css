@@ -146,3 +146,9 @@
     --b3-pdf-background6: var(--b3-theme-primary);
     --b3-pdf-background7: #944194;
 }
+
+/* PDF */
+.textLayer,
+.pdf__resize {
+    mix-blend-mode: darken;
+}

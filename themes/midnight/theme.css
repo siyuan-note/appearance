@@ -147,3 +147,14 @@
     --b3-pdf-background6: var(--b3-theme-primary);
     --b3-pdf-background7: #944194;
 }
+
+/* PDF */
+.pdfViewer .page canvas,
+.thumbnailImage {
+    filter: grayscale(0%) invert(100%) contrast(100%) brightness(100%) hue-rotate(180deg);
+}
+
+.textLayer,
+.pdf__resize{
+    mix-blend-mode: lighten;
+}
