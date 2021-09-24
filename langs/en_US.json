@@ -324,6 +324,7 @@
   "historyRetentionDays": "History Retention Days",
   "historyRetentionDaysTip": "Historical data exceeding the retention days will be automatically and completely deleted",
   "clearHistory": "Clear all history",
+  "confirmClearHistory": "Are you sure you want to completely delete all historical data in the workspace?",
   "fileNameASC": "File Name Alphabet ASC",
   "fileNameDESC": "File Name Alphabet DESC",
   "modifiedASC": "Modified Time ASC",

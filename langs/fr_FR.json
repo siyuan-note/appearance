@@ -324,6 +324,7 @@
   "historyRetentionDays": "Jours de rétention historiques",
   "historyRetentionDaysTip": "Les données historiques qui sont dépassé Jours de rétention seront automatiquement et complètement supprimées",
   "clearHistory": "Effacer tout l'historique",
+  "confirmClearHistory": "Êtes-vous sûr de vouloir supprimer complètement toutes les données historiques de l'espace de travail ?",
   "fileNameASC": "Nom du fichier par ordre alphabétique croissant",
   "fileNameDESC": "Nom du fichier par ordre alphabétique décroissant",
   "modifiedASC": "Modifier le temps croissant",
