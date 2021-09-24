@@ -567,7 +567,7 @@
   "theme": "Theme",
   "language": "Language",
   "about": "About",
-  "about1": "Copyright (c) 2020-present, ld246.com<div class='fn__hr'></div><div class='ft__on-surface'>SiYuan is a commercial software developed by Yunnan Liandi Technology Co., Ltd.<br><br>Local functions are free for personal use, <a href='https://b3log.org/siyuan/pricing.html' target='_blank'>cloud services</a> require paid subscription.</div>",
+  "about1": "Copyright (c) 2020-present, ld246.com<div class='fn__hr'></div><div class='ft__on-surface'>The core developers of SiYuan are <a href=\"https://github.com/88250\" target=\"_blank\">D</a> and <a href=\"https://github.com/Vanessa219\" target=\"_blank\">V</a>, and the community development contributors can be seen <a href=\"https://github.com/siyuan-note/bazaar/graphs/contributors\" target=\"_blank\">here</a></div>",
   "about2": "Use desktop/mobile browser to access",
   "about3": "Please use Chrome browser and keep it on the same network as your computer",
   "about4": "Open browser",
