@@ -323,6 +323,7 @@
   "generateHistoryInterval": "The history is automatically generated when editing or deleting, and the history and recovery can be viewed in the right-click menu of the notebook",
   "historyRetentionDays": "History Retention Days",
   "historyRetentionDaysTip": "Historical data exceeding the retention days will be automatically and completely deleted",
+  "clearHistory": "Clear all history",
   "fileNameASC": "File Name Alphabet ASC",
   "fileNameDESC": "File Name Alphabet DESC",
   "modifiedASC": "Modified Time ASC",

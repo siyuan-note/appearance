@@ -323,6 +323,7 @@
   "generateHistoryInterval": "L'historique est généré automatiquement lors de l'édition ou de la suppression, et l'historique et la récupération peuvent être consultés dans le Menu du clic Droit du Carnet de Note",
   "historyRetentionDays": "Jours de rétention historiques",
   "historyRetentionDaysTip": "Les données historiques qui sont dépassé Jours de rétention seront automatiquement et complètement supprimées",
+  "clearHistory": "Effacer tout l'historique",
   "fileNameASC": "Nom du fichier par ordre alphabétique croissant",
   "fileNameDESC": "Nom du fichier par ordre alphabétique décroissant",
   "modifiedASC": "Modifier le temps croissant",
