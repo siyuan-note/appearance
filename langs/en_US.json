@@ -716,7 +716,7 @@
     "32": "Failed to remove cloud notebook",
     "33": "Please check proxy and firewall settings",
     "34": "This operation is not supported in read-only mode",
-    "35": "Downloading the update package, please wait...",
+    "35": "Rebuilding index, please wait...",
     "36": "Update cloud notebooks failed",
     "37": "Do not include punctuation or spaces in the save path",
     "38": "Editing has generated multiple blocks, please edit again",
