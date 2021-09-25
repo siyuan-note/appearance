@@ -311,7 +311,6 @@
   "exporting": "En cours d'exportation, veuillez patienter...",
   "exported": "Exportation terminée: ",
   "refExpired": "Le bloc de contenu de recherche n'existe pas",
-  "generatedMultipleBlocks": "L'édition a généré de multiples blocs, ne permet pas de sauvegarder",
   "switchBlock": "Convertir en référence de bloc de contenu",
   "emptyContent": "Aucun contenu pertinent pour le moment",
   "useBrowserView": "Afficher dans le navigateur",
