@@ -110,7 +110,6 @@
   "cloudSync": "Cloud Sync",
   "cloudSyncDir": "Répertoire Cloud Sync",
   "emptyCloudSyncList": "La liste de sync du cloud est videy",
-  "dataIsWriting": "Quitter le programme...",
   "retry": "Réessayer",
   "insertVideoURL": "Insérer lien vidéo",
   "insertAudioURL": "Insérer lien audio",
@@ -772,6 +771,7 @@
     "91": "Le répertoire incrémentiel local est en train d'être supprimé...",
     "92": "Modification terminée",
     "93": "Supporte uniquement les chiffres ou les lettres",
-    "94": "Veuillez désactiver la synchronisation avant de modifier"
+    "94": "Veuillez désactiver la synchronisation avant de modifier",
+    "95": "Quitter le programme..."
   }
 }

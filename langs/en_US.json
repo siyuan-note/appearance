@@ -110,7 +110,6 @@
   "cloudSync": "Cloud sync",
   "cloudSyncDir": "Cloud Sync Dir",
   "emptyCloudSyncList": "The cloud sync list is empty",
-  "dataIsWriting": "Exiting...",
   "retry": "Retry",
   "insertVideoURL": "Insert video link",
   "insertAudioURL": "Insert audio link",
@@ -773,6 +772,7 @@
     "91": "Deleting the local incremental directory...",
     "92": "Modification completed",
     "93": "Only numbers or letters are supported",
-    "94": "Please turn off synchronization before modifying"
+    "94": "Please turn off synchronization before modifying",
+    "95": "Exiting..."
   }
 }
