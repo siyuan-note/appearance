@@ -1,6 +1,6 @@
 {
   "directConnection": "直接连接",
-  "proxy": "代理",
+  "networkProxy": "网络代理",
   "copyAnnotation": "复制标注",
   "rectAnnotation": "矩形标注",
   "fileName": "文件名：",

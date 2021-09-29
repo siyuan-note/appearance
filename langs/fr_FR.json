@@ -1,6 +1,6 @@
 {
   "directConnection": "Connexion directe",
-  "proxy": "Proxy",
+  "networkProxy": "Proxy réseau",
   "copyAnnotation": "Copier l'annotation",
   "rectAnnotation": "Annotation rectangulaire",
   "fileName": "Nom du fichier :",
