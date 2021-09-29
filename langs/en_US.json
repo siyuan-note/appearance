@@ -1,4 +1,6 @@
 {
+  "directConnection": "Direct connection",
+  "proxy": "Proxy",
   "copyAnnotation": "Copy Annotation",
   "rectAnnotation": "Rectangular Annotation",
   "fileName": "File name:",
