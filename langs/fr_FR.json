@@ -736,7 +736,7 @@
     "56": "Indexé [%d] documents",
     "57": "Échec de la création d'une clé temporaire",
     "58": "La reconstruction de l'index est terminée",
-    "59": "TODO",
+    "59": "Échec de la définition de la liste des ignores de synchronisation",
     "60": "Échec de la récupération du paquet de mise à jour : %s",
     "61": "En cours de transfert, veuillez patienter...",
     "62": "La récupération est terminée, l'application est sur le point d'être fermée, veuillez la relancer plus tard...",
