@@ -720,7 +720,7 @@
     "39": "Password can not be blank",
     "40": "On macOS, please <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">install Rsync</a>",
     "41": "Upload completed",
-    "42": "The switch is complete, the application is about to be closed, please restart later...",
+    "42": "The setting is complete, the application will be closed, please restart later...",
     "43": "The maximum support of cloud space has been exceeded, and the upload cannot be continued",
     "44": "Parse template failed: %s",
     "45": "Opening, please wait...",
