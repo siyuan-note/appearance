@@ -1,4 +1,5 @@
 {
+  "showHideBg": "Show/Hide Background",
   "directConnection": "Direct connection",
   "networkProxy": "Network Proxy",
   "copyAnnotation": "Copy Annotation",

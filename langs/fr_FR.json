@@ -1,4 +1,5 @@
 {
+  "showHideBg": "Afficher/Masquer l'arrière-plan",
   "directConnection": "Connexion directe",
   "networkProxy": "Proxy réseau",
   "copyAnnotation": "Copier l'annotation",
@@ -517,6 +518,7 @@
   "export1": "Citation de bloc",
   "export2": "Texte d'ancrage avec bloc URL",
   "export3": "Juste du texte d'ancrage",
+  "export4": "Notes de bas de page",
   "graphConfig2": "Filtre de compte de blocs de référence",
   "selectOpen": "Toujours sélectionner le fichier ouvert",
   "selectOpen1": "Sélectionner le fichier ouvert",
