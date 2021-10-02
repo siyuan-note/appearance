@@ -723,7 +723,7 @@
     "39": "Le mot de passe ne peut pas être vide",
     "40": "Sous macOS, veuillez <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">installer Rsync</a>",
     "41": "Transfert complété",
-    "42": "Le paramétrage est terminé, l'application va être fermée, merci de redémarrer plus tard...",
+    "42": "Le paramétrage est terminé, l'application se fermera automatiquement, merci de redémarrer plus tard...",
     "43": "Le support maximal de l'espace Cloud a été dépassé, et le transfert ne peut pas être poursuivi.",
     "44": "L'analyse du template a échoué : %s",
     "45": "En cours d'ouverture, veuillez patienter...",
