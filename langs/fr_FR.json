@@ -776,6 +776,7 @@
     "92": "Modification terminée",
     "93": "Supporte uniquement les chiffres ou les lettres",
     "94": "Veuillez désactiver la synchronisation avant de modifier",
-    "95": "Quitter le programme..."
+    "95": "Quitter le programme...",
+    "96": "La synchronisation a échoué lors de la sortie. Veuillez effectuer une synchronisation manuellement pour vous assurer que les données locales sont cohérentes avec les données du cloud"
   }
 }
