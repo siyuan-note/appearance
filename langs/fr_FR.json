@@ -585,6 +585,7 @@
   "about14": "Le token doit être authentifié lors de l'appel de l'API.",
   "about15": "Vérifier la mise à jour",
   "about16": "Après l'avoir activé, il vérifiera les mises à jour au démarrage et affichera un message s'il ne s'agit pas de la dernière version.",
+  "about17": "N'activez pas le proxy lorsqu'il est défini sur <code>Connexion directe</code>. L'application se fermera automatiquement après modification, merci de redémarrer manuellement",
   "autoSpace": "Insertion automatique d'espaces entre les langues chinoise et occidentale",
   "mathEngine": "Engin de formule mathématique",
   "checkUpdate": "Vérifier la mise à jour",

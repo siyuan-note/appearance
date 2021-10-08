@@ -585,6 +585,7 @@
   "about14": "The token needs to be authenticated when calling the API",
   "about15": "Update check",
   "about16": "After enabling, it will check for updates at startup, and prompt if it is not the latest version",
+  "about17": "Do not enable proxy when set to <code>Direct connection</code>. The application will be closed automatically after modification, please restart manually",
   "autoSpace": "Automatically insert spaces between Chinese and Western languages",
   "mathEngine": "Mathematical formula engine",
   "checkUpdate": "Check update",
