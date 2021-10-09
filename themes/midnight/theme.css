@@ -156,5 +156,5 @@
 
 .textLayer,
 .pdf__resize{
-    mix-blend-mode: exclusion;
+    mix-blend-mode: screen;
 }
