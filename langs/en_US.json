@@ -1,4 +1,5 @@
 {
+  "includeBlock": "Whether to include a container block",
   "showHideBg": "Show/Hide Background",
   "directConnection": "Direct connection",
   "networkProxy": "Network Proxy",

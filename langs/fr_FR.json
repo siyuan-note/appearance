@@ -1,4 +1,5 @@
 {
+  "includeBlock": "S'il faut inclure un bloc conteneur",
   "showHideBg": "Afficher/Masquer l'arrière-plan",
   "directConnection": "Connexion directe",
   "networkProxy": "Proxy réseau",

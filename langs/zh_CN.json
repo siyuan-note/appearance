@@ -1,4 +1,5 @@
 {
+  "includeBlock": "是否包含容器块",
   "showHideBg": "显示/隐藏背景",
   "directConnection": "直接连接",
   "networkProxy": "网络代理",
