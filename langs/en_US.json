@@ -722,7 +722,7 @@
     "36": "Update cloud notebooks failed",
     "37": "Do not include punctuation or spaces in the save path",
     "38": "Editing has generated multiple blocks, please edit again",
-    "39": "Password can not be blank",
+    "39": "E2EE password can not be blank",
     "40": "On macOS, please <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">install Rsync</a>",
     "41": "Upload completed",
     "42": "The setting is complete, the application will be closed automatically, please restart later...",

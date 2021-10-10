@@ -722,7 +722,7 @@
     "36": "Échec de la mise à jour des carnets de notes du Cloud",
     "37": "N'incluez pas de ponctuation ou d'espace dans le path",
     "38": "L'édition a généré des blocs multiples, veuillez rééditer.",
-    "39": "Le mot de passe ne peut pas être vide",
+    "39": "Le mot de passe E2EE ne peut pas être vide",
     "40": "Sous macOS, veuillez <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">installer Rsync</a>",
     "41": "Transfert complété",
     "42": "Le paramétrage est terminé, l'application se fermera automatiquement, merci de redémarrer plus tard...",
