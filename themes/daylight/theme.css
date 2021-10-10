@@ -33,8 +33,9 @@
     --b3-list-hover: rgba(0, 0, 0, .05);
 
     /* 页签 */
-    --b3-tab-background: #f3f3f3;
-    --b3-tab-background-hover: #e9eaeb;
+    --b3-tab-background: #e9eaea;
+    --b3-tab-active-background: #dfe0e1;
+    --b3-tab-item-current-background: var(--b3-theme-background);
 
     /* 菜单 */
     --b3-menu-background: #f8f9fa;
