@@ -6,6 +6,7 @@
     --b3-theme-primary-lightest: rgba(66, 133, 244, 0.12);
     --b3-theme-secondary: #f3a92f;
     --b3-theme-background: #212224;
+    --b3-theme-background-light: #353637;
     --b3-theme-surface: #292a2d;
     --b3-theme-surface-light: rgba(41, 42, 45, .86);
     --b3-theme-error: #d23f31;
@@ -33,9 +34,7 @@
     --b3-list-hover: rgba(230, 230, 230, .05);
 
     /* 页签 */
-    --b3-tab-background: #2a2c2e;
-    --b3-tab-active-background: var(--b3-theme-background);
-    --b3-tab-item-current-background: #353637;
+    --b3-tab-background: #3f4041;
 
     /* 菜单 */
     --b3-menu-background: #27282a;
@@ -156,6 +155,6 @@
 }
 
 .textLayer,
-.pdf__resize{
+.pdf__resize {
     mix-blend-mode: screen;
 }
