@@ -31,7 +31,7 @@
     --b3-scroll-color: rgba(0, 0, 0, .2);
 
     /* 列表 */
-    --b3-list-hover: rgba(0, 0, 0, .05);
+    --b3-list-hover: #e9eaea;
 
     /* 页签 */
     --b3-tab-background: #e9eaea;
