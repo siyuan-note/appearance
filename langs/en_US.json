@@ -780,6 +780,7 @@
     "94": "Please turn off synchronization before modifying",
     "95": "Exiting...",
     "96": "Synchronization failed when exiting. Please manually perform a synchronization to ensure that the local data is consistent with the cloud data",
-    "97": "Force exit"
+    "97": "Force exit",
+    "98": "Do not set the workspace under the installation path, otherwise data will be lost when uninstalling or updating programs"
   }
 }
