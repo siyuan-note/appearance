@@ -759,7 +759,7 @@
     "73": "Write notebook [%s] file [%s] failed: %s",
     "74": "The kernel has not been fully booted [%d%%], please try again later",
     "75": "Failed to lock file [%s]",
-    "76": "Save failed: the file name is too long",
+    "76": "The data file has been locked by another program. (If a third-party sync disk is used, please check the sync status)",
     "77": "Invalid dir path [%s]",
     "78": "The old and new paths are repeated",
     "79": "Only supports importing Markdown document",
