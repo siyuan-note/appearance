@@ -80,6 +80,7 @@
   "syncMethod0": "Basé sur le protocole SSH",
   "syncMethod1": "Basé sur le protocole HTTPS (dans l'expérience, veuillez l'utiliser avec prudence)",
   "rebuildIndex": "Reconstruire l'index",
+  "rebuildIndexTip": "Une erreur a été détectée, veuillez choisir l'opération suivante pour réparer",
   "closeNotebook": "Carnets fermés",
   "widget": "Widget",
   "customEmoji": "Ajouter un emoji personnalisé",

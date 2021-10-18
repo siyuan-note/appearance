@@ -80,6 +80,7 @@
   "syncMethod0": "Based on SSH protocol",
   "syncMethod1": "Based on HTTPS protocol (in the experiment, please use it with caution)",
   "rebuildIndex": "Rebuild Index",
+  "rebuildIndexTip": "An error was detected, please choose the following operation to repair",
   "closeNotebook": "Closed notebooks",
   "widget": "Widget",
   "customEmoji": "Add custom emoji",
