@@ -133,7 +133,7 @@
   "attrValue1": "Si vous laissez la valeur de l'attribut vide, l'attribut sera automatiquement supprimé",
   "specifyPath": "Spécifier le chemin",
   "changeE2EEPasswdTip": "<b>Si cela n'est pas nécessaire, ne le modifiez pas.</b> Si vous devez modifier, veuillez suivre les étapes suivantes: <ol><li>Désactiver la synchronisation sur tous les appareils</li><li> Supprimer la sauvegarde et la synchronisation dans le cloud</li><li>Changer le mot de passe pour tous les appareils</li><li>Ouvrez la synchronisation sur le <b>main</b> et cliquez manuellement sur le bouton de synchronisation</li><li> Après la réussite d'une étape de la synchronisation, lancez la synchronisation des autres dispositifs.</li></ol>",
-  "changeE2EEPasswd": "Modifier le mot de passe de cryptage de bout en bout",
+  "changeE2EEPasswd": "Définir le mot de passe de cryptage de bout en bout",
   "setPasswd": "Définir le mot de passe",
   "e2eePasswd": "Mot de passe de cryptage de bout en bout",
   "e2eePasswdTip": "Ce mot de passe est utilisé pour la sauvegarde et la synchronisation chiffrées de bout en bout, veuillez le modifier soigneusement et mémoriser le mot de passe",
