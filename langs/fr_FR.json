@@ -79,7 +79,7 @@
   "syncMethod": "Méthode de synchronisation",
   "syncMethod0": "Basé sur le protocole SSH",
   "syncMethod1": "Basé sur le protocole HTTPS (dans l'expérience, veuillez l'utiliser avec prudence)",
-  "stateExcepted": "État anormal",
+  "stateExcepted": "\uD83D\uDC94 État anormal",
   "rebuildIndex": "Reconstruire l'index",
   "rebuildIndexTip": "Une erreur a été détectée, veuillez choisir l'opération suivante pour réparer",
   "closeNotebook": "Carnets fermés",
