@@ -81,7 +81,7 @@
   "syncMethod1": "Based on HTTPS protocol (in the experiment, please use it with caution)",
   "stateExcepted": "\uD83D\uDC94 Abnormal state",
   "rebuildIndex": "Rebuild Index",
-  "rebuildIndexTip": "An error was detected, please choose the following operation to repair",
+  "rebuildIndexTip": "A system runtime error was found, please choose whether to exit or rebuild the index for repair",
   "closeNotebook": "Closed notebooks",
   "widget": "Widget",
   "customEmoji": "Add custom emoji",

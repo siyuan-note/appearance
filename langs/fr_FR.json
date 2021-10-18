@@ -81,7 +81,7 @@
   "syncMethod1": "Basé sur le protocole HTTPS (dans l'expérience, veuillez l'utiliser avec prudence)",
   "stateExcepted": "\uD83D\uDC94 État anormal",
   "rebuildIndex": "Reconstruire l'index",
-  "rebuildIndexTip": "Une erreur a été détectée, veuillez choisir l'opération suivante pour réparer",
+  "rebuildIndexTip": "Une erreur d'exécution du système a été trouvée, veuillez choisir de quitter ou de reconstruire l'index pour réparation",
   "closeNotebook": "Carnets fermés",
   "widget": "Widget",
   "customEmoji": "Ajouter un emoji personnalisé",
