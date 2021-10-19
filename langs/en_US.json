@@ -472,7 +472,7 @@
   "min": "Min",
   "restore": "Restore",
   "max": "Max",
-  "md1": "Automatically insert spaces between Chinese and Western (English, Arabic numerals and symbols, etc.). Please note that the spaces inserted by this function are real spaces, and the existing data will be modified after enabling.",
+  "md1": "Automatically insert spaces between Chinese and Western (English, Arabic numerals and symbols, etc.). Please note that the spaces inserted by this function are real spaces, and the existing data will be modified after enabling",
   "md2": "Code block ligature",
   "md3": "After enabling, the code block will display the ligature",
   "md4": "Automatically indent the beginning of paragraphs to conform to traditional Chinese typesetting habits",

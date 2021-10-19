@@ -472,7 +472,7 @@
   "min": "Min",
   "restore": "Restaurer",
   "max": "Max",
-  "md1": "Insertion automatique d'espaces entre le chinois et l'occidental (anglais, chiffres et symboles arabes, etc.). Veuillez noter que les espaces insérés par cette fonction sont de vrais espaces, et les données existantes seront modifiées après ouverture.",
+  "md1": "Insertion automatique d'espaces entre le chinois et l'occidental (anglais, chiffres et symboles arabes, etc.). Veuillez noter que les espaces insérés par cette fonction sont de vrais espaces, et les données existantes seront modifiées après ouverture",
   "md2": "Ligature du bloc de codes",
   "md3": "Après l'activation, le bloc de code affichera la ligature",
   "md4": "indenter automatiquement le début des paragraphes pour se conformer aux habitudes de composition traditionnelles chinoises.",
