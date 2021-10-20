@@ -726,7 +726,7 @@
     "34": "Cette opération n'est pas supportée en mode lecture seule.",
     "35": "Recréation de l'index, veuillez patienter...",
     "36": "Échec de la mise à jour des carnets de notes du Cloud",
-    "37": "N'incluez pas de ponctuation ou d'espace dans le path",
+    "37": "N'incluez pas les caractères chinois, les signes de ponctuation et les espaces dans le chemin",
     "38": "L'édition a généré des blocs multiples, veuillez rééditer.",
     "39": "Le mot de passe E2EE ne peut pas être vide",
     "40": "Sous macOS, veuillez <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">installer Rsync</a>",

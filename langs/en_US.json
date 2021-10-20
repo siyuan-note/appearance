@@ -726,7 +726,7 @@
     "34": "This operation is not supported in read-only mode",
     "35": "Rebuilding index, please wait...",
     "36": "Update cloud notebooks failed",
-    "37": "Do not include punctuation or spaces in the save path",
+    "37": "Do not include Chinese characters, punctuation marks and spaces in the path",
     "38": "Editing has generated multiple blocks, please edit again",
     "39": "E2EE password can not be blank",
     "40": "On macOS, please <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">install Rsync</a>",
