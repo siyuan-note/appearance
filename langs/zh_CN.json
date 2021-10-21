@@ -79,7 +79,7 @@
   "syncMethod": "同步方式",
   "syncMethod0": "基于 SSH 协议",
   "syncMethod1": "基于 HTTPS 协议（实验中，请谨慎使用）",
-  "stateExcepted": "\uD83D\uDC94 状态异常",
+  "stateExcepted": "\uD83D\uDEA7 状态异常",
   "rebuildIndex": "重建索引",
   "rebuildIndexTip": "发现了一个系统运行时错误，请选择需要退出还是重建索引进行修复",
   "closeNotebook": "已关闭的笔记本",
