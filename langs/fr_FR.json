@@ -789,6 +789,7 @@
     "97": "Forcer la sortie",
     "98": "Ne définissez pas l'espace de travail sous le chemin d'installation, sinon les données seront perdues lors de la désinstallation ou de la mise à jour des programmes",
     "99": "Tout l'historique a été vidé",
-    "100": "Vider tout l'historique..."
+    "100": "Vider tout l'historique...",
+    "101": "N'incluez pas les caractères chinois, les signes de ponctuation et les espaces dans le chemin du répertoire de l'espace de travail, sinon la synchronisation ne peut pas être effectuée"
   }
 }
