@@ -726,7 +726,7 @@
     "34": "This operation is not supported in read-only mode",
     "35": "Rebuilding index, please wait...",
     "36": "Update cloud notebooks failed",
-    "37": "Do not include Chinese characters, punctuation marks and spaces in the path",
+    "37": "Do not include spaces and special symbols in the name of the cloud sync directory",
     "38": "Editing has generated multiple blocks, please edit again",
     "39": "E2EE password can not be blank",
     "40": "On macOS, please <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">install Rsync</a>",
@@ -790,6 +790,6 @@
     "98": "Do not set the workspace under the installation path, otherwise data will be lost when uninstalling or updating programs",
     "99": "All history has been emptied",
     "100": "Emptying all history...",
-    "101": "Do not include Chinese characters, punctuation marks and spaces in the directory path of the workspace, otherwise the synchronization cannot be performed"
+    "101": "Do not include Chinese characters and spaces in the directory path of the workspace"
   }
 }

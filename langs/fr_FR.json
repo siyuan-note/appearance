@@ -726,7 +726,7 @@
     "34": "Cette opération n'est pas supportée en mode lecture seule.",
     "35": "Recréation de l'index, veuillez patienter...",
     "36": "Échec de la mise à jour des carnets de notes du Cloud",
-    "37": "N'incluez pas les caractères chinois, les signes de ponctuation et les espaces dans le chemin",
+    "37": "N'incluez pas d'espaces et de symboles spéciaux dans le nom du répertoire de synchronisation cloud",
     "38": "L'édition a généré des blocs multiples, veuillez rééditer.",
     "39": "Le mot de passe E2EE ne peut pas être vide",
     "40": "Sous macOS, veuillez <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">installer Rsync</a>",
@@ -790,6 +790,6 @@
     "98": "Ne définissez pas l'espace de travail sous le chemin d'installation, sinon les données seront perdues lors de la désinstallation ou de la mise à jour des programmes",
     "99": "Tout l'historique a été vidé",
     "100": "Vider tout l'historique...",
-    "101": "N'incluez pas les caractères chinois, les signes de ponctuation et les espaces dans le chemin du répertoire de l'espace de travail, sinon la synchronisation ne peut pas être effectuée"
+    "101": "Ne pas inclure de caractères chinois et d'espaces dans le chemin du répertoire de l'espace de travail"
   }
 }
