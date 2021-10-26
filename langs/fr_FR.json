@@ -1,4 +1,6 @@
 {
+  "previousStep": "Etape précédente",
+  "nextStep": "Etape suivante",
   "includeBlock": "Inclure les blocs de conteneurs",
   "showHideBg": "Afficher/Masquer l'arrière-plan",
   "directConnection": "Connexion directe",
