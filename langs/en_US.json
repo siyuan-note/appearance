@@ -704,7 +704,7 @@
     "8": "Check update failed",
     "9": "A new version is available, please browse the release announcement %s",
     "10": "Is the latest version",
-    "11": "Please configure the end-to-end encryption password in Settings - Cloud",
+    "11": "Please set the end-to-end encryption password first",
     "12": "Query asset failed",
     "13": "Cannot create a file starting with .",
     "14": "Export failed: %s",

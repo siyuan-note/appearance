@@ -704,7 +704,7 @@
     "8": "La vérification de la mise à jour a échoué",
     "9": "Une nouvelle version est disponible, veuillez consulter l'annonce de la version %s",
     "10": "C'est la dernière version",
-    "11": "Veuillez configurer le mot de passe de cryptage de bout en bout dans Paramètres - Cloud.",
+    "11": "Veuillez d'abord définir le mot de passe de cryptage de bout en bout",
     "12": "Échec de la requête asset",
     "13": "Impossible de créer un fichier commençant par .",
     "14": "L'exportation a échoué : %s",
