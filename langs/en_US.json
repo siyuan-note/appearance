@@ -782,9 +782,9 @@
     "86": "Please configure Settings - About - Access authorization code",
     "87": "Cannot move to this location",
     "88": "Data has been downloaded from the cloud twice in a row. In order to avoid data conflicts as much as possible, the application will be closed...",
-    "89": "Setting end-to-end encryption password...",
-    "90": "TODO",
-    "91": "TODO",
+    "89": "Local data will overwrite the data in the cloud sync directory <em>%s</em>",
+    "90": "Cloud synchronization directory <em>%s</em> data will overwrite local data",
+    "91": "The local data and the cloud synchronization directory <em>%s</em> have the same data",
     "92": "The end-to-end encryption password is set",
     "93": "Only numbers or letters are supported",
     "94": "Please turn off synchronization before modifying",
@@ -794,6 +794,7 @@
     "98": "Do not set the workspace under the installation path, otherwise data will be lost when uninstalling or updating programs",
     "99": "All history has been emptied",
     "100": "Emptying all history...",
-    "101": "Do not include Chinese characters and spaces in the directory path of the workspace"
+    "101": "Do not include Chinese characters and spaces in the directory path of the workspace",
+    "102": "Setting end-to-end encryption password..."
   }
 }

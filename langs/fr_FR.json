@@ -782,9 +782,9 @@
     "86": "Veuillez configurer Paramètres - A propos de - Code d'autorisation d'accès",
     "87": "Impossible de se déplacer vers cet endroit",
     "88": "Des données ont été téléchargées du Cloud deux fois de suite. Afin d'éviter au maximum les conflits de données, l'application sera fermée...",
-    "89": "Définition du mot de passe de cryptage de bout en bout...",
-    "90": "TODO",
-    "91": "TODO",
+    "89": "Les données locales écraseront les données du répertoire de synchronisation cloud <em>%s</em>",
+    "90": "Les données du répertoire de synchronisation cloud <em>%s</em> écraseront les données locales",
+    "91": "Les données locales et le répertoire de synchronisation cloud <em>%s</em> ont les mêmes données",
     "92": "Le mot de passe de cryptage de bout en bout est défini",
     "93": "Supporte uniquement les chiffres ou les lettres",
     "94": "Veuillez désactiver la synchronisation avant de modifier",
@@ -794,6 +794,7 @@
     "98": "Ne définissez pas l'espace de travail sous le chemin d'installation, sinon les données seront perdues lors de la désinstallation ou de la mise à jour des programmes",
     "99": "Tout l'historique a été vidé",
     "100": "Vider tout l'historique...",
-    "101": "Ne pas inclure de caractères chinois et d'espaces dans le chemin du répertoire de l'espace de travail"
+    "101": "Ne pas inclure de caractères chinois et d'espaces dans le chemin du répertoire de l'espace de travail",
+    "102": "Définition du mot de passe de cryptage de bout en bout..."
   }
 }
