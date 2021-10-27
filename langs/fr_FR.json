@@ -139,7 +139,7 @@
   "setPasswd": "Définir le mot de passe",
   "e2eePasswd": "Mot de passe de cryptage de bout en bout",
   "passwdSet": "Le mot de passe a été défini",
-  "e2eePasswdTip": "Ce mot de passe est utilisé pour la sauvegarde et la synchronisation chiffrées de bout en bout, veuillez le modifier soigneusement et mémoriser le mot de passe",
+  "e2eePasswdTip": "Ce mot de passe est utilisé pour la sauvegarde et la synchronisation chiffrées de bout en bout. Le même mot de passe doit être défini sur tous les appareils",
   "addAttr": "Ajouter",
   "addTag": "Ajouter Tag",
   "width": "Largeur",

@@ -139,7 +139,7 @@
   "setPasswd": "设置密码",
   "e2eePasswd": "端到端加密密码",
   "passwdSet": "密码已经设置",
-  "e2eePasswdTip": "该密码用于端到端加密备份和同步，请谨慎修改并牢记密码",
+  "e2eePasswdTip": "该密码用于端到端加密备份和同步，所有设备上必须设置相同的密码",
   "addAttr": "添加",
   "addTag": "添加标签",
   "width": "宽度",

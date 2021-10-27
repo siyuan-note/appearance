@@ -139,7 +139,7 @@
   "setPasswd": "Set it",
   "e2eePasswd": "End-to-end encryption password",
   "passwdSet": "Password has been set",
-  "e2eePasswdTip": "This password is used for end-to-end encrypted backup and synchronization, please modify it carefully and keep in mind the password",
+  "e2eePasswdTip": "This password is used for end-to-end encrypted backup and synchronization. The same password must be set on all devices",
   "addAttr": "Add",
   "addTag": "Add Tag",
   "width": "Width",
