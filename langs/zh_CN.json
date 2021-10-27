@@ -1,5 +1,6 @@
 {
   "previousStep": "上一步",
+  "nextStep": "下一步",
   "includeBlock": "包含容器块",
   "showHideBg": "显示/隐藏背景",
   "directConnection": "直接连接",
@@ -564,7 +565,6 @@
   "cancel": "取消",
   "confirm": "确定",
   "confirmDelete": "确定删除",
-  "confirmSelectCloudDir": "云端或者本地数据会被覆盖，请谨慎操作",
   "confirmDeleteCloudDir": "是否确定删除该云端同步目录？",
   "back": "返回上一层",
   "mount": "打开笔记本",

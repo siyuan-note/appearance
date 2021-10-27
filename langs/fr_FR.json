@@ -1,5 +1,6 @@
 {
   "previousStep": "Etape précédente",
+  "nextStep": "Etape suivante",
   "includeBlock": "Inclure les blocs de conteneurs",
   "showHideBg": "Afficher/Masquer l'arrière-plan",
   "directConnection": "Connexion directe",
@@ -564,7 +565,6 @@
   "cancel": "Annuler",
   "confirm": "Confirmer",
   "confirmDelete": "Supprimer",
-  "confirmSelectCloudDir": "Les données locales ou du Cloud seront écrasées, veuillez faire preuve de prudence.",
   "confirmDeleteCloudDir": "Vous êtes sûr de vouloir supprimer le répertoire du sync cloud ?",
   "back": "Retour",
   "mount": "Ouvrir le carnet de notes",

@@ -1,5 +1,6 @@
 {
   "previousStep": "Previous Step",
+  "nextStep":"Next Step",
   "includeBlock": "Include container blocks",
   "showHideBg": "Show/Hide Background",
   "directConnection": "Direct connection",
@@ -564,7 +565,6 @@
   "cancel": "Cancel",
   "confirm": "Confirm",
   "confirmDelete": "Delete",
-  "confirmSelectCloudDir": "Cloud or local data will be overwritten, please exercise caution",
   "confirmDeleteCloudDir": "Are you sure you want to delete the cloud sync directory?",
   "back": "Back",
   "mount": "Open Notebook",
