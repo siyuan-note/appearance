@@ -553,7 +553,7 @@
   "cancel": "取消",
   "confirm": "确定",
   "confirmDelete": "确定删除",
-  "confirmDeleteCloudDir": "是否确定删除该云端同步目录？",
+  "confirmDeleteCloudDir": "确定删除云端同步目录",
   "back": "返回上一层",
   "mount": "打开笔记本",
   "newNotebook": "新建笔记本",

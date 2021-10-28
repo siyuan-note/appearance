@@ -553,7 +553,7 @@
   "cancel": "Annuler",
   "confirm": "Confirmer",
   "confirmDelete": "Supprimer",
-  "confirmDeleteCloudDir": "Vous êtes sûr de vouloir supprimer le répertoire du sync cloud ?",
+  "confirmDeleteCloudDir": "Vous êtes sûr de vouloir supprimer le répertoire du sync cloud",
   "back": "Retour",
   "mount": "Ouvrir le carnet de notes",
   "newNotebook": "Nouveau carnet de notes",
