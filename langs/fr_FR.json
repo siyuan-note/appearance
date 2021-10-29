@@ -708,7 +708,7 @@
     "25": "Le nom de l'attribut ne supporte que les lettres et les chiffres anglais.",
     "26": "La génération de la clé d'authentification a échoué",
     "27": "Veuillez régénérer les données de sauvegarde, veuillez ne pas écrire de nouvelles données pendant la génération.",
-    "28": "Le mot de passe est incorrect. Veuillez configurer le mot de passe de cryptage de bout en bout dans Paramètres - Cloud et assurez-vous que les mots de passe configurés sur tous les appareils sont cohérents.",
+    "28": "Le mot de passe de cryptage de bout en bout est incorrect et les données synchronisées ne peuvent pas être décryptées",
     "29": "Cette fonctionnalité nécessite <a target='_blank' href='https://b3log.org/siyuan/pricing.html'>un abonnement payant</a>",
     "30": "Impossible d'obtenir des informations sur la sauvegarde dans le Cloud.",
     "31": "L'authentification de la sécurité du compte a échoué, veuillez vous reconnecter",
