@@ -79,7 +79,7 @@
   "syncInterval0": "自动",
   "syncInterval": "同步间隔",
   "syncMethod": "同步方式",
-  "syncMethod0": "基于 SSH 协议",
+  "syncMethod0": "基于 SSH 协议（建议使用）",
   "syncMethod1": "基于 HTTPS 协议（实验中，请谨慎使用）",
   "stateExcepted": "\uD83D\uDEA7 状态异常",
   "rebuildIndex": "重建索引",

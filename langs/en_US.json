@@ -79,7 +79,7 @@
   "syncInterval0": "Auto",
   "syncInterval": "Sync interval",
   "syncMethod": "Sync method",
-  "syncMethod0": "Based on SSH protocol",
+  "syncMethod0": "Based on SSH protocol (recommended)",
   "syncMethod1": "Based on HTTPS protocol (in the experiment, please use it with caution)",
   "stateExcepted": "\uD83D\uDEA7 Abnormal state",
   "rebuildIndex": "Rebuild Index",
