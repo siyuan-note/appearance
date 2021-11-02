@@ -732,7 +732,7 @@
     "49": "Please specify the daily note save path in the Notebook Settings",
     "50": "Converting Wikilink and tag syntax, [%d] documents to be processed",
     "51": "[%d] documents have been converted, [%d] documents remaining to be processed",
-    "52": "Every time you open the user guide notebook data will be reset, so please do not save important data in it",
+    "52": "Every time you open the user guide notebook data will be reset, so please do not save any data in it",
     "53": "The index of [%d] documents has been completed, and [%d] documents remain to be processed",
     "54": "Indexing references, [%d] documents to be processed",
     "55": "[%d] documents have been indexed and referenced, and [%d] documents remain to be processed",

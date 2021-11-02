@@ -732,7 +732,7 @@
     "49": "Veuillez spécifier le chemin d'enregistrement des notes quotidiennes dans les paramètres du carnet de notes.",
     "50": "Conversion de la syntaxe des Wikilinks et des balises, [%d] documents à traiter",
     "51": "[%d] documents ont été convertis, [%d] documents restent à traiter.",
-    "52": "Chaque fois que vous ouvrez le guide de l'utilisateur, les données du notebook seront réinitialisées, veuillez donc ne pas y enregistrer de données importantes.",
+    "52": "Chaque fois que vous ouvrez le guide de l'utilisateur, les données du notebook seront réinitialisées, veuillez donc ne pas y enregistrer de données.",
     "53": "L'indexation de [%d] documents est terminée, et [%d] documents restent à traiter.",
     "54": "Références d'indexation, [%d] documents à traiter",
     "55": "[%d] documents ont été indexés et référencés, et [%d] documents restent à traiter.",
