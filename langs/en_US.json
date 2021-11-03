@@ -1,4 +1,8 @@
 {
+  "refPopover": "Open the ref block by popover",
+  "refRight": "Open the ref block on the right",
+  "refBottom": "Open the ref block on the bottom",
+  "refTab": "Open the ref block in a new tab",
   "previousStep": "Previous Step",
   "nextStep":"Next Step",
   "includeBlock": "Include container blocks",

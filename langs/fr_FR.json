@@ -1,4 +1,8 @@
 {
+  "refPopover": "Utiliser la fenêtre flottante pour ouvrir la référence",
+  "refRight": "Ouvrir le bloc de référence à droite",
+  "refBottom": "Ouvrir le bloc de référence dans la goutte inférieure",
+  "refTab": "Ouvrir le bloc de référence dans un nouvel onglet",
   "previousStep": "Etape précédente",
   "nextStep": "Etape suivante",
   "includeBlock": "Inclure les blocs de conteneurs",
