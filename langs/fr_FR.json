@@ -782,6 +782,9 @@
     "99": "Tout l'historique a été vidé",
     "100": "Vider tout l'historique...",
     "101": "Ne pas inclure de caractères chinois et d'espaces dans le chemin du répertoire de l'espace de travail",
-    "102": "Définition du mot de passe de cryptage de bout en bout..."
+    "102": "Définition du mot de passe de cryptage de bout en bout...",
+    "103": "[%d] fichiers de données ont été téléchargés, il reste à télécharger [%d]",
+    "104": "[%d] fichiers de données ont été téléchargés, et [%d] reste à télécharger",
+    "105": "La synchronisation est terminée"
   }
 }

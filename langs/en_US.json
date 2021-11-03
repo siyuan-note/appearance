@@ -782,6 +782,9 @@
     "99": "All history has been emptied",
     "100": "Emptying all history...",
     "101": "Do not include Chinese characters and spaces in the directory path of the workspace",
-    "102": "Setting end-to-end encryption password..."
+    "102": "Setting end-to-end encryption password...",
+    "103": "[%d] data files have been downloaded, and [%d] remaining to be downloaded",
+    "104": "[%d] data files have been uploaded, and [%d] remaining to be uploaded",
+    "105": "Synchronization has been completed"
   }
 }
