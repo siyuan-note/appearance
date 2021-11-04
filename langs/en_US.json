@@ -789,6 +789,7 @@
     "102": "Setting end-to-end encryption password...",
     "103": "[%d] data files have been downloaded, and [%d] remaining to be downloaded",
     "104": "[%d] data files have been uploaded, and [%d] remaining to be uploaded",
-    "105": "Synchronization has been completed"
+    "105": "Synchronization has been completed",
+    "106": "Data download has been completed and decryption is in progress..."
   }
 }
