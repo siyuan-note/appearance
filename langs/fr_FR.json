@@ -720,7 +720,7 @@
     "33": "Autorisations insuffisantes pour lire et écrire des fichiers ou accéder au réseau, veuillez vérifier les autorisations du dossier de l'espace de travail et les paramètres du logiciel anti-virus/pare-feu. Si vous avez déjà exécuté SiYuan en tant qu'administrateur, envisagez de passer à un nouveau répertoire d'espace de travail et ne l'exécutez plus en tant qu'administrateur à l'avenir (le répertoire d'espace de travail actuel peut ne plus être accessible aux utilisateurs ordinaires) ;",
     "34": "Cette opération n'est pas supportée en mode lecture seule.",
     "35": "Recréation de l'index, veuillez patienter...",
-    "36": "TODO",
+    "36": "Veuillez vérifier la mise à jour de la version dans l'App Store",
     "37": "N'incluez pas d'espaces et de symboles spéciaux dans le nom du répertoire de synchronisation cloud",
     "38": "L'édition a généré des blocs multiples, veuillez rééditer.",
     "39": "Le mot de passe E2EE ne peut pas être vide",
