@@ -113,7 +113,7 @@
   "cloudIntro11": "One-click to copy the document to the Wechat MP, Zhihu, Yuque etc. platforms",
   "selectAll": "Select all",
   "reposTip": "The name of the cloud synchronization directory corresponding to the current workspace, which can be selected on other devices after creation on the main device",
-  "syncTip": "The synchronization function can only be activated after adding/selecting the cloud synchronization list",
+  "syncTip": "The synchronization function can only be activated after adding/selecting the cloud synchronization directory",
   "stickOpen": "Keep all opened",
   "cloud": "Cloud",
   "setEmojiTip": "Please go to [Settings - Appearance to add emoji]",
