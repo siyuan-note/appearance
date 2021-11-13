@@ -758,7 +758,7 @@
     "70": "La copie du carnet de notes [%s] du fichier [%s] a échoué : %s",
     "71": "L'insertion du fichier asset a échoué, veuillez rouvrir le document.",
     "72": "Le contenu a été copié dans le presse-papiers du système, veuillez vous rendre sur SiYuan pour le coller.",
-    "73": "L'écriture du cahier de notes [%s] du fichier [%s] a échoué : %s",
+    "73": "Impossible d’écrire dans le fichier de données [%s] : %s",
     "74": "Le kernel n'a pas été complètement démarré [%d%%], veuillez réessayer plus tard.",
     "75": "Impossible de verrouiller le fichier [%s]",
     "76": "Le fichier de données a été verrouillé par un autre programme. (Si un disque de synchronisation tiers est utilisé, veuillez vérifier le statut de synchronisation).",
