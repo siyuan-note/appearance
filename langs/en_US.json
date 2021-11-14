@@ -773,7 +773,7 @@
     "85": "The file is occupied by other programs, <a href=\"https://ld246.com/article/1626537583158\" target=\"_blank\">Do not use the sync disk at the same time while SiYuan is running, otherwise it may cause data corruption</a>",
     "86": "Please configure [Settings - About - Access authorization code]",
     "87": "Cannot move to this location",
-    "88": "Data has been downloaded from the cloud twice in a row. In order to avoid data conflicts as much as possible, the application will be closed...",
+    "88": "TODO",
     "89": "Local data will overwrite the data in the cloud sync directory <em>%s</em>",
     "90": "Cloud synchronization directory <em>%s</em> data will overwrite local data",
     "91": "The local data and the cloud synchronization directory <em>%s</em> have the same data",

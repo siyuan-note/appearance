@@ -773,7 +773,7 @@
     "85": "Le fichier est occupé par d'autres programmes, <a href=\"https://ld246.com/article/1626537583158\" target=\"_blank\">Ne pas utiliser le disque de synchronisation en même temps que SiYuan est en cours d'exécution, sinon cela peut entraîner une corruption des données</a>.",
     "86": "Veuillez configurer [Paramètres - A propos de - Code d'autorisation d'accès]",
     "87": "Impossible de se déplacer vers cet endroit",
-    "88": "Des données ont été téléchargées du Cloud deux fois de suite. Afin d'éviter au maximum les conflits de données, l'application sera fermée...",
+    "88": "TODO",
     "89": "Les données locales écraseront les données du répertoire de synchronisation cloud <em>%s</em>",
     "90": "Les données du répertoire de synchronisation cloud <em>%s</em> écraseront les données locales",
     "91": "Les données locales et le répertoire de synchronisation cloud <em>%s</em> ont les mêmes données",
