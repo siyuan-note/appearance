@@ -52,6 +52,7 @@
   "thumbPageTitle": "Page {{page}}",
   "loading": "Loading…",
   "toggleSidebarNotification2Title": "Toggle Sidebar (document contains outline/attachments/layers)",
+  "toggleSidebarTitle": "Toggle Sidebar",
   "loadingError": "An error occurred while loading the PDF.",
   "invalidFileError": "Invalid or corrupted PDF file.",
   "missingFileError": "Missing PDF file.",

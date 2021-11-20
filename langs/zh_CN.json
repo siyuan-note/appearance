@@ -52,6 +52,7 @@
   "thumbPageTitle": "第 {{page}} 页",
   "loading": "正在载入…",
   "toggleSidebarNotification2Title": "切换侧栏（文档所含的大纲/附件/图层）",
+  "toggleSidebarTitle": "切换侧栏",
   "loadingError": "载入 PDF 时发生错误。",
   "invalidFileError": "无效或损坏的 PDF 文件。",
   "missingFileError": "缺少 PDF 文件。",

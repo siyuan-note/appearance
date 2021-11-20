@@ -52,6 +52,7 @@
   "thumbPageTitle": "Page {{page}}",
   "loading": "Chargement…",
   "toggleSidebarNotification2Title": "Afficher/Masquer le panneau latéral (le document contient des signets/pièces jointes/calques)",
+  "toggleSidebarTitle": "Afficher/Masquer le panneau latéral",
   "loadingError": "Une erreur s’est produite lors du chargement du fichier PDF.",
   "invalidFileError": "Fichier PDF invalide ou corrompu.",
   "missingFileError": "Fichier PDF manquant.",
