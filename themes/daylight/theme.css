@@ -133,6 +133,7 @@
     --b3-protyle-inline-blockref-color: #660e7a;
 
     /* PDF */
+    --b3-pdf-selection: #d0e9c8;
     --b3-pdf-sidebar-width: 200px;
     --b3-pdf-offset: 0;
     --b3-pdf-background1: var(--b3-theme-error);
