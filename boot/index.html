@@ -93,7 +93,7 @@
     'linear-gradient(-225deg, #5271C4 0%, #B19FFF 48%, #ECA1FE 100%)',
     'linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%)',
     'linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%)',
-    'linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%)'
+    'linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%)',
   ]
   const sleep = (ms) => {
     return new Promise(resolve => setTimeout(resolve, ms))
@@ -101,7 +101,7 @@
   (async () => {
     document.getElementById('bg').style.backgroundImage = bgs[(new Date()).getDate()]
     document.getElementById('image').style.backgroundImage = `url(images/boot${(new Date()).getDate()}.svg)`
-    document.getElementById('details').textContent = "Booting..."
+    document.getElementById('details').textContent = 'Booting...'
     let progressing = false
     while (!progressing) {
       try {
@@ -111,6 +111,9 @@
         document.getElementById('details').textContent = progressData.data.details
         if (progressData.data.progress >= 100) {
           progressing = true
+          if (navigator.userAgent.indexOf('b3log.org') === -1) {
+            window.location.href = 'http://127.0.0.1:6806'
+          }
         } else {
           await sleep(100)
         }
