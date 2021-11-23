@@ -111,8 +111,8 @@
         document.getElementById('details').textContent = progressData.data.details
         if (progressData.data.progress >= 100) {
           progressing = true
-          if (navigator.userAgent.indexOf('b3log.org') === -1) {
-            window.location.href = 'http://127.0.0.1:6806'
+          if (navigator.userAgent.indexOf('Electron') === -1) {
+            redirect('http://127.0.0.1:6806')
           }
         } else {
           await sleep(100)
@@ -122,6 +122,15 @@
       }
     }
   })()
+
+  function redirect(uri) {
+    console.log("redirect [" + navigator.userAgent + "]")
+    if (navigator.userAgent.match(/Android/i))
+      document.location = uri;
+    else
+      window.location.replace(uri);
+  }
+
 </script>
 </body>
 </html>
