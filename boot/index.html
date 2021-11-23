@@ -2,6 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
     <style>
         html {
             overflow: hidden;
@@ -98,6 +99,14 @@
   const sleep = (ms) => {
     return new Promise(resolve => setTimeout(resolve, ms))
   }
+  const redirect = () => {
+    const uri = 'http://127.0.0.1:6806'
+    console.log("redirect [" + navigator.userAgent + "]")
+    if (navigator.userAgent.match(/Android/i))
+      document.location = uri;
+    else
+      window.location.replace(uri);
+  }
   (async () => {
     document.getElementById('bg').style.backgroundImage = bgs[(new Date()).getDate()]
     document.getElementById('image').style.backgroundImage = `url(images/boot${(new Date()).getDate()}.svg)`
@@ -112,7 +121,7 @@
         if (progressData.data.progress >= 100) {
           progressing = true
           if (navigator.userAgent.indexOf('Electron') === -1) {
-            redirect('http://127.0.0.1:6806')
+            redirect()
           }
         } else {
           await sleep(100)
@@ -122,14 +131,6 @@
       }
     }
   })()
-
-  function redirect(uri) {
-    console.log("redirect [" + navigator.userAgent + "]")
-    if (navigator.userAgent.match(/Android/i))
-      document.location = uri;
-    else
-      window.location.replace(uri);
-  }
 
 </script>
 </body>
