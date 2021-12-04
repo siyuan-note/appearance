@@ -731,7 +731,7 @@
     "47": "Uninstall failed: %s",
     "48": "Only list the first [%d] sub-documents, if you need to adjust, please modify [Settings - Doc tree - Maximum number to list]",
     "49": "Please specify the daily note save path in the Notebook Settings",
-    "50": "Resolving references",
+    "50": "Resolving reference [%s]",
     "51": "Cache content block [%d]",
     "52": "Every time you open the user guide notebook data will be reset, so please do not save any data in it",
     "53": "The index of [%d] documents has been completed, and [%d] documents remain to be processed",
