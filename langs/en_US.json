@@ -744,7 +744,7 @@
     "62": "The recovery is complete, the application is about to be closed, please restart later...",
     "63": "Recovering, please wait...",
     "64": "There are [%d] files in total, it will take some time to index, please wait...",
-    "65": "TODO",
+    "65": "Creating document, please try again later",
     "66": "Data file [%s] created",
     "67": "Uploaded at %s, downloaded at %s",
     "68": "Downloading, please wait...",

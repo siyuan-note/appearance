@@ -744,7 +744,7 @@
     "62": "La récupération est terminée, l'application est sur le point d'être fermée, veuillez la relancer plus tard...",
     "63": "Récupération, veuillez patienter...",
     "64": "Il y a [%d] fichiers au total, l'indexation prendra un certain temps, veuillez patienter...",
-    "65": "TODO",
+    "65": "Création du document, veuillez réessayer plus tard",
     "66": "Fichier de données [%s] créé",
     "67": "Transféré à %s, téléchargé à %s",
     "68": "En cours de téléchargement, veuillez patienter...",
