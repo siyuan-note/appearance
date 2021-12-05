@@ -575,8 +575,6 @@
   "about6": "Configuré comme mot de passe d'authentification d'accès, laisser vide pour désactiver l'authentification.",
   "about7": "Répertoire de l'espace de travail",
   "about8": "L'espace de travail est utilisé pour sauvegarder les données et la configuration. L'application sera fermée automatiquement après modification, veuillez la redémarrer manuellement.",
-  "about9": "Priorité à l'utilisation de la base de données existante au démarrage.",
-  "about10": "Après l'activation, la vitesse de démarrage sera considérablement améliorée dans le cas d'une grande quantité de données.",
   "about11": "Service de réseau",
   "about12": "Après l'activation, les autres appareils du même réseau local seront autorisés à accéder. L'application sera fermée automatiquement après modification, veuillez la redémarrer manuellement.",
   "about13": "API token",
