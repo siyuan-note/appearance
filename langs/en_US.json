@@ -479,7 +479,7 @@
   "md31": "Code block wraps",
   "md32": "After enabling, the content in the code block will wrap automatically",
   "md33": "Virtual Reference",
-  "md34": "After enabling, it will automatically identify the possible reference relationship according to the related naming, alias and text of the existing block ref",
+  "md34": "After enabling, it will automatically identify the possible reference relationship according to the name, alias and anchor text of the existing block ref",
   "md35": "Virtual Reference keyword exclusion list",
   "md36": "Use the English comma <code>,</code> to separate, the comma itself can be escaped by <code>\\,</code>",
   "md37": "The maximum length of block ref dynamic anchor text",

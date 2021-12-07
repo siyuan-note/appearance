@@ -479,7 +479,7 @@
   "md31": "Saut de ligne du bloc de code",
   "md32": "Après l'activation, le contenu du bloc de code sera automatiquement  Saut de ligne",
   "md33": "Référence virtuelle",
-  "md34": "Après l'avoir activé, il identifiera automatiquement la relation de référence possible en fonction de la dénomination, de l'alias et du texte de la référence du bloc existant.",
+  "md34": "Après ouverture, il identifiera automatiquement les relations de référence possibles en fonction du nom, de l'alias et du texte d'ancrage des guillemets de bloc existants",
   "md35": "Liste d'exclusion des mots-clés de la référence virtuelle",
   "md36": "Utiliser la virgule anglaise <code>,</code> pour séparer, la virgule elle-même peut être échappée par  <code>\\,</code>",
   "md37": "La longueur maximale du texte d'ancrage dynamique de référence de bloc",
