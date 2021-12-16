@@ -788,6 +788,7 @@
     "104": "[%d] fichiers de données ont été téléchargés, et [%d] reste à télécharger",
     "105": "La synchronisation est terminée",
     "106": "Le téléchargement des données est terminé et le décryptage est en cours...",
-    "107": "Déplacement du document [%s]"
+    "107": "Déplacement du document [%s]",
+    "108": "Nettoyage des index obsolètes..."
   }
 }

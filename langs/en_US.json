@@ -788,6 +788,7 @@
     "104": "[%d] data files have been uploaded, and [%d] remaining to be uploaded",
     "105": "Synchronization has been completed",
     "106": "Data download has been completed and decryption is in progress...",
-    "107": "Moving document [%s]"
+    "107": "Moving document [%s]",
+    "108": "Cleaning obsolete indexes..."
   }
 }
