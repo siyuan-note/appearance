@@ -743,7 +743,7 @@
     "59": "Failed to set sync ignore list",
     "60": "Failed to get the update package: %s",
     "61": "Uploading, please wait...",
-    "62": "The recovery is complete, the application is about to be closed, please restart later...",
+    "62": "The recovery is complete, and the index will be rebuilt...",
     "63": "Recovering, please wait...",
     "64": "There are [%d] files in total, it will take some time to index, please wait...",
     "65": "Creating document, please try again later",

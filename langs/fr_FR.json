@@ -743,7 +743,7 @@
     "59": "Échec de la définition de la liste des ignores de synchronisation",
     "60": "Échec de la récupération du paquet de mise à jour : %s",
     "61": "En cours de transfert, veuillez patienter...",
-    "62": "La récupération est terminée, l'application est sur le point d'être fermée, veuillez la relancer plus tard...",
+    "62": "La récupération est terminée, et l'index sera reconstruit...",
     "63": "Récupération, veuillez patienter...",
     "64": "Il y a [%d] fichiers au total, l'indexation prendra un certain temps, veuillez patienter...",
     "65": "Création du document, veuillez réessayer plus tard",
