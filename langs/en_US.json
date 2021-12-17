@@ -576,7 +576,7 @@
   "about5": "Access Authorization Code",
   "about6": "After configuration, it will be used as the access authentication password, leave it blank to close the authentication",
   "about7": "Workspace dir",
-  "about8": "The workspace is used to save data and configuration. The application will be closed automatically after modification, please restart manually",
+  "about8": "After the workspace is switched, the data in the current workspace will not be copied to the target workspace<br>If you need to copy data, please manually copy the current workspace <code>data</code> folder on the file system to the target workspace<br>The application will be closed automatically after modification, please restart manually",
   "about11": "Network serving",
   "about12": "After enabling, other devices in the same LAN will be allowed to access. The application will be closed automatically after modification, please restart manually",
   "about13": "API token",
