@@ -1,4 +1,5 @@
 {
+  "uninstallTip": "當前正在使用中，需切換後才能進行卸載",
   "safeQuit": "退出應用",
   "anchor": "錨點",
   "showMore": "顯示更多",
