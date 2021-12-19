@@ -768,7 +768,7 @@
     "82": "Synced at %s",
     "83": "The access authorization code is incorrect",
     "84": "The metadata used for synchronization has been damaged, please refer to <a href=\"https://ld246.com/article/1627822637525\" target=\"_blank\">here</a> to resolve",
-    "85": "The file is occupied by other programs, <a href=\"https://ld246.com/article/1626537583158\" target=\"_blank\">Do not use the sync disk at the same time while SiYuan is running, otherwise it may cause data corruption</a>",
+    "85": "The file is occupied by other programs. Do not use the system file manager to open the workspace folder during operation; do not use a third-party real-time synchronization disk and check whether the workspace folder has write permissions",
     "86": "Please configure [Settings - About - Access authorization code]",
     "87": "Cannot move to this location",
     "88": "Finished parsing [%d] data files, remaining to be processed [%d]",

@@ -768,7 +768,7 @@
     "82": "Synchronisé à %s",
     "83": "Le code d'autorisation d'accès est incorrect",
     "84": "Les métadonnées utilisées pour la synchronisation ont été endommagées, veuillez vous référer à <a href=\"https://ld246.com/article/1627822637525\" target=\"_blank\">ici</a> pour les résoudre.",
-    "85": "Le fichier est occupé par d'autres programmes, <a href=\"https://ld246.com/article/1626537583158\" target=\"_blank\">Ne pas utiliser le disque de synchronisation en même temps que SiYuan est en cours d'exécution, sinon cela peut entraîner une corruption des données</a>.",
+    "85": "Le fichier est occupé par d'autres programmes. N'utilisez pas le gestionnaire de fichiers système pour ouvrir le dossier de l'espace de travail pendant le fonctionnement ; n'utilisez pas de disque de synchronisation en temps réel tiers et vérifiez si le dossier de l'espace de travail dispose des autorisations d'écriture",
     "86": "Veuillez configurer [Paramètres - A propos de - Code d'autorisation d'accès]",
     "87": "Impossible de se déplacer vers cet endroit",
     "88": "Fin de l'analyse des fichiers de données [%d], restant à traiter [%d]",
