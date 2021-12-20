@@ -249,7 +249,7 @@
   "replaceAll": "Remplacer tout",
   "alias": "Alias",
   "exportTplSucc": "Le template a été exporté avec succès",
-  "exportTplTip": "Le template a le même nom, l'écraser ?",
+  "exportTplTip": "Les données existent déjà, devez-vous les écraser?",
   "globalSearch": "Recherche globaleh",
   "resetLayout1": "Réinitialiser disposition",
   "zoomIn": "Agrandir",

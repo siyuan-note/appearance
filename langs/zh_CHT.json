@@ -249,7 +249,7 @@
   "replaceAll": "全部替換",
   "alias": "別名",
   "exportTplSucc": "範本匯出成功",
-  "exportTplTip": "該範本已經存在，是否需要覆蓋？",
+  "exportTplTip": "該數據已經存在，是否需要覆蓋？",
   "globalSearch": "全域搜索",
   "resetLayout1": "重置佈局",
   "zoomIn": "放大",
