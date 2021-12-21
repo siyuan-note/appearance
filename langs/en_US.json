@@ -721,7 +721,7 @@
     "35": "Rebuilding index, please wait...",
     "36": "Please check the version update in the app store",
     "37": "Do not include spaces and special symbols in the name of the cloud sync directory",
-    "38": "TODO",
+    "38": "The number of mentioned keywords [%d] is too many, currently only supports up to [1024] keywords",
     "39": "E2EE password can not be blank",
     "40": "On macOS, please <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">install Rsync</a>",
     "41": "Upload completed",
