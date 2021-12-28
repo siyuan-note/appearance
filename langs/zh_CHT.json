@@ -106,7 +106,7 @@
   "lockScreen": "鎖定畫面",
   "cloudIntro1": "端到端加密資料同步",
   "cloudIntro2": "加密和解密過程完全在本地設備上進行",
-  "cloudIntro3": "加密演算法法為業界公認安全的 AES GCM",
+  "cloudIntro3": "加密演算法為業界公認安全的 AES GCM",
   "cloudIntro4": "使用者設置的密碼使用程式內置金鑰加密後存儲在本地",
   "cloudIntro5": "除非知道密碼或者暴力破解，否則不可能被解密",
   "cloudIntro6": "不限制設備數量和工作空間數量",
