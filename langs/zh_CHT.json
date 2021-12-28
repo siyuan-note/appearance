@@ -204,6 +204,7 @@
   "searchCaseSensitive1": "啟用後所有搜索相關功能將區分大小寫",
   "searchFilter": "類型過濾",
   "attrFilter": "屬性過濾",
+  "backlinkMentionFilter": "反向鏈接提及過濾",
   "toggleWin": "隱藏/顯示視窗",
   "customSort": "自訂排序",
   "downloadingUpdate": "正在下載更新包，請稍等...",
