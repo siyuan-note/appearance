@@ -1,4 +1,5 @@
 {
+  "docName": "文档名",
   "bootSyncFailed": "启动时同步数据失败",
   "use": "使用",
   "uninstallTip": "当前正在使用中，需切换后才能进行卸载",
@@ -205,6 +206,7 @@
   "searchFilter": "类型过滤",
   "attrFilter": "属性过滤",
   "backlinkMentionFilter": "反链提及过滤",
+  "virtualRefFilter": "虚拟引用过滤",
   "toggleWin": "隐藏/显示窗口",
   "customSort": "自定义排序",
   "downloadingUpdate": "正在下载更新包，请稍等...",
