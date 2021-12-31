@@ -157,3 +157,7 @@
 .pdf__resize {
     mix-blend-mode: screen;
 }
+
+.b3-text-filed::-webkit-calendar-picker-indicator {
+    filter: invert(1)
+}
