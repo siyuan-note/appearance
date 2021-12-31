@@ -1,4 +1,5 @@
 {
+  "wechatReminder": "Wechat Rappel",
   "notifyTime": "Notifier l'heure",
   "docName": "Nom du document",
   "bootSyncFailed": "Impossible de synchroniser les données au démarrage",
