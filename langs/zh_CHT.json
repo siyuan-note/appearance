@@ -1,4 +1,5 @@
 {
+  "reminderTip": "提醒時間不能小於當前時間",
   "wechatTip": "該內容塊將以明文形式發送到雲端，到期時通過微信公眾號模板消息進行推送",
   "notEmpty": "提醒時間不能為空",
   "experimentalFeature": "（⚗️ 該特性正處於試驗階段）",
