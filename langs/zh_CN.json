@@ -1,4 +1,5 @@
 {
+  "notifyTime": "提醒时间",
   "docName": "文档名",
   "bootSyncFailed": "启动时同步数据失败",
   "use": "使用",

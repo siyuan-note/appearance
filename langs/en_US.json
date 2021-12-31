@@ -1,4 +1,5 @@
 {
+  "notifyTime": "Notify Time",
   "docName": "Doc Name",
   "bootSyncFailed": "Failed to synchronize data at startup",
   "use": "Use",
