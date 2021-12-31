@@ -1,5 +1,5 @@
 {
-  "wechatTip": "該數據將以明文的方式上傳到服務器中",
+  "wechatTip": "該內容塊將以明文形式發送到雲端，到期時通過微信公眾號模板消息進行推送",
   "notEmpty": "提醒時間不能為空",
   "experimentalFeature": "（⚗️ 該特性正處於試驗階段）",
   "wechatReminder": "微信提醒",
