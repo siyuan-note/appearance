@@ -1,4 +1,6 @@
 {
+  "wechatTip": "The data will be uploaded to the server in clear text",
+  "notEmpty": "The reminder time cannot be empty",
   "experimentalFeature": "(⚗️ This feature is in the experimental stage)",
   "wechatReminder": "WeChat Reminder",
   "notifyTime": "Notify Time",

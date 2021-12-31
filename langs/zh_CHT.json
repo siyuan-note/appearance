@@ -1,4 +1,6 @@
 {
+  "wechatTip": "該數據將以明文的方式上傳到服務器中",
+  "notEmpty": "提醒時間不能為空",
   "experimentalFeature": "（⚗️ 該特性正處於試驗階段）",
   "wechatReminder": "微信提醒",
   "notifyTime": "提醒時間",

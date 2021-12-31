@@ -1,4 +1,6 @@
 {
+  "wechatTip": "Les données seront téléchargées sur le serveur en texte clair",
+  "notEmpty": "L'heure de rappel ne peut pas être vide",
   "experimentalFeature": "(⚗️ Cette fonctionnalité est au stade expérimental)",
   "wechatReminder": "Wechat Rappel",
   "notifyTime": "Notifier l'heure",
