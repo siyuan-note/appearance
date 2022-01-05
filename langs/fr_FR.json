@@ -726,7 +726,7 @@
     "30": "Impossible d'obtenir des informations sur la sauvegarde dans le Cloud.",
     "31": "L'authentification de la sécurité du compte a échoué, veuillez vous reconnecter",
     "32": "Échec de la suppression de carnet de notes du Cloud",
-    "33": "Autorisations insuffisantes pour lire et écrire des fichiers ou accéder au réseau, veuillez vérifier les autorisations du dossier de l'espace de travail et les paramètres du logiciel anti-virus/pare-feu. Si vous avez déjà exécuté SiYuan en tant qu'administrateur, envisagez de passer à un nouveau répertoire d'espace de travail et ne l'exécutez plus en tant qu'administrateur à l'avenir (le répertoire d'espace de travail actuel peut ne plus être accessible aux utilisateurs ordinaires) ;",
+    "33": "Autorisations insuffisantes pour lire et écrire des fichiers ou accéder au réseau, veuillez vérifier les autorisations du dossier de l'espace de travail et les paramètres du logiciel anti-virus/pare-feu. Si vous avez déjà exécuté SiYuan en tant qu'administrateur, envisagez de passer à un nouveau répertoire d'espace de travail et ne l'exécutez plus en tant qu'administrateur à l'avenir (le répertoire d'espace de travail actuel peut ne plus être accessible aux utilisateurs ordinaires) ",
     "34": "Cette opération n'est pas supportée en mode lecture seule.",
     "35": "Recréation de l'index, veuillez patienter...",
     "36": "Veuillez vérifier la mise à jour de la version dans l'App Store",

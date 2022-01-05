@@ -726,7 +726,7 @@
     "30": "Failed to obtain cloud backup info",
     "31": "Account authentication failed, please try again. If multiple retries still fail, please login again and try again",
     "32": "Failed to remove cloud notebook",
-    "33": "Insufficient permissions to read and write files or access to the network, please check the permissions of the workspace folder and the settings of the anti-virus software/firewall. If you have run SiYuan as an administrator before, please consider switching to a new workspace directory, and do not run it as an administrator in the future (the current workspace directory may no longer be accessible by ordinary users);",
+    "33": "Insufficient permissions to read and write files or access to the network, please check the permissions of the workspace folder and the settings of the anti-virus software/firewall. If you have run SiYuan as an administrator before, please consider switching to a new workspace directory, and do not run it as an administrator in the future (the current workspace directory may no longer be accessible by ordinary users)",
     "34": "This operation is not supported in read-only mode",
     "35": "Rebuilding index, please wait...",
     "36": "Please check the version update in the app store",
