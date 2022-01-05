@@ -733,7 +733,7 @@
     "37": "N'incluez pas d'espaces et de symboles spéciaux dans le nom du répertoire de synchronisation cloud",
     "38": "Le nombre de mots-clés mentionnés [%d] est trop élevé, ne prend actuellement en charge que jusqu'à [512] mots-clés",
     "39": "Le mot de passe E2EE ne peut pas être vide",
-    "40": "Sous macOS, veuillez <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">installer Rsync</a>",
+    "40": "TODO",
     "41": "Transfert complété",
     "42": "Le paramétrage est terminé, l'application se fermera automatiquement, merci de redémarrer plus tard...",
     "43": "Le support maximal de l'espace Cloud a été dépassé, et le transfert ne peut pas être poursuivi.",

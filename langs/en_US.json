@@ -733,7 +733,7 @@
     "37": "Do not include spaces and special symbols in the name of the cloud sync directory",
     "38": "The number of mentioned keywords [%d] is too many, currently only supports up to [512] keywords",
     "39": "E2EE password can not be blank",
-    "40": "On macOS, please <a target=\"_blank\" href=\"https://ld246.com/article/1622084568155\">install Rsync</a>",
+    "40": "TODO",
     "41": "Upload completed",
     "42": "The setting is complete, the application will be closed automatically, please restart later...",
     "43": "The maximum support of cloud space has been exceeded, and the upload cannot be continued",
