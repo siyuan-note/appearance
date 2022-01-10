@@ -1,4 +1,5 @@
 {
+  "defaultPassword": "Use built-in password",
   "reminderTip": "The reminder time cannot be less than the current time",
   "wechatTip": "The content block will be sent to the cloud in clear text, and pushed through the WeChat MP template message when it expires",
   "notEmpty": "The reminder time cannot be empty",
