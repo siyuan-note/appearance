@@ -162,7 +162,7 @@
   "emptyTip": "键入文字或 '/' 选择",
   "updatePath": "修改目录",
   "default": "默认",
-  "insertTitleBg": "添加题头图",
+  "titleBg": "题头图",
   "random": "随机",
   "darkMode": "暗黑模式",
   "downloadRecover1": "将云端备份下载并覆盖本地备份，然后从本地备份进行恢复",

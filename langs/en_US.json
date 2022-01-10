@@ -162,7 +162,7 @@
   "emptyTip": "Type text or '/' select",
   "updatePath": "Change dir",
   "default": "Default",
-  "insertTitleBg": "Add Cover",
+  "titleBg": "Cover",
   "random": "Random",
   "darkMode": "Dark mode",
   "downloadRecover1": "Download the cloud backup and overwrite the local backup, and then recover from the local backup",

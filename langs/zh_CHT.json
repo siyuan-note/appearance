@@ -162,7 +162,7 @@
   "emptyTip": "輸入文字或 '/' 選擇",
   "updatePath": "修改目錄",
   "default": "預設",
-  "insertTitleBg": "新增封面圖",
+  "titleBg": "封面圖",
   "random": "隨機",
   "darkMode": "深色模式",
   "downloadRecover1": "將雲端備份下載並覆蓋本地備份，然後從本地備份進行恢復",

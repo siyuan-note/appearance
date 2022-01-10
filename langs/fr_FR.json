@@ -162,7 +162,7 @@
   "emptyTip": "Tapez le texte ou sélectionnez '/'",
   "updatePath": "modifier le répertoire",
   "default": "Default",
-  "insertTitleBg": "Ajouter Couverture",
+  "titleBg": "Couverture",
   "random": "Random",
   "darkMode": "mode Sombre",
   "downloadRecover1": "Téléchargez la sauvegarde sur le nuage et remplacez la sauvegarde locale, puis restaurez à partir de la sauvegarde locale.",
