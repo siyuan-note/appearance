@@ -1,4 +1,5 @@
 {
+  "upload": "Télécharger",
   "defaultPasswordTip": "Après avoir utilisé le mot de passe généré automatiquement, les autres appareils doivent également utiliser le mot de passe généré automatiquement, sinon il ne peut pas être synchronisé",
   "customPassword": "mot de passe personnalisé",
   "defaultPassword": "Générer automatiquement un mot de passe",

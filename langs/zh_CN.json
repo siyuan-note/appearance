@@ -1,4 +1,5 @@
 {
+  "upload": "上传",
   "defaultPasswordTip": "使用自动生成密码方式后其他设备也都必须使用自动生成密码，否则无法同步",
   "customPassword": "自定义密码",
   "defaultPassword": "自动生成密码",

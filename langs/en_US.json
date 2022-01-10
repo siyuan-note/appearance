@@ -1,4 +1,5 @@
 {
+  "upload": "Upload",
   "defaultPasswordTip": "After using the auto-generated password, other devices must also use the auto-generated password, otherwise it cannot be synchronized",
   "customPassword": "Custom password",
   "defaultPassword": "Automatically generate password",
