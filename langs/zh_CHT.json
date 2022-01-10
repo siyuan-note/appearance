@@ -1,6 +1,6 @@
 {
   "customPassword": "使用自定義密碼",
-  "defaultPassword": "使用內置密碼",
+  "defaultPassword": "自動生成密碼",
   "reminderTip": "提醒時間不能小於當前時間",
   "wechatTip": "該內容塊將以明文形式發送到雲端，到期時通過微信公眾號模板消息進行推送",
   "notEmpty": "提醒時間不能為空",
