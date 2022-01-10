@@ -1,4 +1,5 @@
 {
+  "customPassword": "Utiliser un mot de passe personnalisé",
   "defaultPassword": "Utiliser le mot de passe intégré",
   "reminderTip": "The reminder time cannot be less than the current time",
   "wechatTip": "Le bloc de contenu sera envoyé au cloud en texte clair et transmis au message du modèle de compte officiel WeChat à son expiration.",
