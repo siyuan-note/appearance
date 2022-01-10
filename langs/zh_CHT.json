@@ -1,6 +1,6 @@
 {
   "upload": "上傳",
-  "defaultPasswordTip": "使用自動生成密碼後其他設備也都必須使用自動生成密碼，否則無法同步",
+  "defaultPasswordTip": "使用自動生成密碼後其他設備也都必須使用自動生成密碼",
   "customPassword": "自定義密碼",
   "defaultPassword": "自動生成密碼",
   "reminderTip": "提醒時間不能小於當前時間",
