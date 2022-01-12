@@ -793,13 +793,14 @@
     "98": "Ne définissez pas l'espace de travail sous le chemin d'installation, sinon les données seront perdues lors de la désinstallation ou de la mise à jour des programmes",
     "99": "Tout l'historique a été vidé",
     "100": "Vider tout l'historique...",
-    "101": "TODO",
+    "101": "Rappel de réglage terminé [%s]",
     "102": "Définition du mot de passe de cryptage de bout en bout...",
     "103": "[%d] fichiers de données ont été téléchargés, il reste à télécharger [%d]",
     "104": "[%d] fichiers de données ont été téléchargés, et [%d] reste à télécharger",
     "105": "Transmission réseau terminée",
     "106": "Le téléchargement des données est terminé et le décryptage est en cours...",
     "107": "Déplacement du document [%s]",
-    "108": "Nettoyage des index obsolètes..."
+    "108": "Nettoyage des index obsolètes...",
+    "109": "Supprimer le rappel terminé [%s]"
   }
 }

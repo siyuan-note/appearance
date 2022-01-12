@@ -793,13 +793,14 @@
     "98": "Do not set the workspace under the installation path, otherwise data will be lost when uninstalling or updating programs",
     "99": "All history has been emptied",
     "100": "Emptying all history...",
-    "101": "TODO",
+    "101": "Done setting reminder [%s]",
     "102": "Setting end-to-end encryption password...",
     "103": "[%d] data files have been downloaded, and [%d] remaining to be downloaded",
     "104": "[%d] data files have been uploaded, and [%d] remaining to be uploaded",
     "105": "Network transmission completed",
     "106": "Data download has been completed and decryption is in progress...",
     "107": "Moving document [%s]",
-    "108": "Cleaning obsolete indexes..."
+    "108": "Cleaning obsolete indexes...",
+    "109": "Remove reminder completed [%s]"
   }
 }
