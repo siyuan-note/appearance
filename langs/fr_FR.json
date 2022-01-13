@@ -1,7 +1,8 @@
 {
-  "landscape": "Aménagement paysager",
-  "margin": "Marge",
-  "pageScale": "Echelle de page",
+  "exportPDF0": "Taille de la page",
+  "exportPDF1": "Page paysage",
+  "exportPDF2": "Marges",
+  "exportPDF3": "Échelle de page",
   "upload": "Télécharger",
   "defaultPasswordTip": "Après avoir utilisé le mot de passe généré automatiquement, les autres appareils doivent également utiliser le mot de passe généré automatiquement",
   "customPassword": "mot de passe personnalisé",

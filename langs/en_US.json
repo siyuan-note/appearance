@@ -1,7 +1,8 @@
 {
-  "landscape": "Landscape layout",
-  "margin": "Margin",
-  "pageScale": "Page Scale",
+  "exportPDF0": "Page Size",
+  "exportPDF1": "Landscape page",
+  "exportPDF2": "Margins",
+  "exportPDF3": "Page Scale",
   "upload": "Upload",
   "defaultPasswordTip": "After using the auto-generated password, other devices must also use the auto-generated password",
   "customPassword": "Custom password",
