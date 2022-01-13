@@ -1,4 +1,7 @@
 {
+  "landscape": "Aménagement paysager",
+  "margin": "Marge",
+  "pageScale": "Echelle de page",
   "upload": "Télécharger",
   "defaultPasswordTip": "Après avoir utilisé le mot de passe généré automatiquement, les autres appareils doivent également utiliser le mot de passe généré automatiquement",
   "customPassword": "mot de passe personnalisé",

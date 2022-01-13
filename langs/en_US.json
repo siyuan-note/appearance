@@ -1,4 +1,7 @@
 {
+  "landscape": "Landscape layout",
+  "margin": "Margin",
+  "pageScale": "Page Scale",
   "upload": "Upload",
   "defaultPasswordTip": "After using the auto-generated password, other devices must also use the auto-generated password",
   "customPassword": "Custom password",

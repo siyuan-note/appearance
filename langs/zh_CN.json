@@ -1,4 +1,7 @@
 {
+  "landscape": "横向排版",
+  "margin": "边距",
+  "pageScale": "页面缩放",
   "upload": "上传",
   "defaultPasswordTip": "使用自动生成密码后其他设备也都必须使用自动生成密码",
   "customPassword": "自定义密码",
