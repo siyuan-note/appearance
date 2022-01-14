@@ -140,8 +140,6 @@
   "insertIframeURL": "插入 IFrame 链接",
   "context": "上下文",
   "dockTip": "\n单击 展开/最小化\n右键 调整位置",
-  "glow": "发光",
-  "multicolor": "彩色",
   "shadow": "投影",
   "hollow": "镂空",
   "attrValue1": "属性值留空则会自动删除该属性",

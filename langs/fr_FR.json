@@ -140,8 +140,6 @@
   "insertIframeURL": "Insérer lien IFrame",
   "context": "Context",
   "dockTip": "\nCliquer pour ouvrir/Minimiser\nClic droit Ajuster la position",
-  "glow": "Briller",
-  "multicolor": "Multicolore",
   "shadow": "Ombre",
   "hollow": "Hollow",
   "attrValue1": "Si vous laissez la valeur de l'attribut vide, l'attribut sera automatiquement supprimé",
