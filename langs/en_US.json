@@ -800,6 +800,7 @@
     "108": "Cleaning obsolete indexes...",
     "109": "Remove reminder completed [%s]",
     "110": "Renaming...",
-    "111": "Saving document [%s]..."
+    "111": "Saving document [%s]...",
+    "112": "Do not include Markdown syntax marker"
   }
 }

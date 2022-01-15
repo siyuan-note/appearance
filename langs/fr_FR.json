@@ -800,6 +800,7 @@
     "108": "Nettoyage des index obsolètes...",
     "109": "Supprimer le rappel terminé [%s]",
     "110": "Renommer...",
-    "111": "Enregistrement du document [%s]..."
+    "111": "Enregistrement du document [%s]...",
+    "112": "Ne pas inclure les balises de syntaxe Markdown"
   }
 }
