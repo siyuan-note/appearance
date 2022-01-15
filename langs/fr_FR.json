@@ -798,6 +798,8 @@
     "106": "Le téléchargement des données est terminé et le décryptage est en cours...",
     "107": "Déplacement du document [%s]",
     "108": "Nettoyage des index obsolètes...",
-    "109": "Supprimer le rappel terminé [%s]"
+    "109": "Supprimer le rappel terminé [%s]",
+    "110": "Renommer...",
+    "111": "Enregistrement du document [%s]..."
   }
 }

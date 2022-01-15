@@ -798,6 +798,8 @@
     "106": "Data download has been completed and decryption is in progress...",
     "107": "Moving document [%s]",
     "108": "Cleaning obsolete indexes...",
-    "109": "Remove reminder completed [%s]"
+    "109": "Remove reminder completed [%s]",
+    "110": "Renaming...",
+    "111": "Saving document [%s]..."
   }
 }
