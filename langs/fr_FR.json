@@ -801,6 +801,7 @@
     "109": "Supprimer le rappel terminé [%s]",
     "110": "Renommer...",
     "111": "Enregistrement du document [%s]...",
-    "112": "Ne pas inclure les balises de syntaxe Markdown"
+    "112": "Ne pas inclure les balises de syntaxe Markdown",
+    "113": "Fin de l'écriture des données..."
   }
 }
