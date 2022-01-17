@@ -802,6 +802,7 @@
     "110": "Renaming...",
     "111": "Saving document [%s]...",
     "112": "Do not include Markdown syntax marker",
-    "113": "Completing data writing..."
+    "113": "Completing data writing...",
+    "114": "Tag cannot be empty"
   }
 }
