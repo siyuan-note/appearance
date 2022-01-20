@@ -510,6 +510,8 @@
   "export16": "Veuillez remplir successivement le symbole figurant à gauche de l'étiquette et le symbole figurant à droite de l'étiquette dans le champ de saisie.",
   "export17": "Ajouter le titre du document",
   "export18": "Insérer le titre du document comme titre de premier niveau au début",
+  "export19": "Chemin vers l'exécutable Pandoc",
+  "export20": "L'exportation de fichiers Word .docx nécessite une conversion de format à l'aide de Pandoc",
   "blockRef": "Bloc Réf",
   "theme11": "Utiliser le thème en mode Clair",
   "theme12": "Utiliser le thème en mode sombre",
