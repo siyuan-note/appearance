@@ -512,7 +512,7 @@
   "export17": "Ajouter le titre du document",
   "export18": "Insérer le titre du document comme titre de premier niveau au début",
   "export19": "Chemin vers l'exécutable Pandoc",
-  "export20": "L'exportation de fichiers Word .docx nécessite une conversion de format à l'aide de Pandoc",
+  "export20": "L'exportation de fichiers Word .docx nécessite une conversion de format à l'aide de <a href=\"https://pandoc.org\" target=\"_blank\">Pandoc</a>",
   "blockRef": "Bloc Réf",
   "theme11": "Utiliser le thème en mode Clair",
   "theme12": "Utiliser le thème en mode sombre",

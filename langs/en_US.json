@@ -512,7 +512,7 @@
   "export17": "Add document title",
   "export18": "Insert document title as a heading 1 at the beginning",
   "export19": "Path to Pandoc executable",
-  "export20": "Exporting Word .docx files requires format conversion using Pandoc",
+  "export20": "Exporting Word .docx files requires format conversion using <a href=\"https://pandoc.org\" target=\"_blank\">Pandoc</a>",
   "blockRef": "Ref Block",
   "theme11": "Use theme in light mode",
   "theme12": "Use theme in dark mode",
