@@ -804,6 +804,7 @@
     "111": "Enregistrement du document [%s]...",
     "112": "Ne pas inclure les balises de syntaxe Markdown",
     "113": "Fin de l'écriture des données...",
-    "114": "La balise ne peut pas être vide"
+    "114": "La balise ne peut pas être vide",
+    "115": "Veuillez d'abord configurer [Paramètres - Exporter - Chemin de l'exécutable Pandoc]"
   }
 }
