@@ -201,7 +201,7 @@
   "moveToLeft": "向左移",
   "moveToRight": "向右移",
   "copyProtocol": "复制块超链接",
-  "uploadAssets2CDN": "上传资源文件到云端图床",
+  "uploadAssets2CDN": "上传资源文件到云端",
   "notSupport1": "不支持跨笔记本进行拖拽",
   "keymapTip": "快捷键修改后需要重新启动后才能生效",
   "searchLimit": "搜索结果显示数",
