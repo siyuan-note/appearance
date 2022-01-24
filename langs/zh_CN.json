@@ -492,7 +492,7 @@
   "md37": "块引动态锚文本最大长度",
   "md38": "不自定义块引锚文本时自动渲染锚文本的最大长度，默认为 <code>64</code> 个字符",
   "md39": "PlantUML 伺服地址",
-  "md40": "留空将恢复默认值 <code>https://www.plantuml.com/plantuml/</code>",
+  "md40": "留空将恢复默认值 <code>https://www.plantuml.com/plantuml/svg/~1</code>",
   "fileTree2": "在编辑器页签切换时文档树会自动选中当前的文档",
   "fileTree5": "块引新建文档存放位置",
   "fileTree6": "使用 <code>((</code> 时新建文档的存放路径（例如 /folder1/folder2/，不以 / 开头则使用当前文档相对路径）",
