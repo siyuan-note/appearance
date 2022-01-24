@@ -27,7 +27,7 @@
   "refBottom": "Open the ref block on the bottom",
   "refTab": "Open the ref block in a new tab",
   "previousStep": "Previous Step",
-  "nextStep":"Next Step",
+  "nextStep": "Next Step",
   "showHideBg": "Show/Hide Background",
   "directConnection": "Direct connection",
   "networkProxy": "Network Proxy",
@@ -505,6 +505,8 @@
   "fileTree15": "Template path (for example, <code>dailynote.md</code>, the file needs to be placed under the workspace/data/templates/)",
   "fileTree16": "Maximum number to list",
   "fileTree17": "If there are too many sub-documents, this restriction can be used to improve performance",
+  "fileTree18": "Allows creation of sub-documents deeper than 7 levels",
+  "fileTree19": "Some operating systems have technical limitations that may prevent manual copying of workspace data after creating sub-documents greater than 7 levels",
   "export11": "Content handling method of content ref block when exporting",
   "export12": "Content handling method of content embed block when exporting",
   "export13": "Anchor text wrapping symbol",
@@ -810,6 +812,7 @@
     "114": "Tag cannot be empty",
     "115": "Please configure [Settings - Export - Pandoc executable path] first",
     "116": "Processing, please wait...",
-    "117": "[%s] is not a valid Pandoc executable"
+    "117": "[%s] is not a valid Pandoc executable",
+    "118": "The current settings do not allow the creation of sub-documents under a document 7 levels deep"
   }
 }
