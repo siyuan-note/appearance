@@ -145,7 +145,7 @@
   "hollow": "Hollow",
   "attrValue1": "Si vous laissez la valeur de l'attribut vide, l'attribut sera automatiquement supprimé",
   "specifyPath": "Spécifier le chemin",
-  "changeE2EEPasswdTip": "L'espace de travail actuel utilise un mot de passe personnalisé, et le même mot de passe personnalisé doit être utilisé sur d'autres appareils pour déchiffrer les données. Si vous oubliez le mot de passe, vos données cloud seront définitivement perdues, alors assurez-vous de le conserver dans attention au mot de passe",
+  "changeE2EEPasswdTip": "L'espace de travail actuel utilise un mot de passe personnalisé, et le même mot de passe personnalisé doit être utilisé sur d'autres appareils pour déchiffrer les données. Si vous oubliez le mot de passe, les données du cloud seront définitivement perdues, alors assurez-vous de le conserver dans attention au mot de passe",
   "builtinE2EEPasswdTip": "L'espace de travail actuel utilise un mot de passe généré automatiquement, et les autres appareils doivent également utiliser le mot de passe généré automatiquement pour déchiffrer les données",
   "changeE2EEPasswd": "Définir le mot de passe de cryptage de bout en bout",
   "setPasswd": "Définir le mot de passe",
