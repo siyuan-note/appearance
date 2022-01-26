@@ -308,7 +308,7 @@
   "useDefault": "Open with default program",
   "previous": "Previous",
   "next": "Next",
-  "lockFile0": "Unable to save data",
+  "lockFile0": "Unable to access data",
   "lockFile1": "The data file has been locked by another program. (If a third-party sync disk is used, please check the sync status)",
   "lockFile2": "If the problem still occurs frequently in subsequent use, please report it via <a href=\"https://github.com/siyuan-note/siyuan/issues\" target=\"_blank\">GitHub Issues</a>, thank you!",
   "kernelFault0": "Kernel connection interrupted...",

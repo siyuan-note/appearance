@@ -308,7 +308,7 @@
   "useDefault": "Ouvrir avec le programme par défaut",
   "previous": "Précédent",
   "next": "Prochain",
-  "lockFile0": "Impossible de sauvegarder les données",
+  "lockFile0": "Impossible d'accéder aux données",
   "lockFile1": "Le fichier de données a été verrouillé par un autre programme. (Si un disque de synchronisation tiers est utilisé, veuillez vérifier le statut de synchronisation).",
   "lockFile2": "Si le problème se produit encore fréquemment lors d'une utilisation ultérieure, veuillez le signaler via <a href=\"https://github.com/siyuan-note/siyuan/issues\" target=\"_blank\">GitHub Issues</a>, merci!",
   "kernelFault0": "Connexion au noyau interrompue...",
