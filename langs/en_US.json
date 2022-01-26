@@ -739,7 +739,7 @@
     "40": "Failed to decrypt data",
     "41": "Upload completed",
     "42": "The setting is complete, the application will be closed automatically, please restart later...",
-    "43": "The maximum support of cloud space has been exceeded, and the upload cannot be continued",
+    "43": "The maximum storage capacity of cloud space [%s] has been exceeded, and data upload cannot continue",
     "44": "Parse template failed: %s",
     "45": "Opening, please wait...",
     "46": "The download of the [%s] failed due to network problems, please try again later",

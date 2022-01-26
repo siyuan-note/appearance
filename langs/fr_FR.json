@@ -739,7 +739,7 @@
     "40": "Échec du décryptage des données",
     "41": "Transfert complété",
     "42": "Le paramétrage est terminé, l'application se fermera automatiquement, merci de redémarrer plus tard...",
-    "43": "Le support maximal de l'espace Cloud a été dépassé, et le transfert ne peut pas être poursuivi.",
+    "43": "La capacité de stockage maximale de l'espace cloud [%s] a été dépassée et le téléchargement des données ne peut pas continuer",
     "44": "L'analyse du template a échoué : %s",
     "45": "En cours d'ouverture, veuillez patienter...",
     "46": "Le téléchargement du [%s] a échoué en raison de problèmes de réseau, veuillez réessayer plus tard.",
