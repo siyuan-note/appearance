@@ -1,4 +1,5 @@
 {
+  "themeJSReload": "當前主題使用了 JavaScript，切換時會刷新界面，是否繼續？",
   "spaceInZE": "中西文間插入空格",
   "dragPosition": "拖動圖像重新定位",
   "exportPDF0": "頁面大小",
