@@ -1,4 +1,6 @@
 {
+  "releaseDate": "Release Date",
+  "pkgSize": "Package size",
   "themeJSReload": "The current theme uses JavaScript, the interface will be refreshed when switching, do you want to continue?",
   "spaceInZE": "Insert a space between Chinese and Western",
   "dragPosition": "Drag image to reposition",

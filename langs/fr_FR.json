@@ -1,4 +1,6 @@
 {
+  "releaseDate": "Date de sortie",
+  "pkgSize": "Taille du package",
   "themeJSReload": "Le thème actuel utilise JavaScript, l'interface sera rafraîchie lors du changement, voulez-vous continuer ?",
   "spaceInZE": "Insérer un espace entre les langues chinoise et occidentale",
   "dragPosition": "Faites glisser l'image pour la repositionner",
