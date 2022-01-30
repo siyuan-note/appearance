@@ -1,4 +1,5 @@
 {
+  "netImg2LocalAsset": "Convert network images to local assets",
   "releaseDate": "Release Date",
   "pkgSize": "Package size",
   "themeJSReload": "The current theme uses JavaScript, the interface will be refreshed when switching, do you want to continue?",
@@ -817,6 +818,9 @@
     "115": "Please configure [Settings - Export - Pandoc executable path] first",
     "116": "Processing, please wait...",
     "117": "[%s] is not a valid Pandoc executable",
-    "118": "The current settings do not allow the creation of sub-documents under a document 7 levels deep"
+    "118": "The current settings do not allow the creation of sub-documents under a document 7 levels deep",
+    "119": "Downloading web image [%s]",
+    "120": "Download complete, [%d] files total",
+    "121": "There is no network image in this document"
   }
 }
