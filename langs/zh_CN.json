@@ -2,7 +2,6 @@
   "netImg2LocalAsset": "网络图片转换为本地资源文件",
   "releaseDate": "发布日期",
   "pkgSize": "包大小",
-  "themeJSReload": "当前主题使用了 JavaScript，切换时会刷新界面，是否继续？",
   "spaceInZE": "中西文间插入空格",
   "dragPosition": "上下拖动图片以调整位置",
   "exportPDF0": "页面大小",
