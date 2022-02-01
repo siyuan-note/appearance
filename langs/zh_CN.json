@@ -130,7 +130,7 @@
   "stickOpen": "保持全部展开",
   "cloud": "云端",
   "setEmojiTip": "请在 [设置 - 外观] 中添加自定义表情",
-  "openSyncTip": "请在 [设置 - 云端 - 设置 - 最后一步] 中开启云端同步",
+  "openSyncTip": "请在 [设置 - 启用云端同步] 中开启云端同步",
   "openSyncTip1": "启用云端同步",
   "openSyncTip2": "从禁用改为启用时建议手动点击同步按钮触发一次同步",
   "cloudSync": "云端同步",
