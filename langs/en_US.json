@@ -126,11 +126,9 @@
   "cloudIntro11": "One-click to copy the document to the Wechat MP, Zhihu, Yuque etc. platforms",
   "selectAll": "Select all",
   "reposTip": "The name of the cloud synchronization directory corresponding to the current workspace, which can be selected on other devices after creation on the main device",
-  "syncTip": "The synchronization function can only be activated after adding/selecting the cloud synchronization directory",
   "stickOpen": "Keep all opened",
   "cloud": "Cloud",
   "setEmojiTip": "Please go to [Settings - Appearance to add emoji]",
-  "openSyncTip": "Please enable cloud sync in [Settings - Enable Cloud Sync]",
   "openSyncTip1": "Enable cloud sync",
   "openSyncTip2": "When changing from disabled to enabled, it is recommended to manually click the sync button to trigger a synchronization",
   "cloudSync": "Cloud sync",
@@ -819,6 +817,8 @@
     "119": "Downloading web image [%s]",
     "120": "Download complete, [%d] files total",
     "121": "There is no network image in this document",
-    "122": "This function needs to be configured on SiYuan desktop"
+    "122": "This function needs to be configured on SiYuan desktop",
+    "123": "The synchronization function can only be activated after adding/selecting the cloud synchronization directory",
+    "124": "Please enable cloud sync in [Settings - Enable Cloud Sync]"
   }
 }
