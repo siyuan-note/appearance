@@ -818,6 +818,7 @@
     "118": "The current settings do not allow the creation of sub-documents under a document 7 levels deep",
     "119": "Downloading web image [%s]",
     "120": "Download complete, [%d] files total",
-    "121": "There is no network image in this document"
+    "121": "There is no network image in this document",
+    "122": "This function needs to be configured on SiYuan desktop"
   }
 }
