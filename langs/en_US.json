@@ -219,7 +219,6 @@
   "customSort": "Custom Sorting",
   "downloadingUpdate": "Downloading the update package, please wait...",
   "collapse": "Collapse",
-  "needVIP": "This feature requires <a target='_blank' href='https://b3log.org/siyuan/pricing.html'>paid subscription</a> (If you have subscribed, please refresh or log in again in settings - account)",
   "blockEmbed": "Embed Block",
   "gutterTip": "Drag to move position<br>Click Open the menu<br>⌘Click Zoom In<br>⌥Click Expand/Collapse<br>⇧Click Update attribute",
   "gutterTip2": "Click to open the menu<br>⇧Click Update attribute",
