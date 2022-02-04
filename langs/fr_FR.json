@@ -1,5 +1,5 @@
 {
-  "crossPageUse": "Utilisez ${} majuscule pour une sélection multiple sur plusieurs pages",
+  "crossPageUse": "Conseils pour utiliser plusieurs sélections sur plusieurs pages : cliquez à la position de départ et, après avoir fait défiler la page, à la position de fin ${}",
   "type": "Type",
   "searchType": "Type (rechercher dans les types activés suivants)",
   "searchAttr": "Attribut (recherche non seulement dans le contenu, mais aussi dans les attributs activés suivants)",
