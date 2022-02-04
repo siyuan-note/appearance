@@ -1,4 +1,5 @@
 {
+  "crossPageUse": "Utilisez ${} majuscule pour une sélection multiple sur plusieurs pages",
   "type": "Type",
   "searchType": "Type (rechercher dans les types activés suivants)",
   "searchAttr": "Attribut (recherche non seulement dans le contenu, mais aussi dans les attributs activés suivants)",

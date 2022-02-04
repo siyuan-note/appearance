@@ -1,4 +1,5 @@
 {
+  "crossPageUse": "Use ${} for multi-selection across pages",
   "type": "Type",
   "searchType": "Type (search in the following enabled types)",
   "searchAttr": "Attribute (search not only in the content, but also in the following enabled attributes)",
