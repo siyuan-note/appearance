@@ -1,4 +1,9 @@
 {
+  "type": "Type",
+  "searchType": "Type (rechercher dans les types activés suivants)",
+  "searchAttr": "Attribut (recherche non seulement dans le contenu, mais aussi dans les attributs activés suivants)",
+  "searchBackmention": "Mentions de backlink (les mentions de backlink à partir desquelles les mots-clés de recherche sont obtenus)",
+  "searchVirtualRef": "Référence virtuelle (les mots-clés de recherche de référence virtuelle sont obtenus à partir de)",
   "netImg2LocalAsset": "Convertir des images réseau en actifs locaux",
   "releaseDate": "Date de sortie",
   "pkgSize": "Taille du package",
