@@ -821,6 +821,7 @@
     "121": "Il n'y a pas d'image réseau dans ce document",
     "122": "Cette fonction doit être configurée sur le bureau SiYuan",
     "123": "Ajouter/sélectionner un répertoire de synchronisation Cloud avant d'activer la synchronisation",
-    "124": "Veuillez activer la synchronisation cloud dans [Paramètres - Activer la synchronisation cloud]"
+    "124": "Veuillez activer la synchronisation cloud dans [Paramètres - Activer la synchronisation cloud]",
+    "125": "Le nom du document ne peut pas effectuer une recherche et un remplacement"
   }
 }

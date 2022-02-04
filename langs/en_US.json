@@ -821,6 +821,7 @@
     "121": "There is no network image in this document",
     "122": "This function needs to be configured on SiYuan desktop",
     "123": "The synchronization function can only be activated after adding/selecting the cloud synchronization directory",
-    "124": "Please enable cloud sync in [Settings - Enable Cloud Sync]"
+    "124": "Please enable cloud sync in [Settings - Enable Cloud Sync]",
+    "125": "The document name cannot perform a find and replace"
   }
 }
