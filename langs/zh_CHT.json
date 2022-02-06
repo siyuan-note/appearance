@@ -261,6 +261,7 @@
   "exportTplSucc": "範本匯出成功",
   "exportTplTip": "該數據已經存在，是否需要覆蓋？",
   "globalSearch": "全域搜索",
+  "stickSearch": "固定搜索",
   "resetLayout1": "重置佈局",
   "zoomIn": "放大",
   "zoomOut": "縮小",

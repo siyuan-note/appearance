@@ -261,6 +261,7 @@
   "exportTplSucc": "The template was exported successfully",
   "exportTplTip": "The data already exists, do you need to overwrite it?",
   "globalSearch": "Global Search",
+  "stickSearch": "Stick Search",
   "resetLayout1": "Reset Layout",
   "zoomIn": "Zoom In",
   "zoomOut": "Zoom Out",
