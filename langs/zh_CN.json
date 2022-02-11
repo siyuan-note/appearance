@@ -5,7 +5,7 @@
   "searchAttr": "属性（不仅在内容中进行搜索，同时也会在以下启用的属性中搜索）",
   "searchBackmention": "反链提及（反链提及搜索关键字从以下方式获得）",
   "searchVirtualRef": "虚拟引用（虚拟引用搜索关键字从以下方式获得）",
-  "netImg2LocalAsset": "网络图片转换为本地资源文件",
+  "netImg2LocalAsset": "网络图片转换为资源文件",
   "releaseDate": "发布日期",
   "pkgSize": "包大小",
   "spaceInZE": "中西文间插入空格",
