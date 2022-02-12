@@ -485,7 +485,7 @@
   "md27": "The code block shows the line number",
   "md28": "After enabling, the code block will display the line number",
   "md29": "Number of Tab Spaces",
-  "md30": "Configure to 0, use the default Tab width (usually 8 spaces)",
+  "md30": "Replaces with spaces only when tab is pressed, does not replace tabs in clipboard with spaces",
   "md31": "Code block wraps",
   "md32": "After enabling, the content in the code block will wrap automatically",
   "md33": "Virtual Reference",
