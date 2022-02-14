@@ -1,4 +1,5 @@
 {
+  "mergeCell": "Fusionner la cellule",
   "cancelMerged": "Annuler la fusion de cellules",
   "useDefaultWidth": "Utiliser la largeur de colonne par défaut",
   "crossPageUse": "Conseils pour utiliser plusieurs sélections sur plusieurs pages : cliquez à la position de départ et, après avoir fait défiler la page, à la position de fin ${}",

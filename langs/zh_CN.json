@@ -1,4 +1,5 @@
 {
+  "mergeCell": "合并单元格",
   "cancelMerged": "拆分单元格",
   "useDefaultWidth": "使用默认列宽",
   "crossPageUse": "跨页多选使用提示：在开始位置单击，滚动页面以后在结束位置 ${}",

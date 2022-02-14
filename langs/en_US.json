@@ -1,4 +1,5 @@
 {
+  "mergeCell": "Merge Cell",
   "cancelMerged": "Cancel cell merge",
   "useDefaultWidth": "Use Default Column Width",
   "crossPageUse": "Tips for using multiple selections across pages: click at the start position, and after scrolling the page, at the end position ${}",
