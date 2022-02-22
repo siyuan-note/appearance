@@ -161,7 +161,7 @@
   "changeE2EEPasswd": "Définir le mot de passe de cryptage de bout en bout",
   "setPasswd": "Définir le mot de passe",
   "e2eePasswd": "Mot de passe de cryptage de bout en bout",
-  "passwdSet": "Le mot de passe a été défini",
+  "passwdSet": "Le mot de passe a été défini (Si vous avez besoin de réinitialiser votre mot de passe, veuillez vous référer à la FAQ du document d'aide)",
   "e2eePasswdTip": "Le même mot de passe doit être défini sur tous les appareils, une fois défini, il ne prend pas en charge la modification et la visualisation",
   "addAttr": "Ajouter",
   "addTag": "Ajouter Tag",

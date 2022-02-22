@@ -161,7 +161,7 @@
   "changeE2EEPasswd": "Set the end-to-end encryption password",
   "setPasswd": "Set it",
   "e2eePasswd": "End-to-end encryption password",
-  "passwdSet": "Password has been set",
+  "passwdSet": "Password has been set (If you need to reset the password, please refer to the help document FAQ)",
   "e2eePasswdTip": "The same password must be set on all devices, once set, it does not support modification and viewing",
   "addAttr": "Add",
   "addTag": "Add Tag",

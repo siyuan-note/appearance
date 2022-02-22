@@ -161,7 +161,7 @@
   "changeE2EEPasswd": "設置端到端加密密碼",
   "setPasswd": "設置密碼",
   "e2eePasswd": "端到端加密密碼",
-  "passwdSet": "密碼已經設置",
+  "passwdSet": "密碼已經設置（如果需要重置密碼，請參考幫助文檔常見問題）",
   "e2eePasswdTip": "所有設備上必須設置相同的密碼，一旦設置就不支援修改和查看",
   "addAttr": "新增",
   "addTag": "新增標籤",
