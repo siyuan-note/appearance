@@ -829,6 +829,7 @@
     "122": "This function needs to be configured on SiYuan desktop",
     "123": "The synchronization function can only be activated after adding/selecting the cloud synchronization directory",
     "124": "Please enable cloud sync in [Settings - Enable Cloud Sync]",
-    "125": "The document name cannot perform a find and replace"
+    "125": "The document name cannot perform a find and replace",
+    "126": "Bookmark cannot be empty"
   }
 }
