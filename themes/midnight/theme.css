@@ -158,6 +158,6 @@
     mix-blend-mode: screen;
 }
 
-.b3-text-filed::-webkit-calendar-picker-indicator {
+.b3-text-field::-webkit-calendar-picker-indicator {
     filter: invert(1)
 }
