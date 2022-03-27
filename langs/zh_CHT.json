@@ -1,4 +1,5 @@
 {
+  "matchDiacritics": "符合變音符號",
   "foldTip": "確定修改為編輯模式並記錄折疊狀態？",
   "copyHPath": "複製可讀路徑",
   "justify": "兩側對齊",
