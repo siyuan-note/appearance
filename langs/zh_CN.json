@@ -1,4 +1,5 @@
 {
+  "hideHeadingBelowBlocks": "Hide blocks below heading",
   "matchDiacritics": "匹配变音符号",
   "foldTip": "确定修改为编辑模式并记录折叠状态？",
   "copyHPath": "复制可读路径",
