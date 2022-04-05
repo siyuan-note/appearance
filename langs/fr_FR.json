@@ -837,6 +837,10 @@
     "125": "Le nom du document ne peut pas effectuer une recherche et un remplacement",
     "126": "Les signets ne peuvent pas être vides",
     "127": "Il reste [%d] jours avant l'expiration de l'abonnement, après quoi les données cloud seront complètement supprimées. Veuillez visiter <a target='_blank' href='https://ld246.com/subscribe/ siyuan pour le renouvellement '>ici</a>, si vous n'avez pas besoin de renouveler, veuillez vous déconnecter de votre compte pour fermer le rappel",
-    "128": "L'abonnement a expiré, les données cloud seront complètement supprimées après l'expiration. Pour renouveler, veuillez visiter <a target='_blank' href='https://ld246.com/subscribe/siyuan'>ici</a > , si vous n'avez pas besoin de renouveler, veuillez vous déconnecter de votre compte pour fermer le rappel"
+    "128": "L'abonnement a expiré, les données cloud seront complètement supprimées après l'expiration. Pour renouveler, veuillez visiter <a target='_blank' href='https://ld246.com/subscribe/siyuan'>ici</a > , si vous n'avez pas besoin de renouveler, veuillez vous déconnecter de votre compte pour fermer le rappel",
+    "129": "Fichier transféré %d\noctets reçus %s\n",
+    "130": "Fichier transféré %d\noctets envoyés %s\n",
+    "131": "Temps de téléchargement %.2fs",
+    "132": "Le téléchargement a pris %.2fs"
   }
 }
