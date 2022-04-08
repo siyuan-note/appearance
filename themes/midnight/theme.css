@@ -40,6 +40,9 @@
     /* 提示 */
     --b3-tooltips-color: rgba(70, 72, 76, .86);
 
+    /* 遮罩 */
+    --b3-mask-background: rgba(0, 0, 0, 0.78);
+
     /* 卡片背景 */
     --b3-card-error-color: rgb(250, 179, 174);
     --b3-card-error-background: #280a08;
