@@ -1,4 +1,6 @@
 {
+  "turnToStaticRef": "Turn to static anchor text reference",
+  "turnToDynamicRef": "Turn to dynamic anchor text reference",
   "sizeLimit": "Limit",
   "trafficStat": "Traffic Statistics",
   "hideHeadingBelowBlocks": "Hide blocks below heading",
@@ -336,7 +338,6 @@
   "exporting": "Exporting, please wait...",
   "exported": "Export complete: ",
   "refExpired": "Search content block does not exist",
-  "switchBlock": "Convert to content block reference",
   "emptyContent": "No related content",
   "useBrowserView": "View in the browser",
   "userLocalPDF": "Open with local PDF tool",

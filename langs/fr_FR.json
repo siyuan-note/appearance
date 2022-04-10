@@ -1,4 +1,6 @@
 {
+  "turnToStaticRef": "Passer à la référence de texte d'ancre statique",
+  "turnToDynamicRef": "Passer à la référence de texte d'ancre dynamique",
   "sizeLimit": "Limite",
   "trafficStat": "Statistiques de trafic",
   "hideHeadingBelowBlocks": "Masquer les blocs sous l'en-tête",
@@ -336,7 +338,6 @@
   "exporting": "En cours d'exportation, veuillez patienter...",
   "exported": "Exportation terminée: ",
   "refExpired": "Le bloc de contenu de recherche n'existe pas",
-  "switchBlock": "Convertir en référence de bloc de contenu",
   "emptyContent": "Aucun contenu pertinent pour le moment",
   "useBrowserView": "Afficher dans le navigateur",
   "userLocalPDF": "Ouvrir avec un outil PDF local",

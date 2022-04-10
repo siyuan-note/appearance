@@ -1,4 +1,6 @@
 {
+  "turnToStaticRef": "转为静态锚文本引用",
+  "turnToDynamicRef": "转为动态锚文本引用",
   "sizeLimit": "上限",
   "trafficStat": "流量统计",
   "hideHeadingBelowBlocks": "隐藏标题下方的块",
@@ -336,7 +338,6 @@
   "exporting": "正在导出，请稍等...",
   "exported": "导出完成：",
   "refExpired": "不存在符合条件的内容块",
-  "switchBlock": "转换为引用块",
   "emptyContent": "暂无相关内容",
   "useBrowserView": "在浏览器中查看",
   "userLocalPDF": "使用本地 PDF 工具打开",
