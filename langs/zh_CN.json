@@ -1,4 +1,5 @@
 {
+  "inbox": "收集箱",
   "turnToStaticRef": "转为静态锚文本引用",
   "turnToDynamicRef": "转为动态锚文本引用",
   "sizeLimit": "上限",
