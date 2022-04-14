@@ -1,5 +1,6 @@
 {
-  "收件箱": "收件箱",
+  "feedback": "反饋",
+  "inbox": "收件箱",
   "turnToStaticRef": "轉為靜態錨文本引用",
   "turnToDynamicRef": "轉為動態錨文本引用",
   "sizeLimit": "上限",

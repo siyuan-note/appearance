@@ -1,4 +1,5 @@
 {
+  "feedback": "Commentaires",
   "inbox": "Boîte de réception",
   "turnToStaticRef": "Passer à la référence de texte d'ancre statique",
   "turnToDynamicRef": "Passer à la référence de texte d'ancre dynamique",
