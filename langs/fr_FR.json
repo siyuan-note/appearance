@@ -31,6 +31,7 @@
   "exportPDF1": "Page paysage",
   "exportPDF2": "Marges de page",
   "exportPDF3": "Échelle de page",
+  "exportPDF4": "Supprimer le répertoire des actifs",
   "upload": "Télécharger",
   "defaultPasswordTip": "Après avoir utilisé le mot de passe généré automatiquement, les autres appareils doivent également utiliser le mot de passe généré automatiquement",
   "customPassword": "mot de passe personnalisé",

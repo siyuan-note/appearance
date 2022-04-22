@@ -31,6 +31,7 @@
   "exportPDF1": "Landscape page",
   "exportPDF2": "Page margins",
   "exportPDF3": "Page Scale",
+  "exportPDF4": "Remove assets directory",
   "upload": "Upload",
   "defaultPasswordTip": "After using the auto-generated password, other devices must also use the auto-generated password",
   "customPassword": "Custom password",

@@ -31,6 +31,7 @@
   "exportPDF1": "橫向頁面",
   "exportPDF2": "頁面邊距",
   "exportPDF3": "頁面縮放",
+  "exportPDF4": "移除 assets 目錄",
   "upload": "上傳",
   "defaultPasswordTip": "使用自動生成密碼後其他設備也都必須使用自動生成密碼",
   "customPassword": "自定義密碼",
