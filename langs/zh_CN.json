@@ -1,4 +1,6 @@
 {
+  "newDataTransfer": "新的数据传输机制",
+  "newDataTransferTip": "切换后请手动点击同步按钮触发一次同步",
   "feedback": "反馈",
   "inbox": "收集箱",
   "turnToStaticRef": "转为静态锚文本引用",

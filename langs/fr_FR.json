@@ -1,4 +1,6 @@
 {
+  "newDataTransfer": "Nouveau mécanisme de transfert de données",
+  "newDataTransferTip": "Après la commutation, veuillez cliquer manuellement sur le bouton de synchronisation pour déclencher une synchronisation",
   "feedback": "Commentaires",
   "inbox": "Boîte de réception",
   "turnToStaticRef": "Passer à la référence de texte d'ancre statique",

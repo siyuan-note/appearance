@@ -1,4 +1,6 @@
 {
+  "newDataTransfer": "New data transfer mechanism",
+  "newDataTransferTip": "After switching, please manually click the sync button to trigger a sync",
   "feedback": "Feedback",
   "inbox": "Inbox",
   "turnToStaticRef": "Turn to static anchor text reference",
