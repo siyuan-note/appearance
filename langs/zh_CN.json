@@ -1,4 +1,5 @@
 {
+  "rollback": "回滚",
   "custom": "自定义",
   "newDataTransfer": "新的数据传输机制",
   "newDataTransferTip": "切换后请手动点击同步按钮触发一次同步",

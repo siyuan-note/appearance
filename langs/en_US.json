@@ -1,4 +1,5 @@
 {
+  "rollback": "Rollback",
   "custom": "Custom",
   "newDataTransfer": "New data transfer mechanism",
   "newDataTransferTip": "After switching, please manually click the sync button to trigger a sync",
