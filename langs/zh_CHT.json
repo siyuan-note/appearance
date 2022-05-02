@@ -1,4 +1,5 @@
 {
+  "querySyntax": "查詢語法",
   "rollback": "回滾",
   "custom": "自定義",
   "newDataTransfer": "新的數據傳輸機制",
