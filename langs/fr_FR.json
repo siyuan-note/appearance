@@ -1,4 +1,5 @@
 {
+  "removedNotebook": "Cahier supprimé",
   "querySyntax": "Syntaxe de la requête",
   "rollback": "Rollback",
   "personnalisé": "Personnalisé",
@@ -460,7 +461,7 @@
   "account13": "Les remboursements ne seront plus pris en charge après l'utilisation du code d'abonnement. Devriez-vous utiliser le code d'abonnement ?",
   "priceAnnual": "$72",
   "year": "année",
-  "history": "Histoire",
+  "dataHistory": "Historique des données",
   "quitApp": "Quitter?",
   "reset": "Réinitialiser",
   "siyuanNote": "SiYuan",

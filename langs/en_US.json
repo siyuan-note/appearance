@@ -1,4 +1,5 @@
 {
+  "removedNotebook": "Removed Notebook",
   "querySyntax": "Query Syntax",
   "rollback": "Rollback",
   "custom": "Custom",
@@ -460,7 +461,7 @@
   "account13": "Après avoir utilisé le code de parrainage, les remboursements ne seront plus pris en charge. Faut-il utiliser le code d'abonnement ?",
   "priceAnnual": "$72",
   "year": "year",
-  "history": "History",
+  "dataHistory": "Data History",
   "quitApp": "Quit?",
   "reset": "Reset",
   "siyuanNote": "SiYuan",
