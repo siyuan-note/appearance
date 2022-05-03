@@ -851,6 +851,7 @@
     "130": "Fichier transféré %d\noctets envoyés %s\n",
     "131": "Temps de téléchargement %.2fs",
     "132": "Le téléchargement a pris %.2fs",
-    "133": "Aucune modification des données locales"
+    "133": "Aucune modification des données locales",
+    "134": "La synchronisation des données a été automatiquement désactivée pour éviter que les données nouvellement restaurées ne soient écrasées par la synchronisation"
   }
 }

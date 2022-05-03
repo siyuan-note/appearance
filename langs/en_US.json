@@ -851,6 +851,7 @@
     "130": "Number of files transferred %d\nTotal bytes sent %s\n",
     "131": "Downloaded in %.2fs",
     "132": "Uploaded in %.2fs",
-    "133": "No changes to local data"
+    "133": "No changes to local data",
+    "134": "Data synchronization has been automatically disabled to prevent the newly restored data from being overwritten by synchronization"
   }
 }
