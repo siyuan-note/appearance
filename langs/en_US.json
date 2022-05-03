@@ -852,6 +852,6 @@
     "131": "Downloaded in %.2fs",
     "132": "Uploaded in %.2fs",
     "133": "No changes to local data",
-    "134": "Data synchronization has been automatically disabled to prevent the newly restored data from being overwritten by synchronization"
+    "134": "In order to prevent the newly restored data from being overwritten by synchronization, the data synchronization function has been automatically suspended"
   }
 }
