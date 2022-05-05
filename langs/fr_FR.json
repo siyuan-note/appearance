@@ -272,7 +272,7 @@
   "moveToBottomRight": "Déplacer vers la Bas à Droit",
   "accountDisplayTitle": "Affichage ou pas de l'icône du titre dans la barre supérieure.",
   "accountDisplayVIP": "Affichage ou pas de l'icône VIP dans la barre supérieure.",
-  "undoConfirm": "Etes-vous sûr que le retour à la <b>${date}</b>?",
+  "rollbackConfirm": "La restauration est une opération irréversible. Une fois la restauration effectuée, les données ne peuvent pas être restaurées à leur état actuel. Êtes-vous sûr d'utiliser <b>${date}</b> pour la restauration ?",
   "pdfTip": "L'exportation de PDF ne supporte pas le thème Dark",
   "pdfConfirm": "Voulez-vous continuer à exporter avec le thème clear sélectionné ?",
   "import": "Importer",

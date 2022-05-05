@@ -272,7 +272,7 @@
   "moveToBottomRight": "Move to the Bottom Right",
   "accountDisplayTitle": "Whether to display the title icon at the top bar",
   "accountDisplayVIP": "Whether to display the VIP icon at the top bar",
-  "undoConfirm": "Are you sure rollback to the <b>${date}</b>?",
+  "rollbackConfirm": "Rollback is an irreversible operation. Once the rollback is performed, the data cannot be returned to the current state. Are you sure to use <b>${date}</b> to rollback?",
   "pdfTip": "PDF export does not support Dark theme",
   "pdfConfirm": "Do you want to continue exporting with the selected Light theme?",
   "import": "Import",
