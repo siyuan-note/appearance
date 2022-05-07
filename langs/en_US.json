@@ -1,6 +1,6 @@
 {
+  "includeChildDoc": "Include child documents",
   "text": "Text",
-  "asteriskPlaceholder": "* placeholder",
   "lastUsed": "Last Used",
   "removedNotebook": "Removed Notebook",
   "querySyntax": "Query Syntax",

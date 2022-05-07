@@ -1,6 +1,6 @@
 {
+  "includeChildDoc": "包含子文档",
   "text": "文本",
-  "asteriskPlaceholder": "* 占位符",
   "lastUsed": "最近一次操作",
   "removedNotebook": "已删除的笔记本",
   "querySyntax": "查询语法",
