@@ -1,4 +1,6 @@
 {
+  "texte": "Texte",
+  "asteriskPlaceholder": "* espace réservé",
   "lastUsed": "dernière utilisée",
   "removedNotebook": "Cahier supprimé",
   "querySyntax": "Syntaxe de la requête",
