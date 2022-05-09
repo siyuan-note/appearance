@@ -847,7 +847,7 @@
     "122": "Cette fonction doit être configurée sur le bureau SiYuan",
     "123": "Ajouter/sélectionner un répertoire de synchronisation Cloud avant d'activer la synchronisation",
     "124": "Veuillez activer la synchronisation cloud dans [Paramètres - Activer la synchronisation cloud]",
-    "125": "TODO",
+    "125": "Il y a trop d'échecs de téléchargement dans la synchronisation automatique. Veuillez essayer de déclencher manuellement la synchronisation. Si le problème persiste, veuillez le signaler via <a href=\"https://github.com/siyuan-note/siyuan/issues\" target=\"_blank\">GitHub Issues</a>",
     "126": "Les signets ne peuvent pas être vides",
     "127": "Il reste [%d] jours avant l'expiration de l'abonnement, après quoi les données cloud seront complètement supprimées. Veuillez visiter <a target='_blank' href='https://ld246.com/subscribe/ siyuan pour le renouvellement '>ici</a>, si vous n'avez pas besoin de renouveler, veuillez vous déconnecter de votre compte pour fermer le rappel",
     "128": "L'abonnement a expiré, les données cloud seront complètement supprimées après l'expiration. Pour renouveler, veuillez visiter <a target='_blank' href='https://ld246.com/subscribe/siyuan'>ici</a > , si vous n'avez pas besoin de renouveler, veuillez vous déconnecter de votre compte pour fermer le rappel",
