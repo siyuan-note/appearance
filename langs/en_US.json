@@ -1,4 +1,6 @@
 {
+  "exportDataTip": "Package and export all files in the <code>workspace/data/</code> folder as a zip archive",
+  "importDataTip": "Import the exported zip archive, overwriting the <code>workspace/data/</code> folder by path",
   "includeChildDoc": "Include child documents",
   "text": "Text",
   "lastUsed": "Last Used",

@@ -1,4 +1,6 @@
 {
+  "exportDataTip": "Empaquetez et exportez tous les fichiers du dossier <code>workspace/data/</code> sous forme d'archive zip",
+  "importDataTip": "Importer l'archive zip exportée, en écrasant le dossier <code>workspace/data/</code> par le chemin",
   "includeChildDoc": "Inclure les documents enfants",
   "text": "Texte",
   "lastUsed": "dernière utilisée",
