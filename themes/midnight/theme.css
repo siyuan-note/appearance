@@ -16,7 +16,7 @@
     --b3-theme-on-secondary: #fff;
     --b3-theme-on-background: #c9d1d9;
     --b3-theme-on-surface: #9aa0a6;
-    --b3-theme-on-surface-rgb: 154, 160, 166;
+    --b3-theme-on-surface-light: rgba(154, 160, 166, .68);
     --b3-theme-on-error: #fff;
 
     /* 字体 */
