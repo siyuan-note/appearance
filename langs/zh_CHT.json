@@ -1,4 +1,5 @@
 {
+  "activationCode": "激活碼",
   "exportDataTip": "將 <code>工作空間/data/</code> 文件夾下的所有文件以 zip 壓縮包方式打包導出",
   "importDataTip": "將導出的 zip 壓縮包導入，按路徑覆蓋 <code>工作空間/data/</code> 文件夾",
   "includeChildDoc": "包含子文檔",
@@ -324,8 +325,6 @@
   "font": "字體",
   "folder": "資料夾",
   "day": "天",
-  "subscriptionCount": "推薦",
-  "refCode": "訂閱推薦碼",
   "pin": "釘選",
   "unpin": "取消釘選",
   "createdAt": "創建於",
@@ -459,7 +458,6 @@
   "account6": "距訂閱過期還剩",
   "account7": "更多進階特性",
   "account8": "端到端加密同步",
-  "account9": "\uD83C\uDF81 使用推薦碼",
   "account10": "年付訂閱",
   "account11": "早鳥優惠活動結束還剩",
   "account12": "相伴一生",

@@ -1,4 +1,5 @@
 {
+  "activationCode": "Activation code",
   "exportDataTip": "Package and export all files in the <code>workspace/data/</code> folder as a zip archive",
   "importDataTip": "Import the exported zip archive, overwriting the <code>workspace/data/</code> folder by path",
   "includeChildDoc": "Include child documents",
@@ -324,8 +325,6 @@
   "font": "Font",
   "folder": "Folder",
   "day": "Days",
-  "subscriptionCount": "Recommendation",
-  "refCode": "Referral code",
   "pin": "Pin",
   "unpin": "Unpin",
   "createdAt": "Created at",
@@ -459,7 +458,6 @@
   "account6": "Remaining before subscription expires",
   "account7": "More advanced features",
   "account8": "End-to-End encryption sync",
-  "account9": "\uD83C\uDF81 Use referral code",
   "account10": "Annual subscription",
   "account11": "Until the end of the early bird discount",
   "account12": "Life companion",
