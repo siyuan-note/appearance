@@ -1,9 +1,9 @@
 :root {
     /* 主色 */
-    --b3-theme-primary: #4285f4;
-    --b3-theme-primary-light: rgba(66, 133, 244, 0.54);
-    --b3-theme-primary-lighter: rgba(66, 133, 244, 0.38);
-    --b3-theme-primary-lightest: rgba(66, 133, 244, 0.12);
+    --b3-theme-primary: rgb(88 166 255);
+    --b3-theme-primary-light: rgba(88, 166, 255, 0.54);
+    --b3-theme-primary-lighter: rgba(88, 166, 255, 0.38);
+    --b3-theme-primary-lightest: rgba(88, 166, 255, 0.12);
     --b3-theme-secondary: #f3a92f;
     --b3-theme-background: #212224;
     --b3-theme-background-light: #353637;
@@ -120,7 +120,7 @@
 
     /* 代码片段背景 */
     --b3-protyle-code-background: rgba(240, 246, 252, .15);
-    --b3-protyle-code-linenumber-hl: #2a3a52;
+    --b3-protyle-code-linenumber-hl: #26364a;
 
     /* 所见即所得行内元素颜色 */
     --b3-protyle-inline-strong-color: #e8eaed;
