@@ -4,6 +4,7 @@
   "sortByDownloadsDesc": "下載次數降序",
   "sortByDownloadsAsc": "下載次數升序",
   "activationCode": "激活碼",
+  "activationCodePlaceholder": "請在這裡輸入訂閱激活碼",
   "exportDataTip": "將 <code>工作空間/data/</code> 文件夾下的所有文件以 zip 壓縮包方式打包導出",
   "importDataTip": "將導出的 zip 壓縮包導入，按路徑覆蓋 <code>工作空間/data/</code> 文件夾",
   "includeChildDoc": "包含子文檔",
