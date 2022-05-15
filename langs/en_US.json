@@ -1,4 +1,8 @@
 {
+  "sortByUpdateTimeDesc": "Descending by update time",
+  "sortByUpdateTimeAsc": "Ascending by update time",
+  "sortByDownloadsDesc": "Descending by downloads",
+  "sortByDownloadsAsc": "Ascending by downloads",
   "activationCode": "Activation code",
   "exportDataTip": "Package and export all files in the <code>workspace/data/</code> folder as a zip archive",
   "importDataTip": "Import the exported zip archive, overwriting the <code>workspace/data/</code> folder by path",
