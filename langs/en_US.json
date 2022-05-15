@@ -856,6 +856,7 @@
     "131": "Downloaded in %.2fs",
     "132": "Uploaded in %.2fs",
     "133": "No changes to local data",
-    "134": "In order to prevent the newly restored data from being overwritten by synchronization, the data synchronization function has been automatically suspended"
+    "134": "In order to prevent the newly restored data from being overwritten by synchronization, the data synchronization function has been automatically suspended",
+    "135": "The cloud data is incomplete, please change a document on the main device and trigger synchronization, and then trigger synchronization on other devices"
   }
 }

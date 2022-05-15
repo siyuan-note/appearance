@@ -856,6 +856,7 @@
     "131": "Temps de téléchargement %.2fs",
     "132": "Le téléchargement a pris %.2fs",
     "133": "Aucune modification des données locales",
-    "134": "Afin d'éviter que les données nouvellement restaurées ne soient écrasées par la synchronisation, la fonction de synchronisation des données a été automatiquement suspendue"
+    "134": "Afin d'éviter que les données nouvellement restaurées ne soient écrasées par la synchronisation, la fonction de synchronisation des données a été automatiquement suspendue",
+    "135": "Les données cloud sont incomplètes, veuillez modifier un document sur l'appareil principal et déclencher la synchronisation, puis déclencher la synchronisation sur d'autres appareils"
   }
 }
