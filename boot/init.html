@@ -155,7 +155,14 @@
     return value
   }
 
-  document.title = `思源笔记 v${getSearch('v')}`
+  if (navigator.language === 'zh-CN') {
+    document.title = `思源笔记 v${getSearch('v')}`
+    document.querySelector('h1').textContent = '思源笔记'
+  } else {
+    document.title = `SiYuan v${getSearch('v')}`
+    document.querySelector('h1').textContent = 'SiYuan'
+  }
+
   document.getElementById('version').textContent = `Version ${getSearch('v')}`
 
   const langElement = document.getElementById('lang')
@@ -179,7 +186,13 @@
     }).then((result) => {
       if (!result.canceled) {
         const {ipcRenderer} = require('electron')
-        ipcRenderer.send('siyuan-first-init', `${result.filePaths[0]}-${langElement.value.replaceAll('-', '_')}`)
+        const fs = require('fs')
+        const initPath = path.join(result.filePaths[0], 'SiYuan')
+        if (!fs.existsSync(initPath)) {
+          fs.mkdirSync(initPath, {mode: 0o755, recursive: true})
+        }
+        ipcRenderer.send('siyuan-first-init',
+          `${initPath}-${langElement.value.replaceAll('-', '_')}`)
       }
     })
   })
