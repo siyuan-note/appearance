@@ -4,6 +4,11 @@
     <title>思源笔记</title>
     <meta charset="UTF-8">
     <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
         body {
             background-color: #212224;
             text-align: center;
@@ -140,10 +145,16 @@
             border-radius: 3px;
             box-shadow: inset 0 -1px 0 rgba(230, 230, 230, .06);
         }
+
+        .fn__flex-column {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
     </style>
 </head>
 <body>
-<div id="zhCN">
+<div id="zhCN" class="fn__flex-column">
     <img style="width: 88px" src="../../stage/icon.png">
     <h2>思源笔记</h2>
     <div class="version"></div>
@@ -168,12 +179,12 @@
         <div class="fn__space"></div>
         <button class="b3-button fn__flex-center choosePath">选择</button>
     </label>
-    <div style="display: flex;justify-content: space-around;font-size: 14px;margin-top: 28px">
+    <div style="display: flex;justify-content: space-around;font-size: 14px;margin-top: 8px">
         <span>❤️ <a href="https://ld246.com/article/1649901726096" target="_blank">求助反馈建议</a></span>
         <span>🏘️ <a href="https://ld246.com/article/1640266171309" target="_blank">用户社区汇总</a></span>
     </div>
 </div>
-<div class="fn__none" id="enUS">
+<div class="fn__none fn__flex-column" id="enUS">
     <img style="width: 88px" src="../../stage/icon.png">
     <h2>SiYuan</h2>
     <div class="version"></div>
@@ -202,7 +213,7 @@
         <div class="fn__space"></div>
         <button class="b3-button fn__flex-center choosePath">Select</button>
     </label>
-    <div style="display: flex;justify-content: space-around;margin: 8px 0;font-size: 14px">
+    <div style="display: flex;justify-content: space-around;margin-top: 8px;font-size: 14px">
         <span>❤️ Feedback via <a href="https://github.com/siyuan-note/siyuan/issues" target="_blank">GitHub Issues</a></span>
     </div>
 </div>
