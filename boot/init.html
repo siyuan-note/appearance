@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>思源笔记 v${appVer}</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<div>
+    <button id="choosePath">选择路径1</button>
+    <select id="lang">
+        <option value="en-US">English</option>
+        <option value="fr-FR">Français</option>
+        <option value="zh-CN">简体中文</option>
+        <option value="zh-CHT">繁體中文</option>
+    </select>
+</div>
+<script>
+  const langElement = document.getElementById("lang")
+  langElement.value = navigator.language;
+  document.getElementById("choosePath").addEventListener("click", function() {
+    const {dialog} = require('@electron/remote');
+    const path = require('path')
+    dialog.showOpenDialog({
+      defaultPath: path.join("${app.getPath('home')}", 'Documents', 'SiYuan'),
+      properties: ["openDirectory", "createDirectory"],
+    }).then((result) => {
+      if (!result.canceled) {
+        const {ipcRenderer} = require('electron');
+        ipcRenderer.send('siyuan-first-init', `${result.filePaths[0]}-${langElement.value.replaceAll("-", "_")}`);
+      }
+    });
+  })
+</script>
+</body>
+</html>
