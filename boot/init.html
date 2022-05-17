@@ -8,6 +8,12 @@
             background-color: #212224;
             text-align: center;
             color: #c9d1d9;
+            user-select: none;
+        }
+
+        h2 {
+            margin: 6px 0;
+            line-height: 24px;
         }
 
         .b3-select {
@@ -57,10 +63,11 @@
         }
 
         .b3-label {
-            padding: 16px 24px;
+            padding: 12px 24px;
             line-height: 20px;
             display: flex;
             text-align: left;
+            border-bottom: 1px solid rgba(230, 230, 230, .06);
         }
 
         .b3-label__text {
@@ -103,41 +110,96 @@
         #close:hover {
             background-color: #d23f31;
         }
+
+        a {
+            text-decoration: none;
+            color: rgb(88, 166, 255);
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .fn__none {
+            display: none;
+        }
+
+        .version {
+            color: #9aa0a6;
+            margin-bottom: 60px;
+        }
     </style>
 </head>
 <body>
-<div>
+<div id="zhCN">
     <img style="width: 88px" src="../../stage/icon.png">
-    <h1 style="margin: 6px 0;line-height: 32px;">思源笔记</h1>
-    <div id="version" style="color: #9aa0a6;margin-bottom: 60px"></div>
-    <label class="b3-label" style="border-bottom: 1px solid rgba(230, 230, 230, .06);">
-        <div>
-            历史生成间隔（分钟，设置为 0 则禁用）
-            <div class="b3-label__text">历史生成间隔（分钟，设置为 0 则）</div>
-        </div>
-        <div class="fn__space"></div>
-        <button class="b3-button fn__flex-center" id="choosePath">选择路径</button>
-    </label>
+    <h2>思源笔记</h2>
+    <div class="version"></div>
     <label class="b3-label">
         <div>
-            历史生成间隔（分钟，设置为 0 则禁用）
-            <div class="b3-label__text">历史生成间隔（分钟，设置为 0 则禁用）历史生成）</div>
+            语言
+            <div class="b3-label__text">用户界面语言，后续可在 <kbd>设置</kbd> - <kbd>外观</kbd> 中切换</div>
         </div>
         <div class="fn__space"></div>
-        <select class="b3-select" id="lang">
+        <select class="b3-select lang">
             <option value="en-US">English</option>
             <option value="fr-FR">Français</option>
             <option value="zh-CN">简体中文</option>
             <option value="zh-CHT">繁體中文</option>
         </select>
     </label>
-    <svg class="svg" id="min" viewBox="0 0 32 32">
-        <path d="M1.333 14.667h29.333q1.333 0 1.333 1.333v0q0 1.333-1.333 1.333h-29.333q-1.333 0-1.333-1.333v0q0-1.333 1.333-1.333z"></path>
-    </svg>
-    <svg class="svg" id="close" viewBox="0 0 32 32">
-        <path d="M32 3.221l-12.779 12.779 12.779 12.779-3.221 3.221-12.779-12.779-12.779 12.779-3.221-3.221 12.779-12.779-12.779-12.779 3.221-3.221 12.779 12.779 12.779-12.779z"></path>
-    </svg>
+    <label class="b3-label">
+        <div>
+            工作空间
+            <div class="b3-label__text"> 工作空间用于存放数据，后续可在 <kbd>设置</kbd> - <kbd>关于</kbd> 中切换</div>
+        </div>
+        <div class="fn__space"></div>
+        <button class="b3-button fn__flex-center choosePath">选择</button>
+    </label>
+    <div style="display: flex;justify-content: space-around;margin: 8px 0;font-size: 14px">
+        <span>❤️ <a href="https://ld246.com/article/1649901726096" target="_blank">求助反馈建议</a></span>
+        <span>🏘️ <a href="https://ld246.com/article/1640266171309">用户社区汇总</a></span>
+    </div>
 </div>
+<div class="fn__none" id="enUS">
+    <img style="width: 88px" src="../../stage/icon.png">
+    <h2>SiYuan</h2>
+    <div class="version"></div>
+    <label class="b3-label">
+        <div>
+            Language
+            <div class="b3-label__text">User interface language, which can be switched in <kbd>Settings</kbd> - <kbd>Appearance</kbd>
+                later
+            </div>
+        </div>
+        <div class="fn__space"></div>
+        <select class="b3-select lang">
+            <option value="en-US">English</option>
+            <option value="fr-FR">Français</option>
+            <option value="zh-CN">简体中文</option>
+            <option value="zh-CHT">繁體中文</option>
+        </select>
+    </label>
+    <label class="b3-label">
+        <div>
+            Workspace
+            <div class="b3-label__text">The workspace is used to store data, which can be switched in
+                <kbd>Settings</kbd> - <kbd>About</kbd> later
+            </div>
+        </div>
+        <div class="fn__space"></div>
+        <button class="b3-button fn__flex-center choosePath">Select</button>
+    </label>
+    <div style="display: flex;justify-content: space-around;margin: 8px 0;font-size: 14px">
+        <span>❤️ <a href="https://ld246.com/article/1649901726096" target="_blank">GitHub Issue</a></span>
+    </div>
+</div>
+<svg class="svg" id="min" viewBox="0 0 32 32">
+    <path d="M1.333 14.667h29.333q1.333 0 1.333 1.333v0q0 1.333-1.333 1.333h-29.333q-1.333 0-1.333-1.333v0q0-1.333 1.333-1.333z"></path>
+</svg>
+<svg class="svg" id="close" viewBox="0 0 32 32">
+    <path d="M32 3.221l-12.779 12.779 12.779 12.779-3.221 3.221-12.779-12.779-12.779 12.779-3.221-3.221 12.779-12.779-12.779-12.779 3.221-3.221 12.779 12.779 12.779-12.779z"></path>
+</svg>
 <script>
   const getSearch = (key) => {
     if (window.location.search.indexOf('?') === -1) {
@@ -155,18 +217,33 @@
     return value
   }
 
-  if (navigator.language === 'zh-CN') {
-    document.title = `思源笔记 v${getSearch('v')}`
-    document.querySelector('h1').textContent = '思源笔记'
-  } else {
-    document.title = `SiYuan v${getSearch('v')}`
-    document.querySelector('h1').textContent = 'SiYuan'
+  const setLang = (lang) => {
+    if (lang === 'zh-CN') {
+      document.title = `思源笔记 v${getSearch('v')}`
+      document.getElementById('zhCN').classList.remove('fn__none')
+      document.getElementById('enUS').classList.add('fn__none')
+    } else {
+      document.title = `SiYuan v${getSearch('v')}`
+      document.getElementById('zhCN').classList.add('fn__none')
+      document.getElementById('enUS').classList.remove('fn__none')
+    }
   }
 
-  document.getElementById('version').textContent = `Version ${getSearch('v')}`
+  setLang(navigator.language)
 
-  const langElement = document.getElementById('lang')
-  langElement.value = navigator.language
+  document.querySelectorAll('.version').forEach(item => {
+    item.textContent = `v${getSearch('v')}`
+  })
+
+  document.querySelectorAll('.lang').forEach(item => {
+    item.value = navigator.language
+    item.addEventListener('change', () => {
+      document.querySelectorAll('.lang').forEach(item1 => {
+        item1.value = item.value
+      })
+      setLang(item.value)
+    })
+  })
 
   document.getElementById('close').addEventListener('click', () => {
     const {ipcRenderer} = require('electron')
@@ -177,23 +254,25 @@
     getCurrentWindow().minimize()
   })
 
-  document.getElementById('choosePath').addEventListener('click', () => {
-    const {dialog} = require('@electron/remote')
-    const path = require('path')
-    dialog.showOpenDialog({
-      defaultPath: path.join(decodeURIComponent(getSearch('home')), 'Documents'),
-      properties: ['openDirectory', 'createDirectory'],
-    }).then((result) => {
-      if (!result.canceled) {
-        const {ipcRenderer} = require('electron')
-        const fs = require('fs')
-        const initPath = path.join(result.filePaths[0], 'SiYuan')
-        if (!fs.existsSync(initPath)) {
-          fs.mkdirSync(initPath, {mode: 0o755, recursive: true})
+  document.querySelectorAll('.choosePath').forEach((item) => {
+    item.addEventListener('click', () => {
+      const {dialog} = require('@electron/remote')
+      const path = require('path')
+      dialog.showOpenDialog({
+        defaultPath: path.join(decodeURIComponent(getSearch('home')), 'Documents'),
+        properties: ['openDirectory', 'createDirectory'],
+      }).then((result) => {
+        if (!result.canceled) {
+          const {ipcRenderer} = require('electron')
+          const fs = require('fs')
+          const initPath = path.join(result.filePaths[0], 'SiYuan')
+          if (!fs.existsSync(initPath)) {
+            fs.mkdirSync(initPath, {mode: 0o755, recursive: true})
+          }
+          ipcRenderer.send('siyuan-first-init',
+            `${initPath}-${document.querySelector('.lang').value.replaceAll('-', '_')}`)
         }
-        ipcRenderer.send('siyuan-first-init',
-          `${initPath}-${langElement.value.replaceAll('-', '_')}`)
-      }
+      })
     })
   })
 </script>
