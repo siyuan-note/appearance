@@ -78,6 +78,31 @@
         .fn__flex-center {
             align-self: center;
         }
+
+        .svg {
+            position: absolute;
+            right: 24px;
+            top: 0;
+            width: 12px;
+            fill: #9aa0a6;
+            padding: 5px;
+            cursor: pointer
+        }
+
+        .svg:hover {
+            background-color: #353637;
+            fill: #fff;
+        }
+
+        #close {
+            right: 0;
+            width: 8px;
+            padding: 7px 7px;
+        }
+
+        #close:hover {
+            background-color: #d23f31;
+        }
     </style>
 </head>
 <body>
@@ -106,6 +131,12 @@
             <option value="zh-CHT">繁體中文</option>
         </select>
     </label>
+    <svg class="svg" id="min" viewBox="0 0 32 32">
+        <path d="M1.333 14.667h29.333q1.333 0 1.333 1.333v0q0 1.333-1.333 1.333h-29.333q-1.333 0-1.333-1.333v0q0-1.333 1.333-1.333z"></path>
+    </svg>
+    <svg class="svg" id="close" viewBox="0 0 32 32">
+        <path d="M32 3.221l-12.779 12.779 12.779 12.779-3.221 3.221-12.779-12.779-12.779 12.779-3.221-3.221 12.779-12.779-12.779-12.779 3.221-3.221 12.779 12.779 12.779-12.779z"></path>
+    </svg>
 </div>
 <script>
   const getSearch = (key) => {
@@ -126,9 +157,20 @@
 
   document.title = `思源笔记 v${getSearch('v')}`
   document.getElementById('version').textContent = `Version ${getSearch('v')}`
+
   const langElement = document.getElementById('lang')
   langElement.value = navigator.language
-  document.getElementById('choosePath').addEventListener('click', function () {
+
+  document.getElementById('close').addEventListener('click', () => {
+    const {ipcRenderer} = require('electron')
+    ipcRenderer.send('siyuan-first-quit')
+  })
+  document.getElementById('min').addEventListener('click', () => {
+    const {getCurrentWindow} = require('@electron/remote')
+    getCurrentWindow().minimize()
+  })
+
+  document.getElementById('choosePath').addEventListener('click', () => {
     const {dialog} = require('@electron/remote')
     const path = require('path')
     dialog.showOpenDialog({
