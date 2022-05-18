@@ -9,7 +9,7 @@
   "importDataTip": "Importer l'archive zip exportée, en écrasant le dossier <code>workspace/data/</code> par le chemin",
   "includeChildDoc": "Inclure les documents enfants",
   "text": "Texte",
-  "lastUsed": "dernière utilisée",
+  "lastUsed": "Polices récemment utilisées",
   "removedNotebook": "Cahier supprimé",
   "querySyntax": "Syntaxe de la requête",
   "rollback": "Rollback",

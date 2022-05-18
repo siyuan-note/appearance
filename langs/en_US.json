@@ -9,7 +9,7 @@
   "importDataTip": "Import the exported zip archive, overwriting the <code>workspace/data/</code> folder by path",
   "includeChildDoc": "Include child documents",
   "text": "Text",
-  "lastUsed": "Last Used",
+  "lastUsed": "Recently used fonts",
   "removedNotebook": "Removed Notebook",
   "querySyntax": "Query Syntax",
   "rollback": "Rollback",

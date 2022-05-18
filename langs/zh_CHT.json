@@ -9,7 +9,7 @@
   "importDataTip": "將導出的 zip 壓縮包導入，按路徑覆蓋 <code>工作空間/data/</code> 文件夾",
   "includeChildDoc": "包含子文檔",
   "text": "文本",
-  "lastUsed": "最後使用",
+  "lastUsed": "最近使用過的字體",
   "removedNotebook": "已刪除的筆記本",
   "querySyntax": "查詢語法",
   "rollback": "回滾",
