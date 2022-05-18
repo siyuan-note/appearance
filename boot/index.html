@@ -102,9 +102,9 @@
   const redirect = () => {
     const uri = 'http://127.0.0.1:6806'
     if (navigator.userAgent.match(/Android/i))
-      document.location = uri;
+      document.location = uri
     else
-      window.location.replace(uri);
+      window.location.replace(uri)
   }
   (async () => {
     document.getElementById('bg').style.backgroundImage = bgs[(new Date()).getDate()]
