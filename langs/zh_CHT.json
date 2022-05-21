@@ -497,8 +497,6 @@
   "appearance1": "代碼塊主題",
   "appearance10": "關閉按鈕設置",
   "appearance11": "點擊關閉按鈕後縮小到託盤中",
-  "appearance12": "退出介面時關閉kernel",
-  "appearance13": "如果需要在關閉介面時退出Kernel程序可啟用該選項",
   "appearance14": "文檔圖示使用系統原生 Emoji",
   "appearance15": "桌面端預設使用 Twitter Emoji，開啟後將使用系統原生的 Emoji",
   "min": "最小化",

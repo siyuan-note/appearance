@@ -497,8 +497,6 @@
   "appearance1": "Code Block Theme",
   "appearance10": "Close button settings",
   "appearance11": "shrink to the tray after clicking the close button",
-  "appearance12": "Close the kernel when exiting the interface",
-  "appearance13": "If you need to exit the kernel process when closing the interface, you can enable this option",
   "appearance14": "Doc icon uses the system native Emoji",
   "appearance15": "The desktop uses Twitter Emoji by default, and the native Emoji font in the system will be used after it is turned on",
   "min": "Min",
